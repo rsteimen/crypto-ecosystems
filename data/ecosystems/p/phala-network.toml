@@ -100,6 +100,9 @@ url = "https://github.com/Phala-Network/chainextension-registry"
 url = "https://github.com/Phala-Network/claim-token"
 
 [[repo]]
+url = "https://github.com/Phala-Network/closed-beta-submission"
+
+[[repo]]
 url = "https://github.com/Phala-Network/common"
 
 [[repo]]
@@ -107,6 +110,9 @@ url = "https://github.com/Phala-Network/community-bridges"
 
 [[repo]]
 url = "https://github.com/Phala-Network/computation-squid"
+
+[[repo]]
+url = "https://github.com/Phala-Network/computation-squid-lite"
 
 [[repo]]
 url = "https://github.com/Phala-Network/confidential-contract"
@@ -199,6 +205,9 @@ url = "https://github.com/Phala-Network/http_req-sgx"
 url = "https://github.com/Phala-Network/httparse-sgx"
 
 [[repo]]
+url = "https://github.com/Phala-Network/hybrid-indexer"
+
+[[repo]]
 url = "https://github.com/Phala-Network/i2pd"
 
 [[repo]]
@@ -215,6 +224,9 @@ url = "https://github.com/Phala-Network/ink"
 
 [[repo]]
 url = "https://github.com/Phala-Network/ink-validator"
+
+[[repo]]
+url = "https://github.com/Phala-Network/InvArch-XCM-Builder"
 
 [[repo]]
 url = "https://github.com/Phala-Network/js-sdk"
@@ -298,6 +310,9 @@ url = "https://github.com/Phala-Network/pdiem-relayer"
 url = "https://github.com/Phala-Network/phala-blockchain"
 
 [[repo]]
+url = "https://github.com/Phala-Network/phala-blueprint-proposals"
+
+[[repo]]
 url = "https://github.com/Phala-Network/phala-bounty-tracker"
 
 [[repo]]
@@ -305,6 +320,12 @@ url = "https://github.com/Phala-Network/phala-docker"
 
 [[repo]]
 url = "https://github.com/Phala-Network/phala-docs"
+
+[[repo]]
+url = "https://github.com/Phala-Network/phala-docs-old"
+
+[[repo]]
+url = "https://github.com/Phala-Network/phala-gitbook-docs"
 
 [[repo]]
 url = "https://github.com/Phala-Network/phala-parachain.old"
@@ -340,7 +361,13 @@ url = "https://github.com/Phala-Network/phala-world-website"
 url = "https://github.com/Phala-Network/phala_app_misc"
 
 [[repo]]
+url = "https://github.com/Phala-Network/phat-bricks"
+
+[[repo]]
 url = "https://github.com/Phala-Network/phat-contract-examples"
+
+[[repo]]
+url = "https://github.com/Phala-Network/phat-contract-launch-campaign"
 
 [[repo]]
 url = "https://github.com/Phala-Network/phat-contract-ui"
@@ -517,7 +544,13 @@ url = "https://github.com/Phala-Network/substrate-upgrade-workshop"
 url = "https://github.com/Phala-Network/swanky-plugin-phala"
 
 [[repo]]
+url = "https://github.com/Phala-Network/sygma-substrate-pallets"
+
+[[repo]]
 url = "https://github.com/Phala-Network/token-bridge-ui"
+
+[[repo]]
+url = "https://github.com/Phala-Network/tokenomic-contract"
 
 [[repo]]
 url = "https://github.com/Phala-Network/tokio-proxy"
@@ -548,6 +581,9 @@ url = "https://github.com/Phala-Network/wasmi-sgx"
 
 [[repo]]
 url = "https://github.com/Phala-Network/web3index-org"
+
+[[repo]]
+url = "https://github.com/Phala-Network/website-nextjs"
 
 [[repo]]
 url = "https://github.com/Phala-Network/website-ng"

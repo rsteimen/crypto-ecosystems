@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Lisk"
 
-sub_ecosystems = []
+sub_ecosystems = ["Histopia"]
 
 github_organizations = ["https://github.com/LiskHQ"]
 
@@ -122,6 +122,9 @@ url = "https://github.com/LiskArchive/z-schema"
 
 [[repo]]
 url = "https://github.com/LiskHQ/ansible-role-logstash"
+
+[[repo]]
+url = "https://github.com/LiskHQ/app-registry"
 
 [[repo]]
 url = "https://github.com/LiskHQ/blst"

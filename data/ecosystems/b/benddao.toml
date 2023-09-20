@@ -13,6 +13,12 @@ url = "https://github.com/BendDAO/assets"
 url = "https://github.com/BendDAO/bend-apecoin-staking"
 
 [[repo]]
+url = "https://github.com/BendDAO/bend-apestaking-v1"
+
+[[repo]]
+url = "https://github.com/BendDAO/bend-apestaking-v2"
+
+[[repo]]
 url = "https://github.com/BendDAO/bend-brand-logo-assets"
 
 [[repo]]
@@ -44,6 +50,9 @@ url = "https://github.com/BendDAO/bend-lending-periphery"
 
 [[repo]]
 url = "https://github.com/BendDAO/bend-lending-protocol"
+
+[[repo]]
+url = "https://github.com/BendDAO/bend-nft-wrappers"
 
 [[repo]]
 url = "https://github.com/BendDAO/bend-open-meeting"

@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/ergo-pad", "https://github.com/ergop
 url = "https://github.com/ergo-pad/airdropaddressrecorder"
 
 [[repo]]
+url = "https://github.com/ergo-pad/coinecta"
+
+[[repo]]
 url = "https://github.com/ergo-pad/danaides"
 
 [[repo]]
@@ -149,6 +152,9 @@ url = "https://github.com/ergopad/ergopad-tasks"
 
 [[repo]]
 url = "https://github.com/ergopad/more-scala-sdk"
+
+[[repo]]
+url = "https://github.com/ergopad/onchain-notifications-service"
 
 [[repo]]
 url = "https://github.com/ergopad/pratir-backend"

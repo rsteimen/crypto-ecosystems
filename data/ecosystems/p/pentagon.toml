@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/pentagonxyz"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/pentagonxyz/apollo-client"
+
+[[repo]]
 url = "https://github.com/pentagonxyz/bundlr-js-client"
 
 [[repo]]
@@ -53,6 +56,12 @@ url = "https://github.com/pentagonxyz/providers"
 
 [[repo]]
 url = "https://github.com/pentagonxyz/react-native-cloud-fs"
+
+[[repo]]
+url = "https://github.com/pentagonxyz/safe-contracts"
+
+[[repo]]
+url = "https://github.com/pentagonxyz/safe-core-sdk"
 
 [[repo]]
 url = "https://github.com/pentagonxyz/sui"

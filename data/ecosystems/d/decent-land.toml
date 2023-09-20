@@ -28,6 +28,9 @@ url = "https://github.com/decentldotland/ans-for-all"
 url = "https://github.com/decentldotland/ans-gateway"
 
 [[repo]]
+url = "https://github.com/decentldotland/ans-hns"
+
+[[repo]]
 url = "https://github.com/decentldotland/ans-js-sdk"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/decentldotland/ans-lisbon-contract"
 
 [[repo]]
 url = "https://github.com/decentldotland/ans-metrics"
+
+[[repo]]
+url = "https://github.com/decentldotland/ans-nameserver"
 
 [[repo]]
 url = "https://github.com/decentldotland/ans-resolver"
@@ -46,6 +52,9 @@ url = "https://github.com/decentldotland/ans-stats"
 url = "https://github.com/decentldotland/ANS-Testnet-Airdrop"
 
 [[repo]]
+url = "https://github.com/decentldotland/ans-token-snapshot"
+
+[[repo]]
 url = "https://github.com/decentldotland/ANS_UI"
 
 [[repo]]
@@ -53,6 +62,9 @@ url = "https://github.com/decentldotland/ar.page"
 
 [[repo]]
 url = "https://github.com/decentldotland/ark-api"
+
+[[repo]]
+url = "https://github.com/decentldotland/ark-intergalactic-passport"
 
 [[repo]]
 url = "https://github.com/decentldotland/ark-network"
@@ -70,6 +82,9 @@ url = "https://github.com/decentldotland/ark-ui"
 url = "https://github.com/decentldotland/ark-v1-giveaway"
 
 [[repo]]
+url = "https://github.com/decentldotland/ArMoji"
+
+[[repo]]
 url = "https://github.com/decentldotland/decentland-homepage"
 
 [[repo]]
@@ -85,6 +100,9 @@ url = "https://github.com/decentldotland/gate-resolver"
 url = "https://github.com/decentldotland/gitpoap-profile-resolver"
 
 [[repo]]
+url = "https://github.com/decentldotland/icp-molecule"
+
+[[repo]]
 url = "https://github.com/decentldotland/media-kit"
 
 [[repo]]
@@ -97,6 +115,12 @@ url = "https://github.com/decentldotland/molecule-apis-wrapper"
 url = "https://github.com/decentldotland/molecule-web"
 
 [[repo]]
+url = "https://github.com/decentldotland/ONSF"
+
+[[repo]]
+url = "https://github.com/decentldotland/onsf-home"
+
+[[repo]]
 url = "https://github.com/decentldotland/ps-filter"
 
 [[repo]]
@@ -107,6 +131,9 @@ url = "https://github.com/decentldotland/public-square-protocol"
 
 [[repo]]
 url = "https://github.com/decentldotland/public-square-ui"
+
+[[repo]]
+url = "https://github.com/decentldotland/react-arconnect"
 
 [[repo]]
 url = "https://github.com/decentldotland/reddit-archiver"

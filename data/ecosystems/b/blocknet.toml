@@ -145,6 +145,9 @@ url = "https://github.com/blocknetdx/utxo-plugin"
 url = "https://github.com/blocknetdx/xlite"
 
 [[repo]]
+url = "https://github.com/blocknetdx/xlite-daemon"
+
+[[repo]]
 url = "https://github.com/blocknetdx/xlitewallet.com"
 
 [[repo]]
@@ -155,6 +158,9 @@ url = "https://github.com/blocknetdx/xquery-dashboard-backend"
 
 [[repo]]
 url = "https://github.com/blocknetdx/xquery-enduser-dashboard"
+
+[[repo]]
+url = "https://github.com/blocknetdx/XQuery-v1-archive"
 
 [[repo]]
 url = "https://github.com/blocknetdx/xquery-v2-testing"

@@ -46,7 +46,16 @@ url = "https://github.com/LedgerHQ/app-aergo"
 url = "https://github.com/LedgerHQ/app-aeternity"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-age"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-aion"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-ajuna"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-alephzero"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-algorand"
@@ -103,6 +112,9 @@ url = "https://github.com/LedgerHQ/app-blockstack"
 url = "https://github.com/LedgerHQ/app-boilerplate"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-btec"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-cardano"
 
 [[repo]]
@@ -116,6 +128,9 @@ url = "https://github.com/LedgerHQ/app-celo-validator-signer"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-centrifuge"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-concordium"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-conflux"
@@ -218,6 +233,9 @@ url = "https://github.com/LedgerHQ/app-hedera"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-helium"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-helium-solana"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-hive"
@@ -415,6 +433,9 @@ url = "https://github.com/LedgerHQ/app-plugin-ribbon"
 url = "https://github.com/LedgerHQ/app-plugin-ricochet"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-squid"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-staderlabs"
 
 [[repo]]
@@ -434,6 +455,9 @@ url = "https://github.com/LedgerHQ/app-polkadot"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-polymesh"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-pro"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-qrl"
@@ -463,6 +487,9 @@ url = "https://github.com/LedgerHQ/app-safecoin"
 url = "https://github.com/LedgerHQ/app-secret"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-security-key"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-shimmer"
 
 [[repo]]
@@ -473,6 +500,9 @@ url = "https://github.com/LedgerHQ/app-sia-x"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-solana"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-solar"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-ssh-agent"
@@ -487,10 +517,16 @@ url = "https://github.com/LedgerHQ/app-statemine"
 url = "https://github.com/LedgerHQ/app-statemint"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-stax-bip-wordle"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-stellar"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-streaming"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-sui"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-symbol"
@@ -500,6 +536,9 @@ url = "https://github.com/LedgerHQ/app-tendermint"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-terra"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-tess-train"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-tezos"
@@ -550,6 +589,9 @@ url = "https://github.com/LedgerHQ/app-xrp"
 url = "https://github.com/LedgerHQ/app-xxnetwork"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-zcash"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-zilliqa"
 
 [[repo]]
@@ -575,6 +617,9 @@ url = "https://github.com/LedgerHQ/bitcoin-lib-grpc"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/bitcoind-rpc"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/bitcoinjs-lib"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/bitcore-wallet-client"
@@ -841,6 +886,9 @@ url = "https://github.com/LedgerHQ/k6-install-centos"
 url = "https://github.com/LedgerHQ/kata-containers"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/keplr-wallet"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/kudelski-cryptochallenge18"
 
 [[repo]]
@@ -865,7 +913,13 @@ url = "https://github.com/LedgerHQ/ledger-api-mf2a"
 url = "https://github.com/LedgerHQ/ledger-app-builder"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/ledger-app-builder-clang"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/ledger-app-cosmos"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/ledger-app-database"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-app-nanopb-boilerplate"
@@ -938,6 +992,12 @@ url = "https://github.com/LedgerHQ/ledger-live-tools"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-live-ui"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/ledger-live-vault"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/ledger-live-vault-tron"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-live-wagmi-connector"
@@ -1186,6 +1246,12 @@ url = "https://github.com/LedgerHQ/platform-app-web-browser"
 url = "https://github.com/LedgerHQ/platform-app-wyre"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/plugin-bettermulticall"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/plugin-erc20"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/plugin-tools"
 
 [[repo]]
@@ -1216,6 +1282,9 @@ url = "https://github.com/LedgerHQ/qa-backend-tests"
 url = "https://github.com/LedgerHQ/ragger"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/rapp-plugin-boilerplate"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/react-native-passcode-auth"
 
 [[repo]]
@@ -1223,6 +1292,9 @@ url = "https://github.com/LedgerHQ/react-native-secp256k1"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/react-native-touch-id"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/resigner"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ripple-lib"
@@ -1270,6 +1342,9 @@ url = "https://github.com/LedgerHQ/slack-action"
 url = "https://github.com/LedgerHQ/solidity-exercise"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/solidity-exercise-wahtique"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/spdlog"
 
 [[repo]]
@@ -1277,6 +1352,9 @@ url = "https://github.com/LedgerHQ/speculos"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/squid-docker"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/staking-deposit-cli"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/StarkCheck"

@@ -34,6 +34,9 @@ url = "https://github.com/apollodao/apollo-utils"
 url = "https://github.com/apollodao/apollo-vault"
 
 [[repo]]
+url = "https://github.com/apollodao/apollo-vaults"
+
+[[repo]]
 url = "https://github.com/apollodao/assets"
 
 [[repo]]
@@ -125,3 +128,6 @@ url = "https://github.com/apollodao/test-tube"
 
 [[repo]]
 url = "https://github.com/apollodao/wallet-provider"
+
+[[repo]]
+url = "https://github.com/apollodao/yield-server"

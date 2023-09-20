@@ -34,6 +34,9 @@ url = "https://github.com/octopus-network/beefy-go"
 url = "https://github.com/octopus-network/beefy-light-client"
 
 [[repo]]
+url = "https://github.com/octopus-network/beefy-rs"
+
+[[repo]]
 url = "https://github.com/octopus-network/cdot.network"
 
 [[repo]]
@@ -68,6 +71,9 @@ url = "https://github.com/octopus-network/chainbridge-utils"
 
 [[repo]]
 url = "https://github.com/octopus-network/chainspec-generator"
+
+[[repo]]
+url = "https://github.com/octopus-network/cosmos-rust"
 
 [[repo]]
 url = "https://github.com/octopus-network/cosmos-sdk"
@@ -124,7 +130,16 @@ url = "https://github.com/octopus-network/ibc-spec-cn"
 url = "https://github.com/octopus-network/ibc-workshop"
 
 [[repo]]
+url = "https://github.com/octopus-network/ics06-solomachine"
+
+[[repo]]
 url = "https://github.com/octopus-network/ics10-grandpa-go"
+
+[[repo]]
+url = "https://github.com/octopus-network/ics23"
+
+[[repo]]
+url = "https://github.com/octopus-network/interchain-security"
 
 [[repo]]
 url = "https://github.com/octopus-network/issues"
@@ -188,6 +203,9 @@ url = "https://github.com/octopus-network/oct-cli-rs"
 
 [[repo]]
 url = "https://github.com/octopus-network/oct-faucet"
+
+[[repo]]
+url = "https://github.com/octopus-network/oct-planet"
 
 [[repo]]
 url = "https://github.com/octopus-network/oct-poap"
@@ -268,6 +286,9 @@ url = "https://github.com/octopus-network/octopusxt"
 url = "https://github.com/octopus-network/octoup"
 
 [[repo]]
+url = "https://github.com/octopus-network/oyster"
+
+[[repo]]
 url = "https://github.com/octopus-network/pallet-octopus-appchain"
 
 [[repo]]
@@ -293,6 +314,9 @@ url = "https://github.com/octopus-network/public-assets"
 
 [[repo]]
 url = "https://github.com/octopus-network/relay-rpc"
+
+[[repo]]
+url = "https://github.com/octopus-network/restaking-base"
 
 [[repo]]
 url = "https://github.com/octopus-network/rhd"

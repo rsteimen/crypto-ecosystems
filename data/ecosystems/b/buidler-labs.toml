@@ -13,6 +13,9 @@ url = "https://github.com/buidler-labs/dockerized-hedera-services"
 url = "https://github.com/buidler-labs/github-cache-server"
 
 [[repo]]
+url = "https://github.com/buidler-labs/hashgraph-defi-alliance"
+
+[[repo]]
 url = "https://github.com/buidler-labs/hashgraph-venin-demo"
 
 [[repo]]
@@ -50,3 +53,12 @@ url = "https://github.com/buidler-labs/jenkins-with-docker"
 
 [[repo]]
 url = "https://github.com/buidler-labs/js-waku"
+
+[[repo]]
+url = "https://github.com/buidler-labs/sdk-mcuboot"
+
+[[repo]]
+url = "https://github.com/buidler-labs/sdk-nrf"
+
+[[repo]]
+url = "https://github.com/buidler-labs/sdk-zephyr"

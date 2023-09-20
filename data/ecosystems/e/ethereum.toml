@@ -307,6 +307,7 @@ sub_ecosystems = [
   "Exfil Finance",
   "Fairmint",
   "Fei Protocol",
+  "FENIX Protocol",
   "FIAT DAO",
   "FinNexus",
   "Fixed Forex",
@@ -409,6 +410,7 @@ sub_ecosystems = [
   "Juicebox",
   "Keep Network",
   "KeeperDAO",
+  "Kenshi",
   "Kickback",
   "Kine Finance",
   "Kine Protocol",
@@ -828,7 +830,6 @@ sub_ecosystems = [
   "Worldhaus",
   "WTF.Academy",
   "XDAO",
-  "XDeFi",
   "xfund",
   "xSigma",
   "xToken",
@@ -2412,9 +2413,6 @@ url = "https://github.com/dapphub/dapp"
 url = "https://github.com/dapphub/dapp-tools"
 
 [[repo]]
-url = "https://github.com/dapphub/dapp-tools"
-
-[[repo]]
 url = "https://github.com/dapphub/dapp-wizard"
 
 [[repo]]
@@ -2473,9 +2471,6 @@ url = "https://github.com/dapphub/dappsys-monolithic"
 
 [[repo]]
 url = "https://github.com/dapphub/dappsys-nix"
-
-[[repo]]
-url = "https://github.com/dapphub/dapptools"
 
 [[repo]]
 url = "https://github.com/dapphub/dapptools"
@@ -3519,6 +3514,7 @@ url = "https://github.com/deep-stack/ethereum"
 
 [[repo]]
 url = "https://github.com/deep-stack/foundry-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/deep-stack/go-eth-state-node-iterator"
@@ -5102,9 +5098,6 @@ url = "https://github.com/ethersphere/bee-load-test"
 url = "https://github.com/ethersphere/bee-local"
 
 [[repo]]
-url = "https://github.com/ethersphere/bee-local"
-
-[[repo]]
 url = "https://github.com/ethersphere/bee-netem"
 
 [[repo]]
@@ -5133,9 +5126,6 @@ url = "https://github.com/ethersphere/beekeeper-config"
 
 [[repo]]
 url = "https://github.com/ethersphere/beeload-action"
-
-[[repo]]
-url = "https://github.com/ethersphere/beelocal"
 
 [[repo]]
 url = "https://github.com/ethersphere/beelocal"
@@ -6958,6 +6948,7 @@ url = "https://github.com/mana-ethereum/mana"
 
 [[repo]]
 url = "https://github.com/mangrovedao/mangrove"
+missing = true
 
 [[repo]]
 url = "https://github.com/mangrovedao/mangrove-ts"
@@ -7568,12 +7559,6 @@ url = "https://github.com/NethermindEth/truffleTest"
 
 [[repo]]
 url = "https://github.com/NethermindEth/tx-fuzz"
-
-[[repo]]
-url = "https://github.com/NethermindEth/tx-fuzz"
-
-[[repo]]
-url = "https://github.com/NethermindEth/txfuzz"
 
 [[repo]]
 url = "https://github.com/NethermindEth/txfuzz"
@@ -8267,6 +8252,7 @@ url = "https://github.com/PegaSysEng/artemis-test"
 
 [[repo]]
 url = "https://github.com/PegaSysEng/besu-native"
+missing = true
 
 [[repo]]
 url = "https://github.com/PegaSysEng/bls-keystore"
@@ -9009,6 +8995,7 @@ url = "https://github.com/resilience-me/Taxeme"
 
 [[repo]]
 url = "https://github.com/RetroPronghorn/Vault74"
+missing = true
 
 [[repo]]
 url = "https://github.com/Revest-Finance/Revest-SDK"
@@ -10017,6 +10004,7 @@ url = "https://github.com/SunWeb3Sec/DeFiHackLabs"
 
 [[repo]]
 url = "https://github.com/super-intern-dev/nft-marketplace"
+missing = true
 
 [[repo]]
 url = "https://github.com/SuperblocksHQ/ethereum-studio"
@@ -11057,6 +11045,7 @@ url = "https://github.com/umbracle/minimal"
 
 [[repo]]
 url = "https://github.com/umbracle/solidity-debugger"
+missing = true
 
 [[repo]]
 url = "https://github.com/umbracle/solidity-parser-go"

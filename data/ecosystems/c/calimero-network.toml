@@ -19,6 +19,9 @@ url = "https://github.com/calimero-is-near/calimero-auth-sdk"
 url = "https://github.com/calimero-is-near/calimero-examples"
 
 [[repo]]
+url = "https://github.com/calimero-is-near/calimero-sdk"
+
+[[repo]]
 url = "https://github.com/calimero-is-near/calimero-sdk-rs"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/calimero-is-near/events-indexer"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/FT"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/my-near-wallet"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/near-api-js"

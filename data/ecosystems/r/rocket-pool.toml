@@ -43,6 +43,9 @@ url = "https://github.com/rocket-pool/go-merkletree"
 url = "https://github.com/rocket-pool/go-w3s-client"
 
 [[repo]]
+url = "https://github.com/rocket-pool/ledger-app-plugin-rocketpool"
+
+[[repo]]
 url = "https://github.com/rocket-pool/lighthouse"
 
 [[repo]]
@@ -50,6 +53,12 @@ url = "https://github.com/rocket-pool/nethermind"
 
 [[repo]]
 url = "https://github.com/rocket-pool/NethermindPruneStarter"
+
+[[repo]]
+url = "https://github.com/rocket-pool/odaotool"
+
+[[repo]]
+url = "https://github.com/rocket-pool/old.docs.rocketpool.net"
 
 [[repo]]
 url = "https://github.com/rocket-pool/parity-poa-playground"
@@ -64,6 +73,9 @@ url = "https://github.com/rocket-pool/rocket-pool-subgraph"
 url = "https://github.com/rocket-pool/rocketpool"
 
 [[repo]]
+url = "https://github.com/rocket-pool/rocketpool-arbitrum-oracle"
+
+[[repo]]
 url = "https://github.com/rocket-pool/rocketpool-beta-claim"
 
 [[repo]]
@@ -76,6 +88,9 @@ url = "https://github.com/rocket-pool/rocketpool-js"
 url = "https://github.com/rocket-pool/rocketpool-ovm-oracle"
 
 [[repo]]
+url = "https://github.com/rocket-pool/rocketpool-polygon-oracle"
+
+[[repo]]
 url = "https://github.com/rocket-pool/rocketpool-research"
 
 [[repo]]
@@ -83,6 +98,9 @@ url = "https://github.com/rocket-pool/rocketpool-router"
 
 [[repo]]
 url = "https://github.com/rocket-pool/rocketpool-utils"
+
+[[repo]]
+url = "https://github.com/rocket-pool/rocketpool-zksync-oracle"
 
 [[repo]]
 url = "https://github.com/rocket-pool/rocketpool.github.io"
@@ -113,6 +131,9 @@ url = "https://github.com/rocket-pool/tokens"
 
 [[repo]]
 url = "https://github.com/rocket-pool/treegen"
+
+[[repo]]
+url = "https://github.com/rocket-pool/verify-1.2"
 
 [[repo]]
 url = "https://github.com/rocket-pool/verify-v1.1"

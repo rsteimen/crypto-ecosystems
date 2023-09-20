@@ -55,6 +55,9 @@ url = "https://github.com/Momentum-Safe/Msafe-Miner"
 url = "https://github.com/Momentum-Safe/msafe-wallet"
 
 [[repo]]
+url = "https://github.com/Momentum-Safe/msafe-wallet-adapter"
+
+[[repo]]
 url = "https://github.com/Momentum-Safe/msafe-wallet-adaptor"
 
 [[repo]]
@@ -62,6 +65,9 @@ url = "https://github.com/Momentum-Safe/pontem-wallet-demo"
 
 [[repo]]
 url = "https://github.com/Momentum-Safe/simple_map_test"
+
+[[repo]]
+url = "https://github.com/Momentum-Safe/SponsorTransactionDemo"
 
 [[repo]]
 url = "https://github.com/Momentum-Safe/sui-demo"

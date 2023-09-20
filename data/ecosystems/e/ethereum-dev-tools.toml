@@ -25,7 +25,13 @@ url = "https://github.com/blacksmith-eth/blacksmith"
 url = "https://github.com/brianleect/etherscan-labels"
 
 [[repo]]
+url = "https://github.com/Certora/gambit"
+
+[[repo]]
 url = "https://github.com/dyng/ramen"
+
+[[repo]]
+url = "https://github.com/JaredHubleton/mevbot"
 
 [[repo]]
 url = "https://github.com/johguse/ERADICATE2"
@@ -40,7 +46,13 @@ url = "https://github.com/karmacoma-eth/smol-evm"
 url = "https://github.com/memester-xyz/solenv"
 
 [[repo]]
+url = "https://github.com/merklejerk/zipped-contracts"
+
+[[repo]]
 url = "https://github.com/metagame-xyz/evm-translator"
+
+[[repo]]
+url = "https://github.com/morpho-labs/safer"
 
 [[repo]]
 url = "https://github.com/naddison36/sol2uml"
@@ -55,10 +67,22 @@ url = "https://github.com/netbound/e7mon"
 url = "https://github.com/netbound/p2pflow"
 
 [[repo]]
+url = "https://github.com/paradigmxyz/artemis"
+
+[[repo]]
+url = "https://github.com/paradigmxyz/flood"
+
+[[repo]]
+url = "https://github.com/plotchy/evm-cfg"
+
+[[repo]]
 url = "https://github.com/Rjected/ethp2p"
 
 [[repo]]
 url = "https://github.com/Rjected/ranger"
+
+[[repo]]
+url = "https://github.com/sec3-service/Owl-LM"
 
 [[repo]]
 url = "https://github.com/shazow/whatsabi"

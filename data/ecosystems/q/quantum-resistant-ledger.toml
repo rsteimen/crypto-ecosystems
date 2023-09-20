@@ -37,6 +37,9 @@ url = "https://github.com/theQRL/dilithium"
 url = "https://github.com/theQRL/dilithium5-demo"
 
 [[repo]]
+url = "https://github.com/theQRL/discussions"
+
+[[repo]]
 url = "https://github.com/theQRL/docs.theqrl.org"
 
 [[repo]]
@@ -157,6 +160,9 @@ url = "https://github.com/theQRL/qrl-nft-microlinter"
 url = "https://github.com/theQRL/qrl-proto-sha256"
 
 [[repo]]
+url = "https://github.com/theQRL/qrl-vue-vite-tailwind-daisyui"
+
+[[repo]]
 url = "https://github.com/theQRL/qrl-wallet"
 
 [[repo]]
@@ -206,6 +212,9 @@ url = "https://github.com/theQRL/votes"
 
 [[repo]]
 url = "https://github.com/theQRL/wallet-helpers"
+
+[[repo]]
+url = "https://github.com/theQRL/wallet.js"
 
 [[repo]]
 url = "https://github.com/theQRL/walletd-rest-proxy"

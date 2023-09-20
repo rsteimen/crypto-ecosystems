@@ -16,6 +16,9 @@ url = "https://github.com/SeamMoney/docs"
 url = "https://github.com/SeamMoney/landing-page"
 
 [[repo]]
+url = "https://github.com/SeamMoney/MoveGPT"
+
+[[repo]]
 url = "https://github.com/SeamMoney/seam-backend"
 
 [[repo]]
@@ -23,3 +26,6 @@ url = "https://github.com/SeamMoney/seam-contracts"
 
 [[repo]]
 url = "https://github.com/SeamMoney/seam-frontend"
+
+[[repo]]
+url = "https://github.com/SeamMoney/strategy-builder"

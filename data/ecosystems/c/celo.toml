@@ -75,7 +75,7 @@ sub_ecosystems = [
 ]
 
 github_organizations = [
-  "https://github.com/celo-ecosystem",
+  "https://github.com/celo-academy",
   "https://github.com/celo-examples",
   "https://github.com/celo-org",
   "https://github.com/celo-tools",
@@ -84,6 +84,7 @@ github_organizations = [
   "https://github.com/helpicelo",
   "https://github.com/Pinnata",
   "https://github.com/valora-inc",
+  "https://github.com/Celo-Baddies",
 ]
 
 # Repositories
@@ -719,6 +720,9 @@ url = "https://github.com/BEYOND-Ewha-Yonsei/Mark-at"
 url = "https://github.com/BEYOND-Ewha-Yonsei/Mark-at_Contract"
 
 [[repo]]
+url = "https://github.com/bezata/NFTHUB-Arthouse"
+
+[[repo]]
 url = "https://github.com/bgeihsgt/celo-monorepo"
 
 [[repo]]
@@ -1081,6 +1085,7 @@ url = "https://github.com/celo-org/celo-oracle"
 
 [[repo]]
 url = "https://github.com/celo-org/celo-org-release-celo-deployments-21"
+missing = true
 
 [[repo]]
 url = "https://github.com/celo-org/celo-poprf-rs"
@@ -1980,6 +1985,9 @@ url = "https://github.com/cybertime-eth/cyberbox"
 url = "https://github.com/Cyfa-HQ/carbonx"
 
 [[repo]]
+url = "https://github.com/CyndieKamau/fundraiser_dapp"
+
+[[repo]]
 url = "https://github.com/CyprianTinasheAarons/make-crypto-mobile-hackathon"
 
 [[repo]]
@@ -2178,6 +2186,12 @@ url = "https://github.com/devmdavidson/Celo-IPFS-image-Gallery"
 url = "https://github.com/devngeni/celo_hackathon"
 
 [[repo]]
+url = "https://github.com/DevZibah/Tita"
+
+[[repo]]
+url = "https://github.com/DevZibah/Tita-smart-contract"
+
+[[repo]]
 url = "https://github.com/dexfair/celo-monorepo"
 
 [[repo]]
@@ -2262,16 +2276,7 @@ url = "https://github.com/dsrvlabs/celo"
 url = "https://github.com/dsrvlabs/celo-extension-wallet"
 
 [[repo]]
-url = "https://github.com/dsrvlabs/celo-extension-wallet"
-
-[[repo]]
 url = "https://github.com/dsrvlabs/celo-extension-wallet-usage"
-
-[[repo]]
-url = "https://github.com/dsrvlabs/celo-extension-wallet-usage"
-
-[[repo]]
-url = "https://github.com/dsrvlabs/celo-validator-monitoring"
 
 [[repo]]
 url = "https://github.com/dsrvlabs/celo-validator-monitoring"
@@ -2283,13 +2288,7 @@ url = "https://github.com/dsrvlabs/eth-account"
 url = "https://github.com/dsrvlabs/ethereumjs-tx-celo"
 
 [[repo]]
-url = "https://github.com/dsrvlabs/ethereumjs-tx-celo"
-
-[[repo]]
 url = "https://github.com/dsrvlabs/vatz"
-
-[[repo]]
-url = "https://github.com/dsrvlabs/web3-celo.js"
 
 [[repo]]
 url = "https://github.com/dsrvlabs/web3-celo.js"
@@ -2368,9 +2367,6 @@ url = "https://github.com/electrone901/celo-lawyerApp"
 
 [[repo]]
 url = "https://github.com/eli-d/celo-dev-feedback"
-
-[[repo]]
-url = "https://github.com/eliashezron/pesapay"
 
 [[repo]]
 url = "https://github.com/eliashezron/pesapay"
@@ -2862,6 +2858,9 @@ url = "https://github.com/hatemua/build-with-celo-hackathon"
 url = "https://github.com/hatemua/HeroCoin"
 
 [[repo]]
+url = "https://github.com/Havid-B/pay-stream"
+
+[[repo]]
 url = "https://github.com/hcote/example-celo"
 
 [[repo]]
@@ -2893,12 +2892,14 @@ url = "https://github.com/helpicelo/helpi-celo-interface"
 
 [[repo]]
 url = "https://github.com/helpicelo/Helpi-DeFi-Cronos"
+missing = true
 
 [[repo]]
 url = "https://github.com/helpicelo/Helpi-DeFi-Multichain"
 
 [[repo]]
 url = "https://github.com/helpicelo/Helpi-DeFi-recent"
+missing = true
 
 [[repo]]
 url = "https://github.com/helpicelo/helpi-landing"
@@ -3127,6 +3128,7 @@ url = "https://github.com/Inosuke200/CELO-CAMP"
 
 [[repo]]
 url = "https://github.com/Into-The-Verse/Dungeon-Hunt-Celo"
+missing = true
 
 [[repo]]
 url = "https://github.com/IntoTheVerse/build-with-celo-hackathon"
@@ -3414,9 +3416,6 @@ url = "https://github.com/josefophe/build-with-celo-hackathon"
 url = "https://github.com/josemendezt/run3-celo-hackathon"
 
 [[repo]]
-url = "https://github.com/josemendezt/run3-celo-hackathon"
-
-[[repo]]
 url = "https://github.com/Joseph-Cardwell/celo-blockchain"
 
 [[repo]]
@@ -3694,9 +3693,6 @@ url = "https://github.com/Latsan/build-with-celo-hackathon"
 
 [[repo]]
 url = "https://github.com/layinka/CeloPOAP"
-
-[[repo]]
-url = "https://github.com/Lazydev0x/build-with-celo-hackathon"
 
 [[repo]]
 url = "https://github.com/Lazydev0x/build-with-celo-hackathon"
@@ -4161,6 +4157,9 @@ url = "https://github.com/MugglePay/celo-toolkit"
 url = "https://github.com/MugglePay/MugglePay"
 
 [[repo]]
+url = "https://github.com/Muhindo-Galien/Yob-Ticketing-dapp"
+
+[[repo]]
 url = "https://github.com/muiux/UBE-DEX"
 
 [[repo]]
@@ -4339,6 +4338,10 @@ url = "https://github.com/nixoid/celo-monorepo"
 
 [[repo]]
 url = "https://github.com/nknganda/kotanipay-USSD"
+
+[[repo]]
+url = "https://github.com/nneky28/Defi-Hackathon.git"
+missing = true
 
 [[repo]]
 url = "https://github.com/nobody9647/celo-learn"
@@ -6022,3 +6025,10 @@ url = "https://gitlab.com/pretoria-research-lab/celo-cauldron"
 
 [[repo]]
 url = "https://gitlab.com/pretoria-research-lab/celo-faucet-api"
+
+[[repo]]
+url = "https://github.com/nescampos/celoclub"
+tags = ["DAO","Investment"]
+
+[[repo]]
+url = "https://github.com/Riya500-git/DeveloperWeek-Hack"

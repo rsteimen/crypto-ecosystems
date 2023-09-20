@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/celer-network"]
 url = "https://github.com/celer-network/accept-sdk-ios"
 
 [[repo]]
+url = "https://github.com/celer-network/AEADs"
+
+[[repo]]
 url = "https://github.com/celer-network/Appium-Auto-test"
 
 [[repo]]
@@ -118,6 +121,9 @@ url = "https://github.com/celer-network/contract_addresses"
 url = "https://github.com/celer-network/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/celer-network/curve25519-dalek"
+
+[[repo]]
 url = "https://github.com/celer-network/defi-pooling-broker-contracts"
 
 [[repo]]
@@ -131,6 +137,9 @@ url = "https://github.com/celer-network/eth-services"
 
 [[repo]]
 url = "https://github.com/celer-network/gnark"
+
+[[repo]]
+url = "https://github.com/celer-network/gnark-bench"
 
 [[repo]]
 url = "https://github.com/celer-network/gnark-circomlib"
@@ -152,6 +161,9 @@ url = "https://github.com/celer-network/grpc-swift"
 
 [[repo]]
 url = "https://github.com/celer-network/halo2"
+
+[[repo]]
+url = "https://github.com/celer-network/hashi"
 
 [[repo]]
 url = "https://github.com/celer-network/hop"
@@ -187,6 +199,9 @@ url = "https://github.com/celer-network/lens"
 url = "https://github.com/celer-network/Liquidity-Backing"
 
 [[repo]]
+url = "https://github.com/celer-network/merkle-patricia-trie"
+
+[[repo]]
 url = "https://github.com/celer-network/message-app-examples"
 
 [[repo]]
@@ -200,6 +215,9 @@ url = "https://github.com/celer-network/nft-bridge-contracts"
 
 [[repo]]
 url = "https://github.com/celer-network/NODE-GOOGLE_SHEETS"
+
+[[repo]]
+url = "https://github.com/celer-network/Nova"
 
 [[repo]]
 url = "https://github.com/celer-network/osp-explorer"
@@ -247,6 +265,9 @@ url = "https://github.com/celer-network/sgn-v2-contracts"
 url = "https://github.com/celer-network/sgn-v2-networks"
 
 [[repo]]
+url = "https://github.com/celer-network/sgnv2"
+
+[[repo]]
 url = "https://github.com/celer-network/sha256-prover-comparison"
 
 [[repo]]
@@ -265,6 +286,9 @@ url = "https://github.com/celer-network/snapshot.js"
 url = "https://github.com/celer-network/stripe-ios"
 
 [[repo]]
+url = "https://github.com/celer-network/sui"
+
+[[repo]]
 url = "https://github.com/celer-network/tendermint"
 
 [[repo]]
@@ -281,6 +305,12 @@ url = "https://github.com/celer-network/web3modal"
 
 [[repo]]
 url = "https://github.com/celer-network/web3swift"
+
+[[repo]]
+url = "https://github.com/celer-network/x25519-dalek"
+
+[[repo]]
+url = "https://github.com/celer-network/zk-attestor"
 
 [[repo]]
 url = "https://github.com/celer-network/zk-benchmark"

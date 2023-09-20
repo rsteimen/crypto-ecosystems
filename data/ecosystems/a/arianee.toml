@@ -70,6 +70,9 @@ url = "https://github.com/Arianee/ArianeeToken"
 url = "https://github.com/Arianee/ariaWebsite"
 
 [[repo]]
+url = "https://github.com/Arianee/arn-example"
+
+[[repo]]
 url = "https://github.com/Arianee/autoconvert"
 
 [[repo]]
@@ -80,6 +83,9 @@ url = "https://github.com/Arianee/blockscout"
 
 [[repo]]
 url = "https://github.com/Arianee/contract-metadata"
+
+[[repo]]
+url = "https://github.com/Arianee/contracts-wizard"
 
 [[repo]]
 url = "https://github.com/Arianee/conventions"

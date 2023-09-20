@@ -853,6 +853,9 @@ url = "https://github.com/code-423n4/2022-07-fractional-findings"
 url = "https://github.com/code-423n4/2022-07-golom"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-07-golom-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-07-juicebox"
 
 [[repo]]
@@ -923,6 +926,9 @@ url = "https://github.com/code-423n4/2022-09-artgobblers-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-09-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-09-canto-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-09-frax"
@@ -1018,10 +1024,19 @@ url = "https://github.com/code-423n4/2022-10-zksync-findings"
 url = "https://github.com/code-423n4/2022-11-canto"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-11-canto-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-11-debtdao"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-11-debtdao-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-11-ens"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-11-ens-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-11-foundation-findings"
@@ -1040,6 +1055,9 @@ url = "https://github.com/code-423n4/2022-11-non-fungible-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-11-paraspace"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-11-paraspace-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-11-redactedcartel"
@@ -1072,6 +1090,12 @@ url = "https://github.com/code-423n4/2022-12-caviar"
 url = "https://github.com/code-423n4/2022-12-caviar-findings"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-12-ens-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-12-ens-mitigation-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-12-escher"
 
 [[repo]]
@@ -1102,6 +1126,15 @@ url = "https://github.com/code-423n4/2022-12-prepo"
 url = "https://github.com/code-423n4/2022-12-prepo-findings"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-12-Stealth-Project-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-12-tessera"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-12-tessera-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-12-tigris"
 
 [[repo]]
@@ -1109,6 +1142,9 @@ url = "https://github.com/code-423n4/2022-12-tigris-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-astaria"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-01-astaria-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-biconomy"
@@ -1121,6 +1157,9 @@ url = "https://github.com/code-423n4/2023-01-blockswap-fv"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-canto-identity"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-01-canto-identity-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-drips"
@@ -1153,7 +1192,19 @@ url = "https://github.com/code-423n4/2023-01-popcorn"
 url = "https://github.com/code-423n4/2023-01-rabbithole"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-01-rabbithole-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-01-reserve"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-01-reserve-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-01-tessera-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-01-tessera-mitigation-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-timeswap"
@@ -1165,10 +1216,25 @@ url = "https://github.com/code-423n4/2023-01-timeswap-findings"
 url = "https://github.com/code-423n4/2023-02-ethos"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-02-ethos-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-02-gogopool-mitigation-contest"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-02-gogopool-mitigation-contest-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-02-malt"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-02-malt-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-02-reserve-mitigation-contest"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-02-reserve-mitigation-contest-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-03-aragon"
@@ -1180,13 +1246,73 @@ url = "https://github.com/code-423n4/2023-03-asymmetry"
 url = "https://github.com/code-423n4/2023-03-canto-identity"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-03-canto-identity-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-03-mute"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-03-mute-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-03-neotokyo"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-03-neotokyo-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-03-wenwin"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-03-wenwin-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-03-zksync"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-caviar"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-caviar-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-eigenlayer"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-ens"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-frankencoin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-frankencoin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-rubicon"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-ajna"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-base"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-chainlink"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-juicebox"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-maia"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-venus"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-llama"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-stader"
 
 [[repo]]
 url = "https://github.com/code-423n4/awardcalc"

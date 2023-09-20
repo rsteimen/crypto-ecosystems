@@ -13,10 +13,16 @@ url = "https://github.com/leapwallet/assets"
 url = "https://github.com/leapwallet/bridge-web-app"
 
 [[repo]]
+url = "https://github.com/leapwallet/buffer-boba"
+
+[[repo]]
 url = "https://github.com/leapwallet/cosmos-kit"
 
 [[repo]]
 url = "https://github.com/leapwallet/cosmos-node-setup"
+
+[[repo]]
+url = "https://github.com/leapwallet/developers"
 
 [[repo]]
 url = "https://github.com/leapwallet/ethindia-2022-meme-backend"
@@ -46,6 +52,9 @@ url = "https://github.com/leapwallet/leap-near-sdk-react-native-example"
 url = "https://github.com/leapwallet/metabase"
 
 [[repo]]
+url = "https://github.com/leapwallet/name-matcha"
+
+[[repo]]
 url = "https://github.com/leapwallet/nft-contracts-list"
 
 [[repo]]
@@ -64,6 +73,9 @@ url = "https://github.com/leapwallet/observatory-architecture"
 url = "https://github.com/leapwallet/react-native-os"
 
 [[repo]]
+url = "https://github.com/leapwallet/react-native-pin-code"
+
+[[repo]]
 url = "https://github.com/leapwallet/secret.js"
 
 [[repo]]
@@ -74,6 +86,9 @@ url = "https://github.com/leapwallet/target-10"
 
 [[repo]]
 url = "https://github.com/leapwallet/target-10-frontend"
+
+[[repo]]
+url = "https://github.com/leapwallet/test-oss-private"
 
 [[repo]]
 url = "https://github.com/leapwallet/wallet-registry"

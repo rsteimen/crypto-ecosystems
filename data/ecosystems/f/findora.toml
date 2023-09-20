@@ -40,6 +40,9 @@ url = "https://github.com/FindoraNetwork/baseline"
 url = "https://github.com/FindoraNetwork/bip0039"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/block-header-parser"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/blockscout"
 
 [[repo]]
@@ -73,7 +76,16 @@ url = "https://github.com/FindoraNetwork/chainbridge-solidity"
 url = "https://github.com/FindoraNetwork/chainbridge-tools"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/chaindev"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/clap-serde"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/cli"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/curl-rust"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/curve25519-dalek"
@@ -103,6 +115,9 @@ url = "https://github.com/FindoraNetwork/eip1962"
 url = "https://github.com/FindoraNetwork/enterprise-web3"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/eth-utils"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/ethereum-blocks"
 
 [[repo]]
@@ -112,6 +127,9 @@ url = "https://github.com/FindoraNetwork/evm-staking"
 url = "https://github.com/FindoraNetwork/evm-utils"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/fastmsm"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/fBNC"
 
 [[repo]]
@@ -119,6 +137,9 @@ url = "https://github.com/FindoraNetwork/FGR"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/findora-agentd"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/findora-crypto-book"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/findora-erc20-demo"
@@ -134,6 +155,9 @@ url = "https://github.com/FindoraNetwork/findora-graph"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/findora-issues-bugs"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/findora-poker"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/findora-rosetta"
@@ -187,6 +211,9 @@ url = "https://github.com/FindoraNetwork/FIPs"
 url = "https://github.com/FindoraNetwork/fmerk"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/fn-tendermint-rs"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/frc20-demo"
 
 [[repo]]
@@ -203,6 +230,9 @@ url = "https://github.com/FindoraNetwork/gsc-blockscout"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/jenkins-docker-compose"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/jenkins-test"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/jsonrpc"
@@ -229,6 +259,9 @@ url = "https://github.com/FindoraNetwork/mint-token"
 url = "https://github.com/FindoraNetwork/MPT"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/multicall-test"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/new_address_masm"
 
 [[repo]]
@@ -241,6 +274,36 @@ url = "https://github.com/FindoraNetwork/node-setup"
 url = "https://github.com/FindoraNetwork/platform"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-bitmap"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-credentials"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-cryptohash"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-datamodel"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-merkle"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-noah"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-slidingset"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-sparse-merkle"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-lib-utils"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/platform-v1"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/poly-commit"
 
 [[repo]]
@@ -248,6 +311,15 @@ url = "https://github.com/FindoraNetwork/precompiled-contracts"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/prikey2keystore"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/prismxx"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/prismxx-front-end-example"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/prismxx-sdk-tutorials"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/privacy-routing-script"
@@ -274,6 +346,9 @@ url = "https://github.com/FindoraNetwork/r1cs-std"
 url = "https://github.com/FindoraNetwork/randao"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/randao2"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/refunder"
 
 [[repo]]
@@ -283,6 +358,9 @@ url = "https://github.com/FindoraNetwork/rosetta-cli"
 url = "https://github.com/FindoraNetwork/rosetta-sdk-go"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/rt-evm"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/rust-abci"
 
 [[repo]]
@@ -290,6 +368,9 @@ url = "https://github.com/FindoraNetwork/rust-bip39"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/rust-web3"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/safe-client-gateway"
@@ -343,10 +424,22 @@ url = "https://github.com/FindoraNetwork/tendermint-sys"
 url = "https://github.com/FindoraNetwork/test-scalable-runner"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/test-snapshot.js"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/vsdb"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/wasm-js-bindings"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/web3-rpc"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/web3-rpc-core"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/web3-rpc-core-bug-fix"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/x25519-dalek"
@@ -355,7 +448,16 @@ url = "https://github.com/FindoraNetwork/x25519-dalek"
 url = "https://github.com/FindoraNetwork/zei"
 
 [[repo]]
+url = "https://github.com/FindoraNetwork/zkcard-mini-sdk"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/zkcard-precom-contracts"
+
+[[repo]]
 url = "https://github.com/FindoraNetwork/ZKCircuitHackathon"
+
+[[repo]]
+url = "https://github.com/FindoraNetwork/zkdid-circuits"
 
 [[repo]]
 url = "https://github.com/FindoraNetwork/zkdid-js"

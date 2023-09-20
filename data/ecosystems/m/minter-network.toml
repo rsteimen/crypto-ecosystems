@@ -79,6 +79,9 @@ url = "https://github.com/MinterTeam/iavl"
 url = "https://github.com/MinterTeam/ledger-app-minter"
 
 [[repo]]
+url = "https://github.com/MinterTeam/metagarden-landing-web"
+
+[[repo]]
 url = "https://github.com/MinterTeam/mhub2"
 
 [[repo]]
@@ -188,6 +191,9 @@ url = "https://github.com/MinterTeam/minter-js-org"
 
 [[repo]]
 url = "https://github.com/MinterTeam/minter-js-sdk"
+
+[[repo]]
+url = "https://github.com/MinterTeam/minter-js-web3-sdk"
 
 [[repo]]
 url = "https://github.com/MinterTeam/minter-link-protocol"

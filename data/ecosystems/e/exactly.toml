@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/exactly"]
 url = "https://github.com/exactly/about"
 
 [[repo]]
+url = "https://github.com/exactly/app"
+
+[[repo]]
 url = "https://github.com/exactly/audits"
 
 [[repo]]
@@ -19,13 +22,25 @@ url = "https://github.com/exactly/defillama-adapters"
 url = "https://github.com/exactly/DefiLlama-yield-server"
 
 [[repo]]
+url = "https://github.com/exactly/foundry"
+
+[[repo]]
+url = "https://github.com/exactly/lib"
+
+[[repo]]
 url = "https://github.com/exactly/liquidation-bot"
+
+[[repo]]
+url = "https://github.com/exactly/messari-subgraphs"
 
 [[repo]]
 url = "https://github.com/exactly/papers"
 
 [[repo]]
 url = "https://github.com/exactly/protocol"
+
+[[repo]]
+url = "https://github.com/exactly/querido"
 
 [[repo]]
 url = "https://github.com/exactly/solidity-challenge"

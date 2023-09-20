@@ -118,10 +118,16 @@ url = "https://github.com/NilFoundation/crypto3-dkg"
 url = "https://github.com/NilFoundation/crypto3-environment"
 
 [[repo]]
+url = "https://github.com/NilFoundation/crypto3-fhe"
+
+[[repo]]
 url = "https://github.com/NilFoundation/crypto3-fil-proofs"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-hash"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-homomorphic"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-kdf"
@@ -173,6 +179,9 @@ url = "https://github.com/NilFoundation/crypto3-stream"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-template"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-threshold"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-vdf"
@@ -233,6 +242,9 @@ url = "https://github.com/NilFoundation/lorem-ipsum-cli"
 
 [[repo]]
 url = "https://github.com/NilFoundation/marshalling"
+
+[[repo]]
+url = "https://github.com/NilFoundation/mina-add-zkapp"
 
 [[repo]]
 url = "https://github.com/NilFoundation/mina-state-proof"
@@ -334,6 +346,9 @@ url = "https://github.com/NilFoundation/zkllvm-assigner"
 url = "https://github.com/NilFoundation/zkllvm-blueprint"
 
 [[repo]]
+url = "https://github.com/NilFoundation/zkllvm-cargo"
+
+[[repo]]
 url = "https://github.com/NilFoundation/zkllvm-circifier"
 
 [[repo]]
@@ -352,6 +367,9 @@ url = "https://github.com/NilFoundation/zkllvm-libcxx"
 url = "https://github.com/NilFoundation/zkllvm-rslang"
 
 [[repo]]
+url = "https://github.com/NilFoundation/zkllvm-rslang-types"
+
+[[repo]]
 url = "https://github.com/NilFoundation/zkllvm-scaffold"
 
 [[repo]]
@@ -362,3 +380,6 @@ url = "https://github.com/NilFoundation/zkllvm-template"
 
 [[repo]]
 url = "https://github.com/NilFoundation/zkllvm-transpiler"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-tutorials"

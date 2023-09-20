@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/tradingstrategy-ai"]
 url = "https://github.com/tradingstrategy-ai/2021_DevSOC_GDSC_Hackathon"
 
 [[repo]]
+url = "https://github.com/tradingstrategy-ai/aave-v3-deploy"
+
+[[repo]]
 url = "https://github.com/tradingstrategy-ai/ape"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/tradingstrategy-ai/backtrader"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/binder-env"
+
+[[repo]]
+url = "https://github.com/tradingstrategy-ai/cocalc-env"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/docs"
@@ -134,6 +140,12 @@ url = "https://github.com/tradingstrategy-ai/trading-strategy"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/trading-strategy-notebook"
+
+[[repo]]
+url = "https://github.com/tradingstrategy-ai/tradingview-defi-strategy"
+
+[[repo]]
+url = "https://github.com/tradingstrategy-ai/vyper-ape-hello-world"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/web-top"

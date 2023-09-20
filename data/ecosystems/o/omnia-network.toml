@@ -1,0 +1,36 @@
+title = "Omnia Network"
+sub_ecosystems = []
+github_organizations = ["https://github.com/omnia-network"]
+[[repo]]
+url = "https://github.com/omnia-network/ic-oxigraph"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia-backend"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia-devices"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia-gateway"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia-product-demo"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia-proxy"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia-rdf-proxy"
+
+[[repo]]
+url = "https://github.com/omnia-network/omnia_lighting_app"
+
+[[repo]]
+url = "https://github.com/omnia-network/OmniaManager"
+
+[[repo]]
+url = "https://github.com/omnia-network/ic_websocket_example"
+
+[[repo]]
+url = "https://github.com/omnia-network/ic-websocket-cdk-rs"
+

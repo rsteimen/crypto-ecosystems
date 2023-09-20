@@ -7,16 +7,28 @@ github_organizations = ["https://github.com/WTFAcademy"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/WTFAcademy/0xAA-Wallet"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/ETHBeijing"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/evote-fabric"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/frontend"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/Progress-report"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/solive"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/solui"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/starknetbook-zh"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-Cairo"
@@ -28,10 +40,16 @@ url = "https://github.com/WTFAcademy/WTF-ClosedSource"
 url = "https://github.com/WTFAcademy/WTF-CSS"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-CTF"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-Ethers"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-ethers-v6-doc-cn"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Events"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-gas-optimization"
@@ -65,6 +83,9 @@ url = "https://github.com/WTFAcademy/WTF-Starknet"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-Starknet-Dapp-demo"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Uniswap-v4"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTFGeth"

@@ -37,13 +37,28 @@ url = "https://github.com/skip-mev/governor"
 url = "https://github.com/skip-mev/juno"
 
 [[repo]]
+url = "https://github.com/skip-mev/mempool-checker"
+
+[[repo]]
+url = "https://github.com/skip-mev/mev-cometbft"
+
+[[repo]]
 url = "https://github.com/skip-mev/mev-tendermint"
 
 [[repo]]
 url = "https://github.com/skip-mev/osmosis-protorev"
 
 [[repo]]
+url = "https://github.com/skip-mev/pob"
+
+[[repo]]
 url = "https://github.com/skip-mev/protorev-py"
+
+[[repo]]
+url = "https://github.com/skip-mev/relayer"
+
+[[repo]]
+url = "https://github.com/skip-mev/searcher-tendermint"
 
 [[repo]]
 url = "https://github.com/skip-mev/skip-frontend"
@@ -64,7 +79,13 @@ url = "https://github.com/skip-mev/skipper"
 url = "https://github.com/skip-mev/terra-core"
 
 [[repo]]
+url = "https://github.com/skip-mev/terraform-aws-vpc"
+
+[[repo]]
 url = "https://github.com/skip-mev/traefik-jsonrpc-filter"
 
 [[repo]]
 url = "https://github.com/skip-mev/traefik-path-filter"
+
+[[repo]]
+url = "https://github.com/skip-mev/vote-ext-oracle-demo"

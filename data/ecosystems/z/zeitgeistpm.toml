@@ -40,6 +40,9 @@ url = "https://github.com/zeitgeistpm/frontier"
 url = "https://github.com/zeitgeistpm/LMSR-zeitgeist"
 
 [[repo]]
+url = "https://github.com/zeitgeistpm/migration-guide"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/moonbeam"
 
 [[repo]]
@@ -64,6 +67,9 @@ url = "https://github.com/zeitgeistpm/sdk-next"
 url = "https://github.com/zeitgeistpm/Seer-For-China"
 
 [[repo]]
+url = "https://github.com/zeitgeistpm/snapshot-web"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/substrate"
 
 [[repo]]
@@ -71,6 +77,9 @@ url = "https://github.com/zeitgeistpm/tools"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/ui"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/wsx"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/xcm-simulator"

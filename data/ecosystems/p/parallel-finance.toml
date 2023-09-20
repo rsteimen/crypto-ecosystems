@@ -88,6 +88,9 @@ url = "https://github.com/parallel-finance/fearless-utils"
 url = "https://github.com/parallel-finance/frontier"
 
 [[repo]]
+url = "https://github.com/parallel-finance/frontier-archive"
+
+[[repo]]
 url = "https://github.com/parallel-finance/Grant-Milestone-Delivery"
 
 [[repo]]
@@ -116,6 +119,9 @@ url = "https://github.com/parallel-finance/multisig-subql-polkadot"
 
 [[repo]]
 url = "https://github.com/parallel-finance/nominate-client"
+
+[[repo]]
+url = "https://github.com/parallel-finance/notification-center"
 
 [[repo]]
 url = "https://github.com/parallel-finance/Open-Grants-Program"

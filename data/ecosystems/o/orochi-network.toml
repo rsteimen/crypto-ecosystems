@@ -19,6 +19,9 @@ url = "https://github.com/orochi-network/EIP-6366"
 url = "https://github.com/orochi-network/EIPs"
 
 [[repo]]
+url = "https://github.com/orochi-network/framework"
+
+[[repo]]
 url = "https://github.com/orochi-network/Grants-Program"
 
 [[repo]]
@@ -26,6 +29,12 @@ url = "https://github.com/orochi-network/halo2"
 
 [[repo]]
 url = "https://github.com/orochi-network/libsecp256k1"
+
+[[repo]]
+url = "https://github.com/orochi-network/Nova"
+
+[[repo]]
+url = "https://github.com/orochi-network/Nova-Scotia"
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-api"
@@ -73,6 +82,12 @@ url = "https://github.com/orochi-network/playground"
 url = "https://github.com/orochi-network/sdk"
 
 [[repo]]
+url = "https://github.com/orochi-network/wasmi"
+
+[[repo]]
+url = "https://github.com/orochi-network/zator"
+
+[[repo]]
 url = "https://github.com/orochi-network/zkDatabase"
 
 [[repo]]
@@ -80,6 +95,9 @@ url = "https://github.com/orochi-network/zkevm-circuits"
 
 [[repo]]
 url = "https://github.com/orochi-network/zkWASM"
+
+[[repo]]
+url = "https://github.com/orochi-network/zkwasm-ideas"
 
 [[repo]]
 url = "https://github.com/orochi-network/zkWASM-specs"

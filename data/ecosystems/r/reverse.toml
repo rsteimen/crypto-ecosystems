@@ -13,6 +13,9 @@ url = "https://github.com/vertekfi/aalto-wrapper"
 url = "https://github.com/vertekfi/balancer-gauges-subgraph"
 
 [[repo]]
+url = "https://github.com/vertekfi/balancer-sdk"
+
+[[repo]]
 url = "https://github.com/vertekfi/balancer-sor"
 
 [[repo]]
@@ -34,6 +37,9 @@ url = "https://github.com/vertekfi/bsc-blocks"
 url = "https://github.com/vertekfi/dex-backend"
 
 [[repo]]
+url = "https://github.com/vertekfi/dex-backend-v2"
+
+[[repo]]
 url = "https://github.com/vertekfi/dex-frontend"
 
 [[repo]]
@@ -52,7 +58,13 @@ url = "https://github.com/vertekfi/pool-data-config"
 url = "https://github.com/vertekfi/pool-stable-v1"
 
 [[repo]]
+url = "https://github.com/vertekfi/rate-providers"
+
+[[repo]]
 url = "https://github.com/vertekfi/Reliquary"
+
+[[repo]]
+url = "https://github.com/vertekfi/reliquary-subgraph"
 
 [[repo]]
 url = "https://github.com/vertekfi/stable-phantom"
@@ -62,6 +74,9 @@ url = "https://github.com/vertekfi/staking"
 
 [[repo]]
 url = "https://github.com/vertekfi/token-list"
+
+[[repo]]
+url = "https://github.com/vertekfi/vaults"
 
 [[repo]]
 url = "https://github.com/vertekfi/vertek-lib"

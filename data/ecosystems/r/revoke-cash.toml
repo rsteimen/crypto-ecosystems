@@ -7,10 +7,19 @@ github_organizations = ["https://github.com/RevokeCash"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/RevokeCash/allowance-exploit-list"
+
+[[repo]]
+url = "https://github.com/RevokeCash/allowance-exploits-list"
+
+[[repo]]
 url = "https://github.com/RevokeCash/browser-extension"
 
 [[repo]]
 url = "https://github.com/RevokeCash/browser-extension-kitchen-sink"
+
+[[repo]]
+url = "https://github.com/RevokeCash/chains"
 
 [[repo]]
 url = "https://github.com/RevokeCash/revoke.cash"

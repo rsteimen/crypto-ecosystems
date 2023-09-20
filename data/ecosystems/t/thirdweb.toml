@@ -58,6 +58,9 @@ url = "https://github.com/thirdweb-dev/dashboard"
 url = "https://github.com/thirdweb-dev/docs"
 
 [[repo]]
+url = "https://github.com/thirdweb-dev/docs-experimental"
+
+[[repo]]
 url = "https://github.com/thirdweb-dev/dynamic-contracts"
 
 [[repo]]
@@ -151,10 +154,16 @@ url = "https://github.com/thirdweb-dev/react"
 url = "https://github.com/thirdweb-dev/react-unity-webgl-example"
 
 [[repo]]
+url = "https://github.com/thirdweb-dev/reads"
+
+[[repo]]
 url = "https://github.com/thirdweb-dev/router-pattern"
 
 [[repo]]
 url = "https://github.com/thirdweb-dev/sdk-next-starter"
+
+[[repo]]
+url = "https://github.com/thirdweb-dev/shopify-demo-store"
 
 [[repo]]
 url = "https://github.com/thirdweb-dev/shopify-thirdweb-theme"
@@ -166,10 +175,22 @@ url = "https://github.com/thirdweb-dev/signature-based-minting-sample-app"
 url = "https://github.com/thirdweb-dev/signature-minting-to-qr-code"
 
 [[repo]]
+url = "https://github.com/thirdweb-dev/smart_wallet_demo"
+
+[[repo]]
 url = "https://github.com/thirdweb-dev/solana"
 
 [[repo]]
 url = "https://github.com/thirdweb-dev/storage"
+
+[[repo]]
+url = "https://github.com/thirdweb-dev/storage-server"
+
+[[repo]]
+url = "https://github.com/thirdweb-dev/support-discord-bot"
+
+[[repo]]
+url = "https://github.com/thirdweb-dev/terraform-aws-rds-aws-ftr"
 
 [[repo]]
 url = "https://github.com/thirdweb-dev/test"
@@ -200,6 +221,9 @@ url = "https://github.com/thirdweb-dev/unity-webgl-template"
 
 [[repo]]
 url = "https://github.com/thirdweb-dev/web3.py"
+
+[[repo]]
+url = "https://github.com/thirdweb-dev/web3warriors"
 
 [[repo]]
 url = "https://github.com/thirdweb-dev/widgets"
@@ -268,6 +292,15 @@ url = "https://github.com/thirdweb-example/custom-dashboard"
 url = "https://github.com/thirdweb-example/dao"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/device-wallet-api-tester"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/dex-app"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/dex-contracts"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/discord-role-granter"
 
 [[repo]]
@@ -283,7 +316,13 @@ url = "https://github.com/thirdweb-example/edition-drop"
 url = "https://github.com/thirdweb-example/edition-staking-app"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/erc-6551"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/erc1155"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/erc20"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/erc20-staking-app"
@@ -322,16 +361,25 @@ url = "https://github.com/thirdweb-example/gelato-gasless"
 url = "https://github.com/thirdweb-example/getting-started"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/gin-go-starter"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/github-contributor-nft-rewards"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/gnosis-safe"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/go-signature-mint"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/hardhat-javascript-starter"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/hardhat-local-node"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/hardhat-starter"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/hardhat-typescript-starter"
@@ -418,6 +466,9 @@ url = "https://github.com/thirdweb-example/pack-creation-script"
 url = "https://github.com/thirdweb-example/packs"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/paper-thirdweb"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/phaser-platformer"
 
 [[repo]]
@@ -458,6 +509,18 @@ url = "https://github.com/thirdweb-example/signature-based-minting"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/signature-drop"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/signature-minting"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/smart-wallet-nodejs"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/smart-wallet-react"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/smart-wallet-script"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/solana-hub"
@@ -502,13 +565,25 @@ url = "https://github.com/thirdweb-example/thirdweb-chainlink-functions"
 url = "https://github.com/thirdweb-example/thirdweb-chainlink-template"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/thirdweb-livepeer"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/thirdweb-stripe"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/todo-list"
 
 [[repo]]
+url = "https://github.com/thirdweb-example/token-bound-account"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/token-bound-account-app"
+
+[[repo]]
 url = "https://github.com/thirdweb-example/token-drop"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/token-gated-account"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/unity-guides"
@@ -539,3 +614,6 @@ url = "https://github.com/thirdweb-example/vite-typescript-starter"
 
 [[repo]]
 url = "https://github.com/thirdweb-example/web3button"
+
+[[repo]]
+url = "https://github.com/thirdweb-example/web3flight"

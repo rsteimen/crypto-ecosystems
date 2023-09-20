@@ -31,6 +31,9 @@ url = "https://github.com/peercoin/btcd"
 url = "https://github.com/peercoin/coin-canvas-lib"
 
 [[repo]]
+url = "https://github.com/peercoin/coinrpc"
+
+[[repo]]
 url = "https://github.com/peercoin/cointoolkit"
 
 [[repo]]
@@ -167,6 +170,9 @@ url = "https://github.com/peercoin/pywallet"
 
 [[repo]]
 url = "https://github.com/peercoin/rfcs"
+
+[[repo]]
+url = "https://github.com/peercoin/rfcs-0028"
 
 [[repo]]
 url = "https://github.com/peercoin/rosetta-peercoin"

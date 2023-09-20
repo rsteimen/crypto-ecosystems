@@ -37,6 +37,9 @@ url = "https://github.com/CertiKProject/move-prover-blog"
 url = "https://github.com/CertiKProject/ocaml-solidity"
 
 [[repo]]
+url = "https://github.com/CertiKProject/QuoteTools"
+
+[[repo]]
 url = "https://github.com/CertiKProject/shentu"
 
 [[repo]]
@@ -47,6 +50,9 @@ url = "https://github.com/CertiKProject/SmartPulseTool"
 
 [[repo]]
 url = "https://github.com/CertiKProject/solc-select"
+
+[[repo]]
+url = "https://github.com/CertiKProject/SVS"
 
 [[repo]]
 url = "https://github.com/CertiKProject/SWC-registry"
@@ -62,6 +68,12 @@ url = "https://github.com/CertiKProject/validator-directory"
 
 [[repo]]
 url = "https://github.com/CertiKProject/vercel_ruby"
+
+[[repo]]
+url = "https://github.com/CertiKProject/yara"
+
+[[repo]]
+url = "https://github.com/CertiKProject/yara-python"
 
 [[repo]]
 url = "https://github.com/ShentuChain/hub"

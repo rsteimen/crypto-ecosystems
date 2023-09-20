@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Byte-Masons"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Byte-Masons/-DEPRECATED--granary-multi-strategy"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/0xdao-strategy"
 
 [[repo]]
@@ -40,6 +43,9 @@ url = "https://github.com/Byte-Masons/defi-ui-template"
 url = "https://github.com/Byte-Masons/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/DefiLlama-Adapters-Ethos"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/excalibur-farmer"
 
 [[repo]]
@@ -56,6 +62,9 @@ url = "https://github.com/Byte-Masons/geist-multi-strategy-wrapper"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/granary-multi-strategy"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/granary-multi-strategy-old"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/Keystone-Smart-Token-Library"

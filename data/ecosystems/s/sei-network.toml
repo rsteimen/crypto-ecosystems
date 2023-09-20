@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/sei-protocol"]
 url = "https://github.com/sei-protocol/dex-indexer"
 
 [[repo]]
+url = "https://github.com/sei-protocol/goblin"
+
+[[repo]]
 url = "https://github.com/sei-protocol/golang-sdk"
+
+[[repo]]
+url = "https://github.com/sei-protocol/gringotts"
 
 [[repo]]
 url = "https://github.com/sei-protocol/half-life"
@@ -46,16 +52,25 @@ url = "https://github.com/sei-protocol/sei-chain-releases"
 url = "https://github.com/sei-protocol/sei-cosmos"
 
 [[repo]]
+url = "https://github.com/sei-protocol/sei-cosmos-exporter"
+
+[[repo]]
 url = "https://github.com/sei-protocol/sei-cosmwasm"
 
 [[repo]]
 url = "https://github.com/sei-protocol/sei-iavl"
 
 [[repo]]
+url = "https://github.com/sei-protocol/sei-ibc-go"
+
+[[repo]]
 url = "https://github.com/sei-protocol/sei-js"
 
 [[repo]]
 url = "https://github.com/sei-protocol/sei-node-monitoring"
+
+[[repo]]
+url = "https://github.com/sei-protocol/sei-seedling"
 
 [[repo]]
 url = "https://github.com/sei-protocol/sei-tendermint"
@@ -74,6 +89,9 @@ url = "https://github.com/sei-protocol/spot-lite"
 
 [[repo]]
 url = "https://github.com/sei-protocol/testnet"
+
+[[repo]]
+url = "https://github.com/sei-protocol/testnet-registry"
 
 [[repo]]
 url = "https://github.com/sei-protocol/tm-db"

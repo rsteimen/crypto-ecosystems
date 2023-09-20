@@ -19,6 +19,9 @@ url = "https://github.com/mars-protocol/bdjuno"
 url = "https://github.com/mars-protocol/big-dipper-2.0-cosmos"
 
 [[repo]]
+url = "https://github.com/mars-protocol/blog"
+
+[[repo]]
 url = "https://github.com/mars-protocol/chain-registry"
 
 [[repo]]
@@ -119,6 +122,9 @@ url = "https://github.com/mars-protocol/slips"
 
 [[repo]]
 url = "https://github.com/mars-protocol/translations"
+
+[[repo]]
+url = "https://github.com/mars-protocol/tvl"
 
 [[repo]]
 url = "https://github.com/mars-protocol/v1-core"

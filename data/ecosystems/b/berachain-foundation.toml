@@ -13,6 +13,9 @@ url = "https://github.com/berachain/.github"
 url = "https://github.com/berachain/berachain-local"
 
 [[repo]]
+url = "https://github.com/berachain/chainlink-testing-framework"
+
+[[repo]]
 url = "https://github.com/berachain/cosmjs"
 
 [[repo]]
@@ -28,6 +31,9 @@ url = "https://github.com/berachain/erigon"
 url = "https://github.com/berachain/ethermint"
 
 [[repo]]
+url = "https://github.com/berachain/ethspam"
+
+[[repo]]
 url = "https://github.com/berachain/flywheel-v2"
 
 [[repo]]
@@ -40,10 +46,37 @@ url = "https://github.com/berachain/go-jsonrpc"
 url = "https://github.com/berachain/goreleaser-pro-cross"
 
 [[repo]]
+url = "https://github.com/berachain/hive"
+
+[[repo]]
 url = "https://github.com/berachain/homebrew-tap"
+
+[[repo]]
+url = "https://github.com/berachain/mev-geth"
+
+[[repo]]
+url = "https://github.com/berachain/node-config"
+
+[[repo]]
+url = "https://github.com/berachain/pob"
+
+[[repo]]
+url = "https://github.com/berachain/polaris"
+
+[[repo]]
+url = "https://github.com/berachain/polaris-examples"
+
+[[repo]]
+url = "https://github.com/berachain/polaris-geth"
 
 [[repo]]
 url = "https://github.com/berachain/prb-math"
 
 [[repo]]
 url = "https://github.com/berachain/pystarport"
+
+[[repo]]
+url = "https://github.com/berachain/swe-guidelines"
+
+[[repo]]
+url = "https://github.com/berachain/zkdrops"

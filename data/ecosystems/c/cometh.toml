@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/cometh-game"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/cometh-game/alembic-tutorials"
+
+[[repo]]
 url = "https://github.com/cometh-game/cometh-assets"
 
 [[repo]]
@@ -22,10 +25,16 @@ url = "https://github.com/cometh-game/default-token-list"
 url = "https://github.com/cometh-game/devcon-raffle"
 
 [[repo]]
+url = "https://github.com/cometh-game/dind-drone-plugin"
+
+[[repo]]
 url = "https://github.com/cometh-game/lacoste-reveal"
 
 [[repo]]
 url = "https://github.com/cometh-game/ledger-app-plugin"
+
+[[repo]]
+url = "https://github.com/cometh-game/pixel-war"
 
 [[repo]]
 url = "https://github.com/cometh-game/polygon-node-ansible"

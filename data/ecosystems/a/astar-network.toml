@@ -1,7 +1,30 @@
 # Ecosystem Level Information
 title = "Astar Network"
 
-sub_ecosystems = ["Artzero", "SiO2", "Starfish Finance", "Starlay Finance"]
+sub_ecosystems = [
+"Artzero",
+"Kodadot",
+"SiO2", 
+"Starfish Finance", 
+"Starlay Finance",
+"ArthSwap",
+"Rubic",
+"Multichain (Anyswap)",
+"Celer Network cBridge",
+"Octopus Network",
+"Poly Network",
+"Wanchain",
+"adaotop",
+"AstridDao",
+"JPY Coin",
+"O3 Swap",
+"PolkaEx",
+"Sirius Finance",
+"StellaSwap",
+"XDAO",
+"Paras",
+"ACryptoS"
+]
 
 github_organizations = ["https://github.com/AstarNetwork", "https://github.com/PlasmNetwork"]
 
@@ -73,6 +96,9 @@ url = "https://github.com/AstarNetwork/astress"
 url = "https://github.com/AstarNetwork/aWASoMe"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/blockstats"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/bls12_381"
 
 [[repo]]
@@ -142,6 +168,12 @@ url = "https://github.com/AstarNetwork/ethereum-bridge-old"
 url = "https://github.com/AstarNetwork/evm"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/evm-nft-contract-poc"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/evm-nft-contract-poc-ui"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/frontend-interview-task"
 
 [[repo]]
@@ -179,6 +211,9 @@ url = "https://github.com/AstarNetwork/ink-playground"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/ink-redible-nft"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/ink-test-contracts"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/ink-xvm-sdk"
@@ -256,6 +291,9 @@ url = "https://github.com/AstarNetwork/plonk"
 url = "https://github.com/AstarNetwork/polkadot"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/polkadot-scripts"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/polkadotjs-ecdsa-hardware"
 
 [[repo]]
@@ -263,6 +301,12 @@ url = "https://github.com/AstarNetwork/polkawallet"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/polkawallet_plugin_plasm"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/PSP-Nesting"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/PSPs"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/rmrk-substrate"
@@ -374,3 +418,86 @@ url = "https://github.com/perpdex/perpdex-lite"
 
 [[repo]]
 url = "https://github.com/PlasmNetwork/defillama-app"
+
+# new added 17.07.2023
+
+[[repo]]
+url = "https://github.com/bluez-app/nft-drop-contracts"
+
+[[repo]]
+url = "https://github.com/Phala-Network/subbridge.js"
+
+[[repo]]
+url = "https://github.com/sygmaprotocol/sygma-solidity"
+
+[[repo]]
+url = "https://github.com/XY-Finance/xy-protocol"
+
+[[repo]]
+url = "https://github.com/AlgemDeFi/algem-contracts"
+
+[[repo]]
+url = "https://github.com/astarexchange/Contracts"
+
+[[repo]]
+url = "https://github.com/AVaultFinance/avault-astar-web"
+
+[[repo]]
+url = "https://github.com/BrainDexAggregator/BrainDex-Contracts"
+
+[[repo]]
+url = "https://github.com/DAM-Finance/dReservoir_EVM"
+
+[[repo]]
+url = "https://github.com/InsureDAO/pool-contracts"
+
+[[repo]]
+url = "https://github.com/kagla-finance/kagla-contract"
+
+[[repo]]
+url = "https://github.com/muuu-finance/protocol"
+
+[[repo]]
+url = "https://github.com/hirodefi/StarSwap"
+
+[[repo]]
+url = "https://github.com/versa-finance-dev/versa-contracts"
+
+[[repo]]
+url = "https://github.com/zenlinkpro/zenlink-wasm-v1"
+
+[[repo]]
+url = "https://github.com/PaimaStudios/landscapeapp"
+
+[[repo]]
+url = "https://github.com/pentaworld/penta-swap"
+
+[[repo]]
+url = "https://github.com/TeamSTEP/witch-one-p2p-name"
+
+[[repo]]
+url = "https://github.com/GuiGou12358/lucky-contracts"
+
+[[repo]]
+url = "https://github.com/AstarDomains/SmartContractEVM"
+
+[[repo]]
+url = "https://github.com/mandalaverse/bakon-maker"
+
+[[repo]]
+url = "https://github.com/grabberofficial/polkapad-app"
+
+[[repo]]
+url = "https://github.com/colorfulnotion/polkaholic"
+
+[[repo]]
+url = "https://github.com/astardegens/astardegens"
+
+[[repo]]
+url = "https://github.com/realGhostChain/ERC721Envious"
+
+[[repo]]
+url = "https://github.com/web3alert/substrate-client"
+
+[[repo]]
+url = "https://github.com/OrcusFinance/Orcus-Finance"

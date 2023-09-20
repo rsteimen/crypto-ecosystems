@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Unique Network"
 
-sub_ecosystems = []
+sub_ecosystems = ["Kodadot"]
 
 github_organizations = ["https://github.com/UniqueNetwork"]
 
@@ -16,7 +16,13 @@ url = "https://github.com/UniqueNetwork/Acala"
 url = "https://github.com/UniqueNetwork/archive-processor-example"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/astar-apps"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/ayzek-plugin-unique"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/chainql"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/chains"
@@ -37,6 +43,9 @@ url = "https://github.com/UniqueNetwork/DAfC-Marketplace"
 url = "https://github.com/UniqueNetwork/DigitalArt4Climate2021"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/enKrypt"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/Ethereum-NFT-Store-with-Dutch-Auctions"
 
 [[repo]]
@@ -47,6 +56,9 @@ url = "https://github.com/UniqueNetwork/evm_examples"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/faucet-bot"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/get-market-token-owners"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/import_tools"
@@ -62,6 +74,9 @@ url = "https://github.com/UniqueNetwork/marketplace-backend"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/marketplace-docker"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/mass-selling"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/nft-sdk-workshop"
@@ -98,6 +113,9 @@ url = "https://github.com/UniqueNetwork/rft-buzz"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/rmrk-substrate"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/royalty-distribution"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/scan-analytics"
@@ -202,6 +220,9 @@ url = "https://github.com/UniqueNetwork/unique-placeholder"
 url = "https://github.com/UniqueNetwork/unique-playgrounds"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/unique-royalties"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/unique-scan-backend"
 
 [[repo]]
@@ -247,7 +268,16 @@ url = "https://github.com/UniqueNetwork/unique_testnet_marketplace"
 url = "https://github.com/UniqueNetwork/unique_utils"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/updated-stake-script"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/web3-provider-sponsoring"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/XC-NFT-standard"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/zombienet"
 
 [[repo]]
 url = "https://github.com/usetech-llc/clover"

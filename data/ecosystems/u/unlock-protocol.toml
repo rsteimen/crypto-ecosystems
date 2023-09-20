@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/unlock-protocol"]
 url = "https://github.com/unlock-protocol/advent-calendar-2022"
 
 [[repo]]
+url = "https://github.com/unlock-protocol/alphatweet"
+
+[[repo]]
 url = "https://github.com/unlock-protocol/alphatwt"
 
 [[repo]]
@@ -41,6 +44,9 @@ url = "https://github.com/unlock-protocol/docs"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/eth-gas-reporter"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/eth-phishing-detect"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/ethdenver-treasure-hunt"
@@ -83,6 +89,9 @@ url = "https://github.com/unlock-protocol/hardhat-plugin-ts-example"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/hardlydifficult-eth"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/key-purchaser"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/locked.fyi"
@@ -155,6 +164,9 @@ url = "https://github.com/unlock-protocol/unlock-dashboard"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/unlock-ethpass-nextjs"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/unlock-labs-delegation"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/unlock-subgraph"

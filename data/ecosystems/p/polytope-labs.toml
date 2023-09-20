@@ -13,16 +13,37 @@ url = "https://github.com/polytope-labs/cumulus"
 url = "https://github.com/polytope-labs/data-distro"
 
 [[repo]]
+url = "https://github.com/polytope-labs/Discord-Telegram-Bridge"
+
+[[repo]]
 url = "https://github.com/polytope-labs/EIPs"
 
 [[repo]]
 url = "https://github.com/polytope-labs/ethereum-consensus"
 
 [[repo]]
+url = "https://github.com/polytope-labs/ethereum-trie"
+
+[[repo]]
+url = "https://github.com/polytope-labs/ethereum-triedb"
+
+[[repo]]
 url = "https://github.com/polytope-labs/foundry"
 
 [[repo]]
+url = "https://github.com/polytope-labs/Grant-Milestone-Delivery"
+
+[[repo]]
+url = "https://github.com/polytope-labs/Grants-Program"
+
+[[repo]]
 url = "https://github.com/polytope-labs/ibc"
+
+[[repo]]
+url = "https://github.com/polytope-labs/ismp"
+
+[[repo]]
+url = "https://github.com/polytope-labs/ismp-rs"
 
 [[repo]]
 url = "https://github.com/polytope-labs/merkle-mountain-range"
@@ -37,6 +58,9 @@ url = "https://github.com/polytope-labs/patricia-merkle-trie"
 url = "https://github.com/polytope-labs/prisma-client-rs"
 
 [[repo]]
+url = "https://github.com/polytope-labs/rand"
+
+[[repo]]
 url = "https://github.com/polytope-labs/rs-merkle"
 
 [[repo]]
@@ -46,10 +70,19 @@ url = "https://github.com/polytope-labs/sample-ledger-nano-rust-app"
 url = "https://github.com/polytope-labs/sc-simnode"
 
 [[repo]]
+url = "https://github.com/polytope-labs/simnode-examples"
+
+[[repo]]
 url = "https://github.com/polytope-labs/solidity-merkle-trees"
 
 [[repo]]
 url = "https://github.com/polytope-labs/ssz-rs"
+
+[[repo]]
+url = "https://github.com/polytope-labs/substrate"
+
+[[repo]]
+url = "https://github.com/polytope-labs/substrate-ismp"
 
 [[repo]]
 url = "https://github.com/polytope-labs/substrate-node-template"
@@ -58,4 +91,13 @@ url = "https://github.com/polytope-labs/substrate-node-template"
 url = "https://github.com/polytope-labs/substrate-xt"
 
 [[repo]]
+url = "https://github.com/polytope-labs/subxt"
+
+[[repo]]
+url = "https://github.com/polytope-labs/subxt-codegen"
+
+[[repo]]
 url = "https://github.com/polytope-labs/sybil"
+
+[[repo]]
+url = "https://github.com/polytope-labs/sync-committee-rs"

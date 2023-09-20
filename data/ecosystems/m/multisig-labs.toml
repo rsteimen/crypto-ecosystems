@@ -25,6 +25,12 @@ url = "https://github.com/multisig-labs/avalanche-network-runner"
 url = "https://github.com/multisig-labs/avalanchego"
 
 [[repo]]
+url = "https://github.com/multisig-labs/caddyapi"
+
+[[repo]]
+url = "https://github.com/multisig-labs/ceres"
+
+[[repo]]
 url = "https://github.com/multisig-labs/docs.gogopool.com"
 
 [[repo]]
@@ -43,7 +49,13 @@ url = "https://github.com/multisig-labs/GoGoDashboard"
 url = "https://github.com/multisig-labs/gogopool"
 
 [[repo]]
+url = "https://github.com/multisig-labs/gogopool-archive"
+
+[[repo]]
 url = "https://github.com/multisig-labs/gogopool-go"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogopool-search"
 
 [[repo]]
 url = "https://github.com/multisig-labs/GoGoStandup"
@@ -52,10 +64,16 @@ url = "https://github.com/multisig-labs/GoGoStandup"
 url = "https://github.com/multisig-labs/GoGoTools"
 
 [[repo]]
+url = "https://github.com/multisig-labs/joe-tokenlists"
+
+[[repo]]
 url = "https://github.com/multisig-labs/multi-party-sig"
 
 [[repo]]
 url = "https://github.com/multisig-labs/Panopticon"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pocketbase"
 
 [[repo]]
 url = "https://github.com/multisig-labs/rocketpool"

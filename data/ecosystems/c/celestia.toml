@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Celestia"
 
-sub_ecosystems = ["Modular Cloud"]
+sub_ecosystems = ["Astria", "Modular Cloud", "Rollkit"]
 
 github_organizations = ["https://github.com/celestiaorg"]
 
@@ -28,10 +28,16 @@ url = "https://github.com/celestiaorg/big-dipper-2.0-cosmos"
 url = "https://github.com/celestiaorg/big-dipper-assets"
 
 [[repo]]
+url = "https://github.com/celestiaorg/celbot"
+
+[[repo]]
 url = "https://github.com/celestiaorg/celestia-app"
 
 [[repo]]
 url = "https://github.com/celestiaorg/celestia-core"
+
+[[repo]]
+url = "https://github.com/celestiaorg/celestia-helm-charts"
 
 [[repo]]
 url = "https://github.com/celestiaorg/celestia-local-docker"
@@ -55,6 +61,12 @@ url = "https://github.com/celestiaorg/celestia-sre"
 url = "https://github.com/celestiaorg/celestia.org"
 
 [[repo]]
+url = "https://github.com/celestiaorg/celestia.org-2"
+
+[[repo]]
+url = "https://github.com/celestiaorg/chain-registry"
+
+[[repo]]
 url = "https://github.com/celestiaorg/changelog-checker"
 
 [[repo]]
@@ -71,6 +83,9 @@ url = "https://github.com/celestiaorg/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/celestiaorg/cosmos-sdk-rollmint"
+
+[[repo]]
+url = "https://github.com/celestiaorg/da-client-rs"
 
 [[repo]]
 url = "https://github.com/celestiaorg/dagstore"
@@ -133,6 +148,9 @@ url = "https://github.com/celestiaorg/go-cnc"
 url = "https://github.com/celestiaorg/go-ds-badger2"
 
 [[repo]]
+url = "https://github.com/celestiaorg/go-fraud"
+
+[[repo]]
 url = "https://github.com/celestiaorg/go-header"
 
 [[repo]]
@@ -187,6 +205,15 @@ url = "https://github.com/celestiaorg/juno"
 url = "https://github.com/celestiaorg/keplr-wallet"
 
 [[repo]]
+url = "https://github.com/celestiaorg/knuu"
+
+[[repo]]
+url = "https://github.com/celestiaorg/knuu-example"
+
+[[repo]]
+url = "https://github.com/celestiaorg/knuu-executor"
+
+[[repo]]
 url = "https://github.com/celestiaorg/kv-snap-bench"
 
 [[repo]]
@@ -214,6 +241,9 @@ url = "https://github.com/celestiaorg/networks"
 url = "https://github.com/celestiaorg/nmt"
 
 [[repo]]
+url = "https://github.com/celestiaorg/node-rpc-docs"
+
+[[repo]]
 url = "https://github.com/celestiaorg/nodelogger"
 
 [[repo]]
@@ -221,6 +251,9 @@ url = "https://github.com/celestiaorg/optimism"
 
 [[repo]]
 url = "https://github.com/celestiaorg/orchestrator-relayer"
+
+[[repo]]
+url = "https://github.com/celestiaorg/PromptScavenger"
 
 [[repo]]
 url = "https://github.com/celestiaorg/protobuf3-solidity"
@@ -251,6 +284,9 @@ url = "https://github.com/celestiaorg/sync-service"
 
 [[repo]]
 url = "https://github.com/celestiaorg/tendermint"
+
+[[repo]]
+url = "https://github.com/celestiaorg/terraform-module-scw-k8s"
 
 [[repo]]
 url = "https://github.com/celestiaorg/test-docker-images"

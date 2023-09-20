@@ -28,6 +28,9 @@ url = "https://github.com/bugout-dev/bazaar"
 url = "https://github.com/bugout-dev/blobs3"
 
 [[repo]]
+url = "https://github.com/bugout-dev/boss-battle"
+
+[[repo]]
 url = "https://github.com/bugout-dev/brood"
 
 [[repo]]
@@ -65,6 +68,9 @@ url = "https://github.com/bugout-dev/dao"
 
 [[repo]]
 url = "https://github.com/bugout-dev/darkforest-eth"
+
+[[repo]]
+url = "https://github.com/bugout-dev/discord-bots"
 
 [[repo]]
 url = "https://github.com/bugout-dev/djangorestframework-queryfields"

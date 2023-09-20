@@ -22,7 +22,13 @@ url = "https://github.com/latticexyz/emojimon"
 url = "https://github.com/latticexyz/hardhat"
 
 [[repo]]
+url = "https://github.com/latticexyz/issues"
+
+[[repo]]
 url = "https://github.com/latticexyz/mud"
+
+[[repo]]
+url = "https://github.com/latticexyz/mud-community"
 
 [[repo]]
 url = "https://github.com/latticexyz/mud-template-minimal"
@@ -52,13 +58,31 @@ url = "https://github.com/latticexyz/opcraft-readonly"
 url = "https://github.com/latticexyz/persona"
 
 [[repo]]
+url = "https://github.com/latticexyz/phaser-workshop"
+
+[[repo]]
+url = "https://github.com/latticexyz/react-todo"
+
+[[repo]]
+url = "https://github.com/latticexyz/react-workshop-starter"
+
+[[repo]]
 url = "https://github.com/latticexyz/registry"
+
+[[repo]]
+url = "https://github.com/latticexyz/retro-pfg-automation"
+
+[[repo]]
+url = "https://github.com/latticexyz/solidity-parser"
 
 [[repo]]
 url = "https://github.com/latticexyz/stressoor.js"
 
 [[repo]]
 url = "https://github.com/latticexyz/ticking-optimism"
+
+[[repo]]
+url = "https://github.com/latticexyz/v2sandbox"
 
 [[repo]]
 url = "https://github.com/latticexyz/WasmNoise"

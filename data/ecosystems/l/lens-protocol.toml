@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/lens-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/amadeobrands/defi-struct"
+
+[[repo]]
 url = "https://github.com/embrace-community/embrace-dapp"
 
 [[repo]]
@@ -19,6 +22,9 @@ url = "https://github.com/Giftea/metaPixel"
 url = "https://github.com/Im-Kunal-13/lenster_clone"
 
 [[repo]]
+url = "https://github.com/InfluLenser/dapp"
+
+[[repo]]
 url = "https://github.com/irisxyz/iris"
 
 [[repo]]
@@ -26,6 +32,12 @@ url = "https://github.com/jonomnom/reviewmint"
 
 [[repo]]
 url = "https://github.com/lens-protocol/api-examples"
+
+[[repo]]
+url = "https://github.com/lens-protocol/bonsai"
+
+[[repo]]
+url = "https://github.com/lens-protocol/bonsai-explorer"
 
 [[repo]]
 url = "https://github.com/lens-protocol/brand-kit"
@@ -40,10 +52,28 @@ url = "https://github.com/lens-protocol/cultivator-dao-election"
 url = "https://github.com/lens-protocol/lens-sdk"
 
 [[repo]]
+url = "https://github.com/lens-protocol/lens-standards"
+
+[[repo]]
 url = "https://github.com/lens-protocol/lens-widgets"
 
 [[repo]]
+url = "https://github.com/lens-protocol/LIPs"
+
+[[repo]]
 url = "https://github.com/lens-protocol/modules"
+
+[[repo]]
+url = "https://github.com/lens-protocol/momoka"
+
+[[repo]]
+url = "https://github.com/lens-protocol/momoka-explorer"
+
+[[repo]]
+url = "https://github.com/lens-protocol/now-you-see-me"
+
+[[repo]]
+url = "https://github.com/lens-protocol/now-you-see-react"
 
 [[repo]]
 url = "https://github.com/lens-protocol/profile-lists"
@@ -59,6 +89,9 @@ url = "https://github.com/lens-protocol/token-list"
 
 [[repo]]
 url = "https://github.com/lenstok/lenstok"
+
+[[repo]]
+url = "https://github.com/naps62/ethglobal-lisbon"
 
 [[repo]]
 url = "https://github.com/NilsIrl/lensbot"
@@ -83,3 +116,6 @@ url = "https://github.com/worldcoin/world-id-lens-bridge"
 
 [[repo]]
 url = "https://github.com/worldcoin/world-id-lens-dapp"
+
+[[repo]]
+url = "https://github.com/zkpay-team/dapp"

@@ -1,7 +1,9 @@
 # Ecosystem Level Information
 title = "The Graph"
 
-sub_ecosystems = []
+sub_ecosystems = [
+    "Streaming Fast",
+]
 
 github_organizations = ["https://github.com/GraphiteTools", "https://github.com/graphprotocol"]
 
@@ -1766,6 +1768,7 @@ url = "https://github.com/Uniswap/v2-subgraph"
 
 [[repo]]
 url = "https://github.com/vaporns/ens-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/vdamle/ethsf-linnia-subgraph"

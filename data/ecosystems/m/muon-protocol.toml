@@ -46,7 +46,13 @@ url = "https://github.com/muon-protocol/muon-data"
 url = "https://github.com/muon-protocol/muon-data-ui"
 
 [[repo]]
+url = "https://github.com/muon-protocol/muon-events-subscriber"
+
+[[repo]]
 url = "https://github.com/muon-protocol/muon-explorer-backend"
+
+[[repo]]
+url = "https://github.com/muon-protocol/muon-fees-backend"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-node-js"
@@ -70,10 +76,16 @@ url = "https://github.com/muon-protocol/muon-subgraphs"
 url = "https://github.com/muon-protocol/muon-threshold-signature"
 
 [[repo]]
+url = "https://github.com/muon-protocol/muon-tokenomics-contracts"
+
+[[repo]]
 url = "https://github.com/muon-protocol/muon-tron"
 
 [[repo]]
 url = "https://github.com/muon-protocol/muon-website"
+
+[[repo]]
+url = "https://github.com/muon-protocol/remote-method-caller"
 
 [[repo]]
 url = "https://github.com/muon-protocol/solana-tests"

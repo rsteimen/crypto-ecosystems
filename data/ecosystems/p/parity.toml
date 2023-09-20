@@ -49,6 +49,9 @@ url = "https://github.com/paritytech/as-substrate"
 url = "https://github.com/paritytech/asset-transfer-api"
 
 [[repo]]
+url = "https://github.com/paritytech/asset-transfer-api-registry"
+
+[[repo]]
 url = "https://github.com/paritytech/asset_cli_tool"
 
 [[repo]]
@@ -122,6 +125,12 @@ url = "https://github.com/paritytech/capi-binary-builds"
 
 [[repo]]
 url = "https://github.com/paritytech/capi-crypto-wrappers"
+
+[[repo]]
+url = "https://github.com/paritytech/capi-node-example"
+
+[[repo]]
+url = "https://github.com/paritytech/capi-vite-example"
 
 [[repo]]
 url = "https://github.com/paritytech/cargo-contract"
@@ -319,19 +328,13 @@ url = "https://github.com/paritytech/diener"
 url = "https://github.com/paritytech/do-nothing-app"
 
 [[repo]]
-url = "https://github.com/paritytech/do-nothing-app"
-
-[[repo]]
-url = "https://github.com/paritytech/do-nothing-app"
-
-[[repo]]
-url = "https://github.com/paritytech/do_nothing_app"
-
-[[repo]]
 url = "https://github.com/paritytech/do_nothing_app"
 
 [[repo]]
 url = "https://github.com/paritytech/docker-machine"
+
+[[repo]]
+url = "https://github.com/paritytech/docs.capi.dev"
 
 [[repo]]
 url = "https://github.com/paritytech/dot-jaeger"
@@ -346,10 +349,10 @@ url = "https://github.com/paritytech/dotexporter"
 url = "https://github.com/paritytech/downloads-proxy"
 
 [[repo]]
-url = "https://github.com/paritytech/ecosystem-performance-benchmarks"
+url = "https://github.com/paritytech/ed25519-dalek"
 
 [[repo]]
-url = "https://github.com/paritytech/ed25519-dalek"
+url = "https://github.com/paritytech/egts"
 
 [[repo]]
 url = "https://github.com/paritytech/EIP-712"
@@ -610,6 +613,9 @@ url = "https://github.com/paritytech/lightbeam-stammtisch"
 url = "https://github.com/paritytech/link"
 
 [[repo]]
+url = "https://github.com/paritytech/list-team-members"
+
+[[repo]]
 url = "https://github.com/paritytech/llvm-wasm-codesize"
 
 [[repo]]
@@ -697,6 +703,9 @@ url = "https://github.com/paritytech/nohash-hasher"
 url = "https://github.com/paritytech/Nomidot"
 
 [[repo]]
+url = "https://github.com/paritytech/nos"
+
+[[repo]]
 url = "https://github.com/paritytech/oo7"
 
 [[repo]]
@@ -751,6 +760,9 @@ url = "https://github.com/paritytech/parachains-core-milestones"
 url = "https://github.com/paritytech/parachains-integration-tests"
 
 [[repo]]
+url = "https://github.com/paritytech/parachains-utils"
+
+[[repo]]
 url = "https://github.com/paritytech/parity-ansible"
 
 [[repo]]
@@ -794,6 +806,9 @@ url = "https://github.com/paritytech/parity-news"
 
 [[repo]]
 url = "https://github.com/paritytech/parity-processbot"
+
+[[repo]]
+url = "https://github.com/paritytech/parity-publish"
 
 [[repo]]
 url = "https://github.com/paritytech/parity-react-scripts"
@@ -874,6 +889,9 @@ url = "https://github.com/paritytech/polkadot-interaction-examples-rs"
 url = "https://github.com/paritytech/polkadot-introspector"
 
 [[repo]]
+url = "https://github.com/paritytech/polkadot-language-landing-pages"
+
+[[repo]]
 url = "https://github.com/paritytech/polkadot-launch"
 
 [[repo]]
@@ -892,6 +910,9 @@ url = "https://github.com/paritytech/polkadot-runtime-test"
 url = "https://github.com/paritytech/polkadot-scripts"
 
 [[repo]]
+url = "https://github.com/paritytech/polkadot-sdk-docs"
+
+[[repo]]
 url = "https://github.com/paritytech/polkadot-spec"
 
 [[repo]]
@@ -901,6 +922,9 @@ url = "https://github.com/paritytech/polkadot-staking-dashboard"
 url = "https://github.com/paritytech/polkadot-stps"
 
 [[repo]]
+url = "https://github.com/paritytech/polkadot-testnet-faucet"
+
+[[repo]]
 url = "https://github.com/paritytech/polkadot-ui"
 
 [[repo]]
@@ -908,6 +932,9 @@ url = "https://github.com/paritytech/polkadot-wasm-bin"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot_network_directory"
+
+[[repo]]
+url = "https://github.com/paritytech/polkapobal"
 
 [[repo]]
 url = "https://github.com/paritytech/polkassembly"
@@ -931,7 +958,16 @@ url = "https://github.com/paritytech/prism.dapp"
 url = "https://github.com/paritytech/push-release"
 
 [[repo]]
+url = "https://github.com/paritytech/pvf-checker"
+
+[[repo]]
+url = "https://github.com/paritytech/pvf-executor"
+
+[[repo]]
 url = "https://github.com/paritytech/pwasm-runtime-js"
+
+[[repo]]
+url = "https://github.com/paritytech/qualysapi"
 
 [[repo]]
 url = "https://github.com/paritytech/quicksink"
@@ -1093,6 +1129,9 @@ url = "https://github.com/paritytech/shasper"
 url = "https://github.com/paritytech/signer"
 
 [[repo]]
+url = "https://github.com/paritytech/signer-website"
+
+[[repo]]
 url = "https://github.com/paritytech/simnet_scripts"
 
 [[repo]]
@@ -1123,6 +1162,9 @@ url = "https://github.com/paritytech/soketto"
 url = "https://github.com/paritytech/solo-para-bridge-poc"
 
 [[repo]]
+url = "https://github.com/paritytech/sp-curves"
+
+[[repo]]
 url = "https://github.com/paritytech/specs"
 
 [[repo]]
@@ -1142,6 +1184,12 @@ url = "https://github.com/paritytech/ssc"
 
 [[repo]]
 url = "https://github.com/paritytech/staking-miner-v2"
+
+[[repo]]
+url = "https://github.com/paritytech/stale-issues-finder"
+
+[[repo]]
+url = "https://github.com/paritytech/stale-pr-finder"
 
 [[repo]]
 url = "https://github.com/paritytech/stateless-blockchain"
@@ -1195,6 +1243,9 @@ url = "https://github.com/paritytech/substrate-connect"
 url = "https://github.com/paritytech/substrate-contracts-node"
 
 [[repo]]
+url = "https://github.com/paritytech/substrate-curves"
+
+[[repo]]
 url = "https://github.com/paritytech/substrate-debug-kit"
 
 [[repo]]
@@ -1232,6 +1283,12 @@ url = "https://github.com/paritytech/substrate-node-template"
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-open-working-groups"
+
+[[repo]]
+url = "https://github.com/paritytech/substrate-parachain-node"
+
+[[repo]]
+url = "https://github.com/paritytech/substrate-parachain-node-1"
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-playground"
@@ -1400,6 +1457,9 @@ url = "https://github.com/paritytech/yellowpaper"
 
 [[repo]]
 url = "https://github.com/paritytech/zombienet"
+
+[[repo]]
+url = "https://github.com/paritytech/zombienet-sdk"
 
 [[repo]]
 url = "https://github.com/paritytech/zombienet-vscode-extension"

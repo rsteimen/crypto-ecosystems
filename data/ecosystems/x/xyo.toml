@@ -145,6 +145,9 @@ url = "https://github.com/XYOracleNetwork/app-xyo-sample-android"
 url = "https://github.com/XYOracleNetwork/app-xyosimulator-android"
 
 [[repo]]
+url = "https://github.com/XYOracleNetwork/dapp-gas-price"
+
+[[repo]]
 url = "https://github.com/XYOracleNetwork/dapp-saverasheed-solidity"
 
 [[repo]]
@@ -218,6 +221,9 @@ url = "https://github.com/XYOracleNetwork/web-developer-portal-3.0"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/web-portal-react"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork/web-xyo.network-docusaurus"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/xyo-foundation"

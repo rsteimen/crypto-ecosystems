@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/Cron-Near", "https://github.com/Cron
 url = "https://github.com/CronCats/.github"
 
 [[repo]]
+url = "https://github.com/CronCats/abstract-croncat-app"
+
+[[repo]]
 url = "https://github.com/CronCats/bounties"
 
 [[repo]]
@@ -71,6 +74,9 @@ url = "https://github.com/CronCats/cw-purrbox"
 
 [[repo]]
 url = "https://github.com/CronCats/docs"
+
+[[repo]]
+url = "https://github.com/CronCats/indexer-cosmjs"
 
 [[repo]]
 url = "https://github.com/CronCats/indexer-sweep"

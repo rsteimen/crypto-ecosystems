@@ -13,6 +13,9 @@ url = "https://github.com/dcaf-labs/.github"
 url = "https://github.com/dcaf-labs/backpack"
 
 [[repo]]
+url = "https://github.com/dcaf-labs/binary"
+
+[[repo]]
 url = "https://github.com/dcaf-labs/drip-backend-v2"
 
 [[repo]]
@@ -23,6 +26,9 @@ url = "https://github.com/dcaf-labs/drip-sdk"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/drip-sdk-example"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/drip-v2-backend"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/go-gecko"

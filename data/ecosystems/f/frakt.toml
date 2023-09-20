@@ -13,6 +13,9 @@ url = "https://github.com/frakt-solana/awesome-akash"
 url = "https://github.com/frakt-solana/awesome-solana-nfts"
 
 [[repo]]
+url = "https://github.com/frakt-solana/bonds-public-sdk"
+
+[[repo]]
 url = "https://github.com/frakt-solana/DefiLlama-Adapters"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/frakt-solana/fraktion-tokens-list"
 
 [[repo]]
 url = "https://github.com/frakt-solana/legacy-frakt-ui"
+
+[[repo]]
+url = "https://github.com/frakt-solana/loans-xnft"
 
 [[repo]]
 url = "https://github.com/frakt-solana/new-loan-bots"

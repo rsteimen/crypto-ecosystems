@@ -256,6 +256,9 @@ url = "https://github.com/CortexFoundation/googletest"
 url = "https://github.com/CortexFoundation/HIP"
 
 [[repo]]
+url = "https://github.com/CortexFoundation/hive"
+
+[[repo]]
 url = "https://github.com/CortexFoundation/hiveos-linux"
 
 [[repo]]
@@ -446,6 +449,9 @@ url = "https://github.com/CortexFoundation/stylegan2-pytorch"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/StyleTransferTrilogy"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/tachikoma"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/tech-doc"

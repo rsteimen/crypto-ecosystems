@@ -34,6 +34,9 @@ url = "https://github.com/banyancomputer/blake3-sol"
 url = "https://github.com/banyancomputer/blake3_processing"
 
 [[repo]]
+url = "https://github.com/banyancomputer/blucket"
+
+[[repo]]
 url = "https://github.com/banyancomputer/chainlink-external-adapter-rs"
 
 [[repo]]
@@ -118,6 +121,9 @@ url = "https://github.com/banyancomputer/go-verifcid"
 url = "https://github.com/banyancomputer/gobao"
 
 [[repo]]
+url = "https://github.com/banyancomputer/GroundsKeeper"
+
+[[repo]]
 url = "https://github.com/banyancomputer/interface"
 
 [[repo]]
@@ -145,16 +151,43 @@ url = "https://github.com/banyancomputer/playing-with-zk-bao"
 url = "https://github.com/banyancomputer/retrieval-pinning"
 
 [[repo]]
+url = "https://github.com/banyancomputer/rs-wnfs"
+
+[[repo]]
 url = "https://github.com/banyancomputer/rust-ipfs-api"
 
 [[repo]]
+url = "https://github.com/banyancomputer/s3-server"
+
+[[repo]]
+url = "https://github.com/banyancomputer/s3-service"
+
+[[repo]]
+url = "https://github.com/banyancomputer/s3s"
+
+[[repo]]
 url = "https://github.com/banyancomputer/sdk"
+
+[[repo]]
+url = "https://github.com/banyancomputer/tomb"
+
+[[repo]]
+url = "https://github.com/banyancomputer/tomb-sdk"
+
+[[repo]]
+url = "https://github.com/banyancomputer/tomb-www"
+
+[[repo]]
+url = "https://github.com/banyancomputer/tombolo"
 
 [[repo]]
 url = "https://github.com/banyancomputer/tombolo-frontend"
 
 [[repo]]
 url = "https://github.com/banyancomputer/tombolo-frontend-new"
+
+[[repo]]
+url = "https://github.com/banyancomputer/tombolo-frontend-old"
 
 [[repo]]
 url = "https://github.com/banyancomputer/uni-v3-fevm-interface"

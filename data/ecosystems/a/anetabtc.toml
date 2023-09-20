@@ -3,11 +3,7 @@ title = "anetaBTC"
 
 sub_ecosystems = []
 
-github_organizations = [
-  "https://github.com/anetaBTC",
-  "https://github.com/anetabtc",
-  "https://github.com/TosiDrop",
-]
+github_organizations = ["https://github.com/anetaBTC", "https://github.com/TosiDrop"]
 
 # Repositories
 [[repo]]
@@ -35,7 +31,8 @@ url = "https://github.com/anetabtc/anetabtc-documentation"
 url = "https://github.com/anetabtc/anetabtc-frontend"
 
 [[repo]]
-url = "https://github.com/anetabtc/anetabtc-landing"
+url = "https://github.com/anetaBTC/anetaBTC-landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/anetabtc/anetabtc-nft"
@@ -44,16 +41,14 @@ url = "https://github.com/anetabtc/anetabtc-nft"
 url = "https://github.com/anetabtc/anetabtc_landing"
 
 [[repo]]
-url = "https://github.com/anetabtc/anetabtc_team"
+url = "https://github.com/anetaBTC/anetaBTC_team"
+missing = true
 
 [[repo]]
 url = "https://github.com/anetabtc/awesome-ergo"
 
 [[repo]]
 url = "https://github.com/anetabtc/cardano-front"
-
-[[repo]]
-url = "https://github.com/anetabtc/cbtc"
 
 [[repo]]
 url = "https://github.com/anetabtc/ebtc-backend"

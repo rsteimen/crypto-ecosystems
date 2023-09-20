@@ -76,10 +76,16 @@ url = "https://github.com/casper-ecosystem/caspookem"
 url = "https://github.com/casper-ecosystem/cep-78-enhanced-nft"
 
 [[repo]]
+url = "https://github.com/casper-ecosystem/cep18"
+
+[[repo]]
 url = "https://github.com/casper-ecosystem/contract-upgrade-example"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/counter"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/developer-rewards"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/erc20"
@@ -167,6 +173,9 @@ url = "https://github.com/casper-ecosystem/storage-example"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/tetris-casper-game"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/tutorials-example-wasm"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/two-party-multi-sig"

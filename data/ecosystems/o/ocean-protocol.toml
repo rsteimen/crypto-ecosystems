@@ -43,6 +43,9 @@ url = "https://github.com/deltaDAO/gaia-x-testnet-statistics"
 url = "https://github.com/deltaDAO/gaia-x-testnet-statistics-api"
 
 [[repo]]
+url = "https://github.com/deltaDAO/kubernetes-ocean-stack-flux"
+
+[[repo]]
 url = "https://github.com/deltaDAO/market-foreverontheblockchain"
 
 [[repo]]
@@ -53,6 +56,9 @@ url = "https://github.com/deltaDAO/mvg-hackathon-overview"
 
 [[repo]]
 url = "https://github.com/deltaDAO/mvg-portal"
+
+[[repo]]
+url = "https://github.com/deltaDAO/nautilus"
 
 [[repo]]
 url = "https://github.com/deltaDAO/normalize-microservice"
@@ -86,6 +92,9 @@ url = "https://github.com/deltaDAO/pod-publishing"
 
 [[repo]]
 url = "https://github.com/deltaDAO/portal-euprogigant"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-fmdm"
 
 [[repo]]
 url = "https://github.com/deltaDAO/portal-moveID"
@@ -263,6 +272,9 @@ url = "https://github.com/oceanprotocol/data-challenges"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/datascience"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/dbs.js"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/dbs_arweave"
@@ -496,6 +508,21 @@ url = "https://github.com/oceanprotocol/osmosis-on-premise-driver"
 url = "https://github.com/oceanprotocol/papers"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/pdr-predictoor"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-predictoors"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-publisher"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-trader"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-trueval"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/Plecos"
 
 [[repo]]
@@ -607,6 +634,9 @@ url = "https://github.com/oceanprotocol/token-bridge-contracts"
 url = "https://github.com/oceanprotocol/token-bridge-ui"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/token-gating-template"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/tuna"
 
 [[repo]]
@@ -617,6 +647,9 @@ url = "https://github.com/oceanprotocol/use-dark-mode"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/use-persisted-state"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/user-queries"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/v4-migration-lib"

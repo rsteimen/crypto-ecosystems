@@ -58,6 +58,9 @@ url = "https://github.com/storj/bridge-gui"
 url = "https://github.com/storj/bridge-gui-vue"
 
 [[repo]]
+url = "https://github.com/storj/briskitall"
+
+[[repo]]
 url = "https://github.com/storj/browser"
 
 [[repo]]
@@ -98,6 +101,9 @@ url = "https://github.com/storj/data-api"
 
 [[repo]]
 url = "https://github.com/storj/dbx"
+
+[[repo]]
+url = "https://github.com/storj/design-docs"
 
 [[repo]]
 url = "https://github.com/storj/dev-meetings"
@@ -172,6 +178,9 @@ url = "https://github.com/storj/heroku-addon"
 url = "https://github.com/storj/heroku-email-service"
 
 [[repo]]
+url = "https://github.com/storj/huggingface-hub-storj-patch"
+
+[[repo]]
 url = "https://github.com/storj/illustrated"
 
 [[repo]]
@@ -188,6 +197,9 @@ url = "https://github.com/storj/ipfs-demo"
 
 [[repo]]
 url = "https://github.com/storj/ipfs-go-ds-storj"
+
+[[repo]]
+url = "https://github.com/storj/ipfs-index-provider"
 
 [[repo]]
 url = "https://github.com/storj/ipfs-user-mapping-proxy"
@@ -233,6 +245,9 @@ url = "https://github.com/storj/node-storj3"
 
 [[repo]]
 url = "https://github.com/storj/nodegeo"
+
+[[repo]]
+url = "https://github.com/storj/nsdf-fuse"
 
 [[repo]]
 url = "https://github.com/storj/objectmap"

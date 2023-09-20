@@ -19,6 +19,9 @@ url = "https://github.com/router-protocol/contract-metadata"
 url = "https://github.com/router-protocol/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/router-protocol/crosschain-deployer"
+
+[[repo]]
 url = "https://github.com/router-protocol/cw-bridge-contract-template"
 
 [[repo]]
@@ -46,6 +49,9 @@ url = "https://github.com/router-protocol/logo"
 url = "https://github.com/router-protocol/new-crosstalk-sample"
 
 [[repo]]
+url = "https://github.com/router-protocol/new-crosstalk-sample-1"
+
+[[repo]]
 url = "https://github.com/router-protocol/omniwallet"
 
 [[repo]]
@@ -64,6 +70,12 @@ url = "https://github.com/router-protocol/reserve-asset-list"
 url = "https://github.com/router-protocol/roadmap"
 
 [[repo]]
+url = "https://github.com/router-protocol/router-chain-docs"
+
+[[repo]]
+url = "https://github.com/router-protocol/router-chain-releases"
+
+[[repo]]
 url = "https://github.com/router-protocol/router-chain-ts-sdk"
 
 [[repo]]
@@ -76,19 +88,31 @@ url = "https://github.com/router-protocol/router-crosstalk-sample"
 url = "https://github.com/router-protocol/router-ctf"
 
 [[repo]]
+url = "https://github.com/router-protocol/router-ecosystem"
+
+[[repo]]
 url = "https://github.com/router-protocol/router-governance"
 
 [[repo]]
 url = "https://github.com/router-protocol/router-protocol-audit"
 
 [[repo]]
+url = "https://github.com/router-protocol/router-protocol-bridge-contracts"
+
+[[repo]]
 url = "https://github.com/router-protocol/router-smart-contract-examples"
+
+[[repo]]
+url = "https://github.com/router-protocol/router-wallet-module-react"
 
 [[repo]]
 url = "https://github.com/router-protocol/router-widget"
 
 [[repo]]
 url = "https://github.com/router-protocol/routerbridge-utils"
+
+[[repo]]
+url = "https://github.com/router-protocol/routerd-libs"
 
 [[repo]]
 url = "https://github.com/router-protocol/sdk-go"
@@ -107,6 +131,9 @@ url = "https://github.com/router-protocol/uniswap-multibridge"
 
 [[repo]]
 url = "https://github.com/router-protocol/uniswap-multibridge-contracts"
+
+[[repo]]
+url = "https://github.com/router-protocol/validator-onboard"
 
 [[repo]]
 url = "https://github.com/router-protocol/wasmd"

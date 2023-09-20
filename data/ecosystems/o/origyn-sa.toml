@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/ORIGYN-SA"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ORIGYN-SA/actor-reference"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/agent-js"
 
 [[repo]]
@@ -16,7 +19,19 @@ url = "https://github.com/ORIGYN-SA/agent-rs"
 url = "https://github.com/ORIGYN-SA/azure-sdk-for-rust"
 
 [[repo]]
+url = "https://github.com/ORIGYN-SA/CanDB"
+
+[[repo]]
+url = "https://github.com/ORIGYN-SA/candb-client-typescript"
+
+[[repo]]
+url = "https://github.com/ORIGYN-SA/candb-quickstart-template"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/candid_stringify"
+
+[[repo]]
+url = "https://github.com/ORIGYN-SA/canister-factory-client"
 
 [[repo]]
 url = "https://github.com/ORIGYN-SA/canistergeek-js"
@@ -34,10 +49,19 @@ url = "https://github.com/ORIGYN-SA/csm"
 url = "https://github.com/ORIGYN-SA/DApps"
 
 [[repo]]
+url = "https://github.com/ORIGYN-SA/droute-client"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/ethmexico"
 
 [[repo]]
+url = "https://github.com/ORIGYN-SA/events"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/extendable-token"
+
+[[repo]]
+url = "https://github.com/ORIGYN-SA/hello-candb"
 
 [[repo]]
 url = "https://github.com/ORIGYN-SA/http-parser.mo"
@@ -50,6 +74,9 @@ url = "https://github.com/ORIGYN-SA/icx-proxy"
 
 [[repo]]
 url = "https://github.com/ORIGYN-SA/identity-azure-key-vault"
+
+[[repo]]
+url = "https://github.com/ORIGYN-SA/kyc.mo"
 
 [[repo]]
 url = "https://github.com/ORIGYN-SA/large_canister_deployer"
@@ -76,6 +103,9 @@ url = "https://github.com/ORIGYN-SA/motoko_http_handler"
 url = "https://github.com/ORIGYN-SA/motoko_top_up_canister"
 
 [[repo]]
+url = "https://github.com/ORIGYN-SA/OFSL"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/og_new_hires"
 
 [[repo]]
@@ -100,13 +130,22 @@ url = "https://github.com/ORIGYN-SA/origyn_nft"
 url = "https://github.com/ORIGYN-SA/origyn_starter"
 
 [[repo]]
+url = "https://github.com/ORIGYN-SA/perpetualos-context"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/phone_book"
 
 [[repo]]
 url = "https://github.com/ORIGYN-SA/react-slot-machine-gen"
 
 [[repo]]
+url = "https://github.com/ORIGYN-SA/SayHello"
+
+[[repo]]
 url = "https://github.com/ORIGYN-SA/svelte-workshop"
+
+[[repo]]
+url = "https://github.com/ORIGYN-SA/test-transfer"
 
 [[repo]]
 url = "https://github.com/ORIGYN-SA/todos-react-native-dfinity"

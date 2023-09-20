@@ -94,6 +94,9 @@ url = "https://github.com/KyberNetwork/docker-slate"
 url = "https://github.com/KyberNetwork/dutchx-market-maker"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/elastic-go-sdk"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/elastic-subgraph"
 
 [[repo]]
@@ -101,6 +104,9 @@ url = "https://github.com/KyberNetwork/eos_smart_contracts"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/etheremon-wrapper"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ethrpc"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/evmlistener"
@@ -131,6 +137,9 @@ url = "https://github.com/KyberNetwork/go-opera"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/go-project-template"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/go-promise"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/governance-v2-subgraph"
@@ -178,6 +187,15 @@ url = "https://github.com/KyberNetwork/ks-classic-sc"
 url = "https://github.com/KyberNetwork/ks-elastic-sc"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/ks-elastic-sc-legacy"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ks-helper-sc"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ks-liquidity-mining-sc"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/ks-pool-farm-service"
 
 [[repo]]
@@ -217,6 +235,9 @@ url = "https://github.com/KyberNetwork/KyberSwap"
 url = "https://github.com/KyberNetwork/kyberswap-aggregator-sdk"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/kyberswap-dex-lib"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/kyberswap-documentation"
 
 [[repo]]
@@ -239,6 +260,9 @@ url = "https://github.com/KyberNetwork/KyberSwapElasticLM-Subgraph"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/KyberWidget"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/logger"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/openbook-spl"
@@ -343,6 +367,12 @@ url = "https://github.com/KyberNetwork/tradinglib"
 url = "https://github.com/KyberNetwork/tx-debugger"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/uint256"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/unclaimed-rewards-elastic-lm"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/uniswap-sdk-core"
 
 [[repo]]
@@ -380,6 +410,9 @@ url = "https://github.com/KyberNetwork/workshop"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/xyzswap-sdk"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/zkevm-poc-l2-contract"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/zkyber-reward-distribution"

@@ -81,6 +81,9 @@ url = "https://github.com/chainapsis/everett-hackathon"
 url = "https://github.com/chainapsis/gaia"
 
 [[repo]]
+url = "https://github.com/chainapsis/gaia-indexer"
+
+[[repo]]
 url = "https://github.com/chainapsis/GameOfZones"
 
 [[repo]]
@@ -93,16 +96,34 @@ url = "https://github.com/chainapsis/kepler-extension"
 url = "https://github.com/chainapsis/kepler-hackathon"
 
 [[repo]]
+url = "https://github.com/chainapsis/keplr-app-registry"
+
+[[repo]]
 url = "https://github.com/chainapsis/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/chainapsis/keplr-example"
 
 [[repo]]
+url = "https://github.com/chainapsis/keplr-fiat-on-off-ramp-registry"
+
+[[repo]]
+url = "https://github.com/chainapsis/keplr-liquid-staking-registry"
+
+[[repo]]
 url = "https://github.com/chainapsis/keplr-wallet"
 
 [[repo]]
+url = "https://github.com/chainapsis/live-codeing"
+
+[[repo]]
+url = "https://github.com/chainapsis/live-coding"
+
+[[repo]]
 url = "https://github.com/chainapsis/osmosis"
+
+[[repo]]
+url = "https://github.com/chainapsis/osmosis-indexer"
 
 [[repo]]
 url = "https://github.com/chainapsis/phishing-block-list"
@@ -112,6 +133,9 @@ url = "https://github.com/chainapsis/relayer"
 
 [[repo]]
 url = "https://github.com/chainapsis/SecretNetwork"
+
+[[repo]]
+url = "https://github.com/chainapsis/tendermint-indexer"
 
 [[repo]]
 url = "https://github.com/chainapsis/terra-oracle"
@@ -342,7 +366,13 @@ url = "https://github.com/cosmology-tech/cosmology-ui"
 url = "https://github.com/cosmology-tech/cosmos-kit"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/cosmos-websocket"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/cosmostation_token_resource"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cpbf"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/create-cosmos-app"
@@ -358,6 +388,9 @@ url = "https://github.com/cosmology-tech/interchain"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/interchain-lcd"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/interchain-query"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/interchain-rpc"
@@ -393,10 +426,19 @@ url = "https://github.com/cosmology-tech/quicksilverjs"
 url = "https://github.com/cosmology-tech/stargazejs"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/starship"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/starship-action"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/stridejs"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/telescope"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/telescope-module-boilerplate"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/telescope-react-query-test"
@@ -441,10 +483,25 @@ url = "https://github.com/CosmWasm/mesh-security"
 url = "https://github.com/CosmWasm/tinygo"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/assetlists"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/AssetMantle-node"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/chain-registry"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/chainlist"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/consensus"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/cosmos-exporter"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/cosmos-indexer"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/cosmos-sdk"
@@ -459,7 +516,13 @@ url = "https://github.com/DefiantLabs/cosmos-tax-cli-strangelove-deliverable"
 url = "https://github.com/DefiantLabs/cosmos-tax-cli-web"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/cosmos-tax-indexer"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/cosmosnodes"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/crescent"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/defiant-docs"
@@ -468,10 +531,16 @@ url = "https://github.com/DefiantLabs/defiant-docs"
 url = "https://github.com/DefiantLabs/defiant-swap"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/defiant-tools"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/defiant-website"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/externalPackages"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/gaia"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/gon-evidence"
@@ -486,10 +555,16 @@ url = "https://github.com/DefiantLabs/halflife"
 url = "https://github.com/DefiantLabs/horcrux"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/ibc-watch"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/ics-testnets"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/juno"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/kujira.js"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/KujiraClient"
@@ -501,6 +576,9 @@ url = "https://github.com/DefiantLabs/lens"
 url = "https://github.com/DefiantLabs/odin-core"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/odin-protocol-networks"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/oracle-price-feeder"
 
 [[repo]]
@@ -510,13 +588,31 @@ url = "https://github.com/DefiantLabs/osmosis"
 url = "https://github.com/DefiantLabs/pre-commit-golang"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/probe"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/redpointjs"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/RedpointSwap"
 
 [[repo]]
+url = "https://github.com/DefiantLabs/relayer"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/slash_refunds_tendermint"
+
+[[repo]]
 url = "https://github.com/DefiantLabs/staking-rewards"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/svc-kujira-relay"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/svc-odin"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/Team-Kujira-core"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/Team-Kujira-networks"
@@ -526,6 +622,9 @@ url = "https://github.com/DefiantLabs/terraform-aws-cosmos-node-skel"
 
 [[repo]]
 url = "https://github.com/DefiantLabs/validator-registry"
+
+[[repo]]
+url = "https://github.com/DefiantLabs/wallet-balance"
 
 [[repo]]
 url = "https://github.com/desmos-labs/desmos"
@@ -574,6 +673,9 @@ url = "https://github.com/notional-labs/address-converter"
 
 [[repo]]
 url = "https://github.com/notional-labs/akash"
+
+[[repo]]
+url = "https://github.com/notional-labs/akash-api"
 
 [[repo]]
 url = "https://github.com/notional-labs/alliance"
@@ -657,6 +759,9 @@ url = "https://github.com/notional-labs/cblurt"
 url = "https://github.com/notional-labs/ccs"
 
 [[repo]]
+url = "https://github.com/notional-labs/celestia-docs"
+
+[[repo]]
 url = "https://github.com/notional-labs/centauri"
 
 [[repo]]
@@ -699,7 +804,16 @@ url = "https://github.com/notional-labs/classic-core"
 url = "https://github.com/notional-labs/comdex"
 
 [[repo]]
+url = "https://github.com/notional-labs/cometbft"
+
+[[repo]]
 url = "https://github.com/notional-labs/cometbft-db"
+
+[[repo]]
+url = "https://github.com/notional-labs/composable-centauri"
+
+[[repo]]
+url = "https://github.com/notional-labs/composable-networks"
 
 [[repo]]
 url = "https://github.com/notional-labs/composable-testnet"
@@ -739,6 +853,9 @@ url = "https://github.com/notional-labs/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/notional-labs/cosmos-sdk-1"
+
+[[repo]]
+url = "https://github.com/notional-labs/cosmos-sdk-osmosis-fork"
 
 [[repo]]
 url = "https://github.com/notional-labs/cosmos-snapshots"
@@ -840,6 +957,9 @@ url = "https://github.com/notional-labs/ethermint"
 url = "https://github.com/notional-labs/evmos"
 
 [[repo]]
+url = "https://github.com/notional-labs/example-sei-relayer"
+
+[[repo]]
 url = "https://github.com/notional-labs/fa-chain"
 
 [[repo]]
@@ -901,6 +1021,9 @@ url = "https://github.com/notional-labs/gov"
 
 [[repo]]
 url = "https://github.com/notional-labs/governance"
+
+[[repo]]
+url = "https://github.com/notional-labs/Gravity-Bridge"
 
 [[repo]]
 url = "https://github.com/notional-labs/helpful-tools"
@@ -1006,6 +1129,9 @@ url = "https://github.com/notional-labs/kava"
 
 [[repo]]
 url = "https://github.com/notional-labs/kcptun"
+
+[[repo]]
+url = "https://github.com/notional-labs/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/notional-labs/keplr-extension"
@@ -1140,6 +1266,9 @@ url = "https://github.com/notional-labs/nft-marketplace"
 url = "https://github.com/notional-labs/noble-networks"
 
 [[repo]]
+url = "https://github.com/notional-labs/nolus-networks"
+
+[[repo]]
 url = "https://github.com/notional-labs/notional"
 
 [[repo]]
@@ -1215,7 +1344,16 @@ url = "https://github.com/notional-labs/questnet-Notional"
 url = "https://github.com/notional-labs/quicksilver"
 
 [[repo]]
+url = "https://github.com/notional-labs/realio-network"
+
+[[repo]]
+url = "https://github.com/notional-labs/red-bank"
+
+[[repo]]
 url = "https://github.com/notional-labs/regen-ledger"
+
+[[repo]]
+url = "https://github.com/notional-labs/relayer-engine"
 
 [[repo]]
 url = "https://github.com/notional-labs/relayers"
@@ -1252,6 +1390,9 @@ url = "https://github.com/notional-labs/SecretNetwork"
 
 [[repo]]
 url = "https://github.com/notional-labs/sei-chain"
+
+[[repo]]
+url = "https://github.com/notional-labs/sei-relayer-engine"
 
 [[repo]]
 url = "https://github.com/notional-labs/sei-testnet"
@@ -1410,6 +1551,12 @@ url = "https://github.com/notional-labs/websocket"
 url = "https://github.com/osmosis-labs/.github"
 
 [[repo]]
+url = "https://github.com/osmosis-labs/affiliate-swap"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/apps-list"
+
+[[repo]]
 url = "https://github.com/osmosis-labs/assetlists"
 
 [[repo]]
@@ -1438,6 +1585,9 @@ url = "https://github.com/osmosis-labs/claims"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/code-explorer"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/cometbft"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/contract-list"
@@ -1485,6 +1635,12 @@ url = "https://github.com/osmosis-labs/docker-cache-action"
 url = "https://github.com/osmosis-labs/docs"
 
 [[repo]]
+url = "https://github.com/osmosis-labs/droid"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/easyjson"
+
+[[repo]]
 url = "https://github.com/osmosis-labs/faucet"
 
 [[repo]]
@@ -1524,10 +1680,22 @@ url = "https://github.com/osmosis-labs/infrastructure"
 url = "https://github.com/osmosis-labs/ionsupply"
 
 [[repo]]
+url = "https://github.com/osmosis-labs/isotonic"
+
+[[repo]]
 url = "https://github.com/osmosis-labs/keplr-wallet"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/LocalOsmosis"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/localosmosis-archive"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/mesh-security"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/mesh-security-sdk"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/metamask-extension"
@@ -1543,6 +1711,9 @@ url = "https://github.com/osmosis-labs/osmosis"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/osmosis-bindings"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/osmosis-digitalocean-image"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/osmosis-frontend"
@@ -1569,6 +1740,9 @@ url = "https://github.com/osmosis-labs/osmosis-monitor"
 url = "https://github.com/osmosis-labs/osmosis-packer"
 
 [[repo]]
+url = "https://github.com/osmosis-labs/osmosis-proto-tool"
+
+[[repo]]
 url = "https://github.com/osmosis-labs/osmosis-rpc-healthcheck"
 
 [[repo]]
@@ -1578,10 +1752,16 @@ url = "https://github.com/osmosis-labs/osmosis-rust"
 url = "https://github.com/osmosis-labs/osmosis-transak"
 
 [[repo]]
+url = "https://github.com/osmosis-labs/osmosis-web-cli"
+
+[[repo]]
 url = "https://github.com/osmosis-labs/protobuf"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/questnet"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/rss-news"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/simple_app"
@@ -1606,6 +1786,9 @@ url = "https://github.com/osmosis-labs/terraform-digitalocean-cosmos-droplet"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/test-tube"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/testnets"
 
 [[repo]]
 url = "https://github.com/osmosis-labs/tm-db"

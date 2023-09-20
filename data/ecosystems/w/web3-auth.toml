@@ -28,7 +28,19 @@ url = "https://github.com/Web3Auth/examples"
 url = "https://github.com/Web3Auth/More-code-at-torusresearch"
 
 [[repo]]
+url = "https://github.com/Web3Auth/mpc-core-kit"
+
+[[repo]]
 url = "https://github.com/Web3Auth/openlogin-snap"
+
+[[repo]]
+url = "https://github.com/Web3Auth/session-manager-android"
+
+[[repo]]
+url = "https://github.com/Web3Auth/session-manager-swift"
+
+[[repo]]
+url = "https://github.com/Web3Auth/sign-in-with-ethereum"
 
 [[repo]]
 url = "https://github.com/Web3Auth/sign-in-with-solana"
@@ -40,7 +52,16 @@ url = "https://github.com/Web3Auth/sign-in-with-starkware"
 url = "https://github.com/Web3Auth/sign-in-with-web3"
 
 [[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-android"
+
+[[repo]]
 url = "https://github.com/Web3Auth/single-factor-auth-java"
+
+[[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-swift"
+
+[[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-web"
 
 [[repo]]
 url = "https://github.com/Web3Auth/siws-go"
@@ -104,6 +125,9 @@ url = "https://github.com/Web3Auth/web3auth-unity-example"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-unity-sdk"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-unreal-example"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-unreal-sdk"

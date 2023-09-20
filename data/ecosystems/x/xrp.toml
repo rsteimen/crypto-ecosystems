@@ -45,9 +45,6 @@ url = "https://github.com/AlexanderBuzz/Shopware6-XrplConnector"
 url = "https://github.com/AlexanderBuzz/xrpl-php"
 
 [[repo]]
-url = "https://github.com/AlexanderBuzz/xrpl-php"
-
-[[repo]]
 url = "https://github.com/AmitMirgal/cleversh"
 
 [[repo]]
@@ -156,6 +153,7 @@ url = "https://github.com/cinnapple/mini-validator-list"
 
 [[repo]]
 url = "https://github.com/cinnapple/mini-validator-list-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/cinnapple/unl-builder"
@@ -204,6 +202,7 @@ url = "https://github.com/cragr/CryptoCowboy"
 
 [[repo]]
 url = "https://github.com/crossmarkio/demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/crypticrabbit/rippled-ban-hammer"
@@ -324,6 +323,7 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/friiworld/fws"
+missing = true
 
 [[repo]]
 url = "https://github.com/GemWallet/gemwallet-extension"
@@ -420,7 +420,22 @@ url = "https://github.com/khancode/amm-dex-xrpl"
 url = "https://github.com/KU-Blockchain/xrp-docs"
 
 [[repo]]
+url = "https://github.com/lathanbritz/MultiSig"
+
+[[repo]]
+url = "https://github.com/lathanbritz/NFT-Flush"
+
+[[repo]]
+url = "https://github.com/lathanbritz/three-forex"
+
+[[repo]]
+url = "https://github.com/lathanbritz/XRP-Oracles"
+
+[[repo]]
 url = "https://github.com/lathanbritz/XRPL-Logging"
+
+[[repo]]
+url = "https://github.com/lathanbritz/XRPSwap"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-xrp"
@@ -1011,9 +1026,6 @@ tags = ["Wallet"]
 url = "https://github.com/sephynox/xrpl-rust"
 
 [[repo]]
-url = "https://github.com/sephynox/xrpl-rust"
-
-[[repo]]
 url = "https://github.com/siegfriedgrimbeek/xrp-wallet"
 
 [[repo]]
@@ -1389,12 +1401,6 @@ url = "https://github.com/xrpcafe/secret-art-website"
 url = "https://github.com/xrpcafe/xrpl-bulk-minting"
 
 [[repo]]
-url = "https://github.com/xrpcafe/xrpl-bulk-minting"
-
-[[repo]]
-url = "https://github.com/xrpcafe/xrpl-bulk-offers"
-
-[[repo]]
 url = "https://github.com/xrpcafe/xrpl-bulk-offers"
 
 [[repo]]
@@ -1459,9 +1465,6 @@ url = "https://github.com/XRPL-Labs/Xumm-Universal-SDK"
 
 [[repo]]
 url = "https://github.com/xrpl365/bpm-poc-api"
-
-[[repo]]
-url = "https://github.com/XRPLBounties"
 
 [[repo]]
 url = "https://github.com/XRPLBounties/.github"
@@ -1618,9 +1621,6 @@ url = "https://github.com/xrpsymbol/xrpsymbol.github.io"
 
 [[repo]]
 url = "https://github.com/xyield/xrpl-go"
-
-[[repo]]
-url = "https://github.com/xyield/xumm-go-client"
 
 [[repo]]
 url = "https://github.com/xyield/xumm-go-client"

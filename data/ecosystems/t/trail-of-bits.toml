@@ -88,6 +88,12 @@ url = "https://github.com/crytic/fluxture"
 url = "https://github.com/crytic/ida-evm"
 
 [[repo]]
+url = "https://github.com/crytic/medusa"
+
+[[repo]]
+url = "https://github.com/crytic/medusa-geth"
+
+[[repo]]
 url = "https://github.com/crytic/not-so-smart-contracts"
 
 [[repo]]
@@ -113,6 +119,12 @@ url = "https://github.com/crytic/slither"
 
 [[repo]]
 url = "https://github.com/crytic/slither-action"
+
+[[repo]]
+url = "https://github.com/crytic/slither-docs-action"
+
+[[repo]]
+url = "https://github.com/crytic/slither-docs-demo"
 
 [[repo]]
 url = "https://github.com/crytic/slither-vscode"
@@ -190,6 +202,9 @@ url = "https://github.com/trailofbits/attribution-vm"
 url = "https://github.com/trailofbits/audit-kubernetes"
 
 [[repo]]
+url = "https://github.com/trailofbits/awesome-ml-security"
+
+[[repo]]
 url = "https://github.com/trailofbits/binjascripts"
 
 [[repo]]
@@ -209,6 +224,9 @@ url = "https://github.com/trailofbits/btfparse"
 
 [[repo]]
 url = "https://github.com/trailofbits/cast2gif"
+
+[[repo]]
+url = "https://github.com/trailofbits/cast_checks"
 
 [[repo]]
 url = "https://github.com/trailofbits/cb-multios"
@@ -238,7 +256,13 @@ url = "https://github.com/trailofbits/clang-tidy-audit"
 url = "https://github.com/trailofbits/clash-silicon-tinytapeout"
 
 [[repo]]
+url = "https://github.com/trailofbits/Codex-Decompiler"
+
+[[repo]]
 url = "https://github.com/trailofbits/constexpr-everything"
+
+[[repo]]
+url = "https://github.com/trailofbits/cookiecutter-python"
 
 [[repo]]
 url = "https://github.com/trailofbits/crytic-demo"
@@ -379,6 +403,9 @@ url = "https://github.com/trailofbits/llvm-wedlock"
 url = "https://github.com/trailofbits/maat"
 
 [[repo]]
+url = "https://github.com/trailofbits/macroni"
+
+[[repo]]
 url = "https://github.com/trailofbits/magnifier"
 
 [[repo]]
@@ -436,6 +463,9 @@ url = "https://github.com/trailofbits/nginx-json-kss"
 url = "https://github.com/trailofbits/not-going-anywhere"
 
 [[repo]]
+url = "https://github.com/trailofbits/not-going-anywhere-revamp"
+
+[[repo]]
 url = "https://github.com/trailofbits/not-slithering-anywhere"
 
 [[repo]]
@@ -455,6 +485,9 @@ url = "https://github.com/trailofbits/on-edge"
 
 [[repo]]
 url = "https://github.com/trailofbits/onesixtyone"
+
+[[repo]]
+url = "https://github.com/trailofbits/orzo"
 
 [[repo]]
 url = "https://github.com/trailofbits/osquery"
@@ -607,6 +640,9 @@ url = "https://github.com/trailofbits/uthenticode"
 url = "https://github.com/trailofbits/vast"
 
 [[repo]]
+url = "https://github.com/trailofbits/vast-checker"
+
+[[repo]]
 url = "https://github.com/trailofbits/verilog_tools"
 
 [[repo]]
@@ -632,6 +668,12 @@ url = "https://github.com/trailofbits/windows-ctl"
 
 [[repo]]
 url = "https://github.com/trailofbits/WoSCA"
+
+[[repo]]
+url = "https://github.com/trailofbits/x509-limbo"
+
+[[repo]]
+url = "https://github.com/trailofbits/ZFuzz"
 
 [[repo]]
 url = "https://github.com/trailofbits/zkdocs"

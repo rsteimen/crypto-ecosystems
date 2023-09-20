@@ -76,6 +76,9 @@ url = "https://github.com/weichain/liquality-near-playground"
 url = "https://github.com/weichain/quanterall-motion-defi-course"
 
 [[repo]]
+url = "https://github.com/weichain/react-storefront"
+
+[[repo]]
 url = "https://github.com/weichain/routing-api-maisubnet"
 
 [[repo]]
@@ -89,6 +92,12 @@ url = "https://github.com/weichain/safe-infrastructure"
 
 [[repo]]
 url = "https://github.com/weichain/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/weichain/saleor"
+
+[[repo]]
+url = "https://github.com/weichain/saleor-dashboard"
 
 [[repo]]
 url = "https://github.com/weichain/simple-fe-task"

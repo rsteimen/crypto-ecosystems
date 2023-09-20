@@ -10,7 +10,19 @@ github_organizations = ["https://github.com/web3privacy"]
 url = "https://github.com/Msiusko/web3privacy"
 
 [[repo]]
+url = "https://github.com/web3privacy/.github"
+
+[[repo]]
+url = "https://github.com/web3privacy/events"
+
+[[repo]]
 url = "https://github.com/web3privacy/Grants"
+
+[[repo]]
+url = "https://github.com/web3privacy/lunarpunk.party"
+
+[[repo]]
+url = "https://github.com/web3privacy/w3pn-multisig"
 
 [[repo]]
 url = "https://github.com/web3privacy/w3ps"

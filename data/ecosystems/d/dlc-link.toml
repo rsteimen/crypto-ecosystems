@@ -61,10 +61,16 @@ url = "https://github.com/DLC-link/example-dlc-clarity-project"
 url = "https://github.com/DLC-link/gitbook-docs"
 
 [[repo]]
+url = "https://github.com/DLC-link/graph-api"
+
+[[repo]]
 url = "https://github.com/DLC-link/hardhat-change-network"
 
 [[repo]]
 url = "https://github.com/DLC-link/lab-javascript-advanced-algorithms"
+
+[[repo]]
+url = "https://github.com/DLC-link/mutiny-node"
 
 [[repo]]
 url = "https://github.com/DLC-link/prototype-wallet-extension"
@@ -86,6 +92,9 @@ url = "https://github.com/DLC-link/sibyls"
 
 [[repo]]
 url = "https://github.com/DLC-link/stacks-chainlink-documentation"
+
+[[repo]]
+url = "https://github.com/DLC-link/stacks-chainlink-integration"
 
 [[repo]]
 url = "https://github.com/DLC-link/stxlink-faucet"

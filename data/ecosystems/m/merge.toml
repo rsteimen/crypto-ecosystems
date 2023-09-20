@@ -31,6 +31,9 @@ url = "https://github.com/ProjectMerge/merge"
 url = "https://github.com/ProjectMerge/merge-legacy"
 
 [[repo]]
+url = "https://github.com/ProjectMerge/nsfw_sherlock"
+
+[[repo]]
 url = "https://github.com/ProjectMerge/pos-portal"
 
 [[repo]]
@@ -38,6 +41,9 @@ url = "https://github.com/ProjectMerge/Proxy-ERC20"
 
 [[repo]]
 url = "https://github.com/ProjectMerge/Rocketbot-Mobile-Wallet-app-releases"
+
+[[repo]]
+url = "https://github.com/ProjectMerge/safe-ordinals-gallery"
 
 [[repo]]
 url = "https://github.com/ProjectMerge/yiimp"

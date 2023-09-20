@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/timeless-fi"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/timeless-fi/bunni-oracle"
+
+[[repo]]
+url = "https://github.com/timeless-fi/bunni-zap"
+
+[[repo]]
+url = "https://github.com/timeless-fi/defillama-server"
+
+[[repo]]
 url = "https://github.com/timeless-fi/docs"
 
 [[repo]]
@@ -17,6 +26,9 @@ url = "https://github.com/timeless-fi/lbp"
 
 [[repo]]
 url = "https://github.com/timeless-fi/lbp-deployment"
+
+[[repo]]
+url = "https://github.com/timeless-fi/multisig-txs"
 
 [[repo]]
 url = "https://github.com/timeless-fi/options-token"
@@ -38,6 +50,9 @@ url = "https://github.com/timeless-fi/token"
 
 [[repo]]
 url = "https://github.com/timeless-fi/uniswap-poor-oracle"
+
+[[repo]]
+url = "https://github.com/timeless-fi/universal-bridge-lib"
 
 [[repo]]
 url = "https://github.com/timeless-fi/website"

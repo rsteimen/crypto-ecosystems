@@ -22,10 +22,16 @@ url = "https://github.com/dymensionxyz/dymension"
 url = "https://github.com/dymensionxyz/dymension-rdk"
 
 [[repo]]
+url = "https://github.com/dymensionxyz/dymension-relayer"
+
+[[repo]]
 url = "https://github.com/dymensionxyz/dymint"
 
 [[repo]]
 url = "https://github.com/dymensionxyz/ethermint"
+
+[[repo]]
+url = "https://github.com/dymensionxyz/go-cnc"
 
 [[repo]]
 url = "https://github.com/dymensionxyz/ibc-go"
@@ -37,10 +43,19 @@ url = "https://github.com/dymensionxyz/infrastructure"
 url = "https://github.com/dymensionxyz/local-dymension"
 
 [[repo]]
+url = "https://github.com/dymensionxyz/packet-forward-middleware"
+
+[[repo]]
 url = "https://github.com/dymensionxyz/RDK"
 
 [[repo]]
 url = "https://github.com/dymensionxyz/relayer"
+
+[[repo]]
+url = "https://github.com/dymensionxyz/rollapp-evm-swap-tokens"
+
+[[repo]]
+url = "https://github.com/dymensionxyz/roller"
 
 [[repo]]
 url = "https://github.com/dymensionxyz/rpc"

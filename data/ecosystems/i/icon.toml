@@ -45,6 +45,9 @@ url = "https://github.com/balancednetwork/balanced-network-interface"
 url = "https://github.com/balancednetwork/balanced-poc"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-rust-contracts"
+
+[[repo]]
 url = "https://github.com/balancednetwork/BIP-info-list"
 
 [[repo]]
@@ -114,6 +117,12 @@ url = "https://github.com/icon-project/btp-product"
 url = "https://github.com/icon-project/btp2"
 
 [[repo]]
+url = "https://github.com/icon-project/btp2-bsc"
+
+[[repo]]
+url = "https://github.com/icon-project/btp2-eth2"
+
+[[repo]]
 url = "https://github.com/icon-project/btp2-java"
 
 [[repo]]
@@ -141,6 +150,9 @@ url = "https://github.com/icon-project/documentation"
 url = "https://github.com/icon-project/earlgrey"
 
 [[repo]]
+url = "https://github.com/icon-project/go-eth2-client"
+
+[[repo]]
 url = "https://github.com/icon-project/gochain-local"
 
 [[repo]]
@@ -157,6 +169,12 @@ url = "https://github.com/icon-project/gradle-javaee-plugin"
 
 [[repo]]
 url = "https://github.com/icon-project/grants-program"
+
+[[repo]]
+url = "https://github.com/icon-project/IBC-Integration"
+
+[[repo]]
+url = "https://github.com/icon-project/ibc-relay"
 
 [[repo]]
 url = "https://github.com/icon-project/ico"
@@ -259,6 +277,9 @@ url = "https://github.com/icon-project/ledger-app-icx"
 
 [[repo]]
 url = "https://github.com/icon-project/LFT2"
+
+[[repo]]
+url = "https://github.com/icon-project/lodestar"
 
 [[repo]]
 url = "https://github.com/icon-project/loopchain"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/chain4travel"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/chain4travel/.github"
+
+[[repo]]
 url = "https://github.com/chain4travel/avalanche-explorer"
 
 [[repo]]
@@ -32,6 +35,9 @@ url = "https://github.com/chain4travel/camino-media-kit"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-monitoring"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-network-foundation-website"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-network-runner"
@@ -98,6 +104,9 @@ url = "https://github.com/chain4travel/caminoethvm"
 
 [[repo]]
 url = "https://github.com/chain4travel/caminogo"
+
+[[repo]]
+url = "https://github.com/chain4travel/caminogo-utils"
 
 [[repo]]
 url = "https://github.com/chain4travel/caminojs"

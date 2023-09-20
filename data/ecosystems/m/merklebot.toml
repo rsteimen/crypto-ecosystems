@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/merklebot"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/merklebot/agent"
+
+[[repo]]
 url = "https://github.com/merklebot/app.merklebot.com"
 
 [[repo]]
@@ -38,6 +41,9 @@ url = "https://github.com/merklebot/robonomics-wiki"
 
 [[repo]]
 url = "https://github.com/merklebot/spot-edu-environment"
+
+[[repo]]
+url = "https://github.com/merklebot/Spot-Lessons"
 
 [[repo]]
 url = "https://github.com/merklebot/spot.merklebot.com"

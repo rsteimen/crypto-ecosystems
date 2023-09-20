@@ -40,13 +40,22 @@ url = "https://github.com/dotbitHQ/cell-data-generator"
 url = "https://github.com/dotbitHQ/ckb-cli"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/ckb-dev-all-in-one"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/ckb-rpc"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/ckb-testtool"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/ckb-time-generator"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/ckb-time-generator-nodejs"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/ckb-time-script"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/cloudflare-workers-for-dotbit-dweb"
@@ -56,6 +65,9 @@ url = "https://github.com/dotbitHQ/da.systems"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-account-indexer"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/das-auction-contract"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-contract-reverse"
@@ -74,6 +86,9 @@ url = "https://github.com/dotbitHQ/das-hedge-coin-server"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-lib"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/das-multi-device"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-notice"
@@ -109,6 +124,9 @@ url = "https://github.com/dotbitHQ/data.did.id"
 url = "https://github.com/dotbitHQ/DBIPs"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/did-bit-spec"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/did-config"
 
 [[repo]]
@@ -133,6 +151,9 @@ url = "https://github.com/dotbitHQ/grapheme-collector"
 url = "https://github.com/dotbitHQ/identicons"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/simple-ast"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/sparse-merkle-tree"
 
 [[repo]]
@@ -143,6 +164,12 @@ url = "https://github.com/dotbitHQ/sub-account-store"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/sub-account-svr"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/unipay"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/vite-component-library-template"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/voting-system-backend"

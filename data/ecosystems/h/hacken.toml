@@ -13,6 +13,9 @@ url = "https://github.com/hknio/aurora-relayer-indexer-01be3b9"
 url = "https://github.com/hknio/Awesome-EOS-Security"
 
 [[repo]]
+url = "https://github.com/hknio/beta-por"
+
+[[repo]]
 url = "https://github.com/hknio/blockchain-common-attack-techniques"
 
 [[repo]]
@@ -25,6 +28,9 @@ url = "https://github.com/hknio/Chainlink-Oracle"
 url = "https://github.com/hknio/clusterfuzz"
 
 [[repo]]
+url = "https://github.com/hknio/Compare_Tool"
+
+[[repo]]
 url = "https://github.com/hknio/Diff_Calculator"
 
 [[repo]]
@@ -35,6 +41,9 @@ url = "https://github.com/hknio/ethereum-org-website"
 
 [[repo]]
 url = "https://github.com/hknio/goloop-havah-c38d6c76"
+
+[[repo]]
+url = "https://github.com/hknio/haas-sparkmagic"
 
 [[repo]]
 url = "https://github.com/hknio/Hacken-Oracle"
@@ -56,6 +65,9 @@ url = "https://github.com/hknio/plcu"
 
 [[repo]]
 url = "https://github.com/hknio/rca"
+
+[[repo]]
+url = "https://github.com/hknio/rocket-token"
 
 [[repo]]
 url = "https://github.com/hknio/sample_solidity_project"

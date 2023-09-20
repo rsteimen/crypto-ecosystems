@@ -52,7 +52,16 @@ url = "https://github.com/mises-id/mises-browser-core"
 url = "https://github.com/mises-id/mises-browser-kiwi"
 
 [[repo]]
+url = "https://github.com/mises-id/mises-fiat"
+
+[[repo]]
 url = "https://github.com/mises-id/mises-gw"
+
+[[repo]]
+url = "https://github.com/mises-id/mises-swap"
+
+[[repo]]
+url = "https://github.com/mises-id/mises-swapsvc"
 
 [[repo]]
 url = "https://github.com/mises-id/mises-tm"
@@ -74,6 +83,9 @@ url = "https://github.com/mises-id/react-native-sdk-bridge"
 
 [[repo]]
 url = "https://github.com/mises-id/redis"
+
+[[repo]]
+url = "https://github.com/mises-id/RemoteLogger"
 
 [[repo]]
 url = "https://github.com/mises-id/sdk"
@@ -101,6 +113,9 @@ url = "https://github.com/mises-id/src.next"
 
 [[repo]]
 url = "https://github.com/mises-id/tendermint"
+
+[[repo]]
+url = "https://github.com/mises-id/test-web3"
 
 [[repo]]
 url = "https://github.com/mises-id/tm-db"

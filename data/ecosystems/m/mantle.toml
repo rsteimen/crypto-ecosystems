@@ -1,13 +1,16 @@
 # Ecosystem Level Information
 title = "Mantle"
 
-sub_ecosystems = []
+sub_ecosystems = ["Kodadot"]
 
 github_organizations = ["https://github.com/mantlenetworkio"]
 
 # Repositories
 [[repo]]
 url = "https://github.com/mantlenetworkio/blockscout"
+
+[[repo]]
+url = "https://github.com/mantlenetworkio/blockscout-rs"
 
 [[repo]]
 url = "https://github.com/mantlenetworkio/chains"
@@ -41,6 +44,9 @@ url = "https://github.com/mantlenetworkio/mantle"
 
 [[repo]]
 url = "https://github.com/mantlenetworkio/mantle-erc20-bridge"
+
+[[repo]]
+url = "https://github.com/mantlenetworkio/mantle-example-subgraph"
 
 [[repo]]
 url = "https://github.com/mantlenetworkio/mantle-token-lists"

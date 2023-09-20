@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/sygmaprotocol"]
 url = "https://github.com/sygmaprotocol/docs"
 
 [[repo]]
+url = "https://github.com/sygmaprotocol/explorer-ui"
+
+[[repo]]
 url = "https://github.com/sygmaprotocol/setup-ipfs"
 
 [[repo]]
 url = "https://github.com/sygmaprotocol/sygma-examples"
+
+[[repo]]
+url = "https://github.com/sygmaprotocol/sygma-explorer-indexer"
 
 [[repo]]
 url = "https://github.com/sygmaprotocol/sygma-fee-oracle"

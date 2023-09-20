@@ -37,6 +37,9 @@ url = "https://github.com/AngleProtocol/angle-router"
 url = "https://github.com/AngleProtocol/angle-strategies"
 
 [[repo]]
+url = "https://github.com/AngleProtocol/angle-strategies-old"
+
+[[repo]]
 url = "https://github.com/AngleProtocol/angle-token-list"
 
 [[repo]]
@@ -73,6 +76,12 @@ url = "https://github.com/AngleProtocol/l0-bridge"
 url = "https://github.com/AngleProtocol/ledger-plugin"
 
 [[repo]]
+url = "https://github.com/AngleProtocol/merkl-contracts"
+
+[[repo]]
+url = "https://github.com/AngleProtocol/merkl-rewards"
+
+[[repo]]
 url = "https://github.com/AngleProtocol/paraswap-dex-lib"
 
 [[repo]]
@@ -92,6 +101,9 @@ url = "https://github.com/AngleProtocol/Uniswap-Incentives-Computer"
 
 [[repo]]
 url = "https://github.com/AngleProtocol/uniswap-migrator"
+
+[[repo]]
+url = "https://github.com/AngleProtocol/uniswapv3-rewards"
 
 [[repo]]
 url = "https://github.com/AngleProtocol/weekly_holder_subgraph"

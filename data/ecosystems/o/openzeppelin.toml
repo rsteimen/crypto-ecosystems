@@ -22,7 +22,13 @@ url = "https://github.com/OpenZeppelin/chai-bn"
 url = "https://github.com/OpenZeppelin/compound-assets-listing"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/compound-governance-proposal-behavior"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/compound-monitoring"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/compound-re-enable-dsr-proposal"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/configs"
@@ -227,6 +233,9 @@ url = "https://github.com/OpenZeppelin/sample-crosschain-env"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/sample-crowdsale-starter"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/sandbox-smart-contracts"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/SCSVS"

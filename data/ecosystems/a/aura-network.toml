@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/aura-nw"]
 url = "https://github.com/aura-nw/.github"
 
 [[repo]]
+url = "https://github.com/aura-nw/0xTitans"
+
+[[repo]]
 url = "https://github.com/aura-nw/account-bound-token"
 
 [[repo]]
@@ -22,6 +25,9 @@ url = "https://github.com/aura-nw/artaverse-contracts"
 url = "https://github.com/aura-nw/astro-contracts"
 
 [[repo]]
+url = "https://github.com/aura-nw/audit-report"
+
+[[repo]]
 url = "https://github.com/aura-nw/aura"
 
 [[repo]]
@@ -31,16 +37,25 @@ url = "https://github.com/aura-nw/aura-box"
 url = "https://github.com/aura-nw/aura-dapp-example"
 
 [[repo]]
+url = "https://github.com/aura-nw/aura-decorators"
+
+[[repo]]
 url = "https://github.com/aura-nw/aura-explorer-api"
 
 [[repo]]
 url = "https://github.com/aura-nw/aura-explorer-sync"
 
 [[repo]]
+url = "https://github.com/aura-nw/aura-mobile-sdk"
+
+[[repo]]
 url = "https://github.com/aura-nw/aura-news"
 
 [[repo]]
 url = "https://github.com/aura-nw/aura-nft"
+
+[[repo]]
+url = "https://github.com/aura-nw/aura-reactjs-base"
 
 [[repo]]
 url = "https://github.com/aura-nw/Aura-Safe"
@@ -55,6 +70,9 @@ url = "https://github.com/aura-nw/aura-theme"
 url = "https://github.com/aura-nw/aura-token-contract"
 
 [[repo]]
+url = "https://github.com/aura-nw/aura-ts-toolkit"
+
+[[repo]]
 url = "https://github.com/aura-nw/Aura.IDE.GUI"
 
 [[repo]]
@@ -65,6 +83,9 @@ url = "https://github.com/aura-nw/Aura.IDE.SmartContractInteraction"
 
 [[repo]]
 url = "https://github.com/aura-nw/aurajs"
+
+[[repo]]
+url = "https://github.com/aura-nw/aurajs-types"
 
 [[repo]]
 url = "https://github.com/aura-nw/aurand-bot"
@@ -79,10 +100,16 @@ url = "https://github.com/aura-nw/aurascan"
 url = "https://github.com/aura-nw/auraverse-backend"
 
 [[repo]]
+url = "https://github.com/aura-nw/box"
+
+[[repo]]
 url = "https://github.com/aura-nw/box-project"
 
 [[repo]]
 url = "https://github.com/aura-nw/canto_hackathon_chapter_1_season_5"
+
+[[repo]]
+url = "https://github.com/aura-nw/chain-registry"
 
 [[repo]]
 url = "https://github.com/aura-nw/coin98-multisend"
@@ -95,6 +122,9 @@ url = "https://github.com/aura-nw/cosmos-faucet"
 
 [[repo]]
 url = "https://github.com/aura-nw/cosmoscan-api"
+
+[[repo]]
+url = "https://github.com/aura-nw/cosmwasm"
 
 [[repo]]
 url = "https://github.com/aura-nw/cw-721-tutorials"
@@ -148,6 +178,9 @@ url = "https://github.com/aura-nw/flower-store-contract"
 url = "https://github.com/aura-nw/Forum"
 
 [[repo]]
+url = "https://github.com/aura-nw/HackWasm"
+
+[[repo]]
 url = "https://github.com/aura-nw/halo-swap"
 
 [[repo]]
@@ -155,6 +188,12 @@ url = "https://github.com/aura-nw/Horoscope"
 
 [[repo]]
 url = "https://github.com/aura-nw/horoscope-graphql"
+
+[[repo]]
+url = "https://github.com/aura-nw/ibc-proxy"
+
+[[repo]]
+url = "https://github.com/aura-nw/instantiate2-factory"
 
 [[repo]]
 url = "https://github.com/aura-nw/landing-page"
@@ -190,10 +229,25 @@ url = "https://github.com/aura-nw/safe-aura-components"
 url = "https://github.com/aura-nw/safe-react-components"
 
 [[repo]]
+url = "https://github.com/aura-nw/slips"
+
+[[repo]]
+url = "https://github.com/aura-nw/smart-account-sample"
+
+[[repo]]
+url = "https://github.com/aura-nw/SocketIOUnity"
+
+[[repo]]
+url = "https://github.com/aura-nw/test-tube"
+
+[[repo]]
 url = "https://github.com/aura-nw/testnets"
 
 [[repo]]
 url = "https://github.com/aura-nw/tmkms-light"
+
+[[repo]]
+url = "https://github.com/aura-nw/token-registry"
 
 [[repo]]
 url = "https://github.com/aura-nw/tool-deploy-peer-k8s"

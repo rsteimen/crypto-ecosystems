@@ -14,6 +14,9 @@ url = "https://github.com/interlay/api"
 tags = ["Developer Tools", "SDK"]
 
 [[repo]]
+url = "https://github.com/interlay/app-substrate-common"
+
+[[repo]]
 url = "https://github.com/interlay/apps"
 
 [[repo]]
@@ -34,6 +37,12 @@ url = "https://github.com/interlay/bots"
 [[repo]]
 url = "https://github.com/interlay/bounties"
 tags = ["Docs"]
+
+[[repo]]
+url = "https://github.com/interlay/brc-21-experiment"
+
+[[repo]]
+url = "https://github.com/interlay/brc42-experiment"
 
 [[repo]]
 url = "https://github.com/interlay/bridge"
@@ -73,6 +82,9 @@ url = "https://github.com/interlay/ecosystem"
 
 [[repo]]
 url = "https://github.com/interlay/electrs"
+
+[[repo]]
+url = "https://github.com/interlay/enKrypt"
 
 [[repo]]
 url = "https://github.com/interlay/esplora-btc-api"
@@ -129,6 +141,9 @@ url = "https://github.com/interlay/interbtc-types"
 [[repo]]
 url = "https://github.com/interlay/interbtc-ui"
 tags = ["Dapp", "DeFi"]
+
+[[repo]]
+url = "https://github.com/interlay/interbtc-ui-icons"
 
 [[repo]]
 url = "https://github.com/interlay/interlay-crowdloan-bonus-data"
@@ -200,6 +215,9 @@ url = "https://github.com/interlay/supply-info-api"
 
 [[repo]]
 url = "https://github.com/interlay/synthetics-research"
+
+[[repo]]
+url = "https://github.com/interlay/terms"
 
 [[repo]]
 url = "https://github.com/interlay/whitepapers"

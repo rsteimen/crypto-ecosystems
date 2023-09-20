@@ -16,6 +16,9 @@ url = "https://github.com/deptagency/algomart-marketplace"
 url = "https://github.com/deptagency/algomart-website"
 
 [[repo]]
+url = "https://github.com/deptagency/algorand-devcontainer"
+
+[[repo]]
 url = "https://github.com/deptagency/algorand-royalty-enforcer"
 
 [[repo]]
@@ -58,6 +61,9 @@ url = "https://github.com/deptagency/deptagency-website-net-core"
 url = "https://github.com/deptagency/discord-token-gating"
 
 [[repo]]
+url = "https://github.com/deptagency/dw2d-public"
+
+[[repo]]
 url = "https://github.com/deptagency/engineering-blog-terraform-default-tags"
 
 [[repo]]
@@ -80,6 +86,9 @@ url = "https://github.com/deptagency/octopus"
 
 [[repo]]
 url = "https://github.com/deptagency/oppy"
+
+[[repo]]
+url = "https://github.com/deptagency/sanity.io"
 
 [[repo]]
 url = "https://github.com/deptagency/snakes-on-a-chain"

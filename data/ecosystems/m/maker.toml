@@ -310,6 +310,9 @@ url = "https://github.com/makerdao/dss"
 url = "https://github.com/makerdao/dss-add-ilk-spell"
 
 [[repo]]
+url = "https://github.com/makerdao/dss-allocator"
+
+[[repo]]
 url = "https://github.com/makerdao/dss-auth-viz"
 
 [[repo]]
@@ -362,6 +365,9 @@ url = "https://github.com/makerdao/dss-exec-lib"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-exigency"
+
+[[repo]]
+url = "https://github.com/makerdao/dss-flappers"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-flash"
@@ -599,6 +605,9 @@ url = "https://github.com/makerdao/keg-dashboard"
 
 [[repo]]
 url = "https://github.com/makerdao/klab"
+
+[[repo]]
+url = "https://github.com/makerdao/line-mom"
 
 [[repo]]
 url = "https://github.com/makerdao/line-spell"
@@ -872,6 +881,9 @@ url = "https://github.com/makerdao/quantitative-analysis"
 url = "https://github.com/makerdao/redeem"
 
 [[repo]]
+url = "https://github.com/makerdao/rwa-toolkit"
+
+[[repo]]
 url = "https://github.com/makerdao/sai"
 
 [[repo]]
@@ -906,6 +918,9 @@ url = "https://github.com/makerdao/scd-cdp-portal-chinese"
 
 [[repo]]
 url = "https://github.com/makerdao/scd-mcd-migration"
+
+[[repo]]
+url = "https://github.com/makerdao/sdai"
 
 [[repo]]
 url = "https://github.com/makerdao/services-core"
@@ -1026,6 +1041,9 @@ url = "https://github.com/makerdao/token-faucet"
 
 [[repo]]
 url = "https://github.com/makerdao/token-options"
+
+[[repo]]
+url = "https://github.com/makerdao/token-tests"
 
 [[repo]]
 url = "https://github.com/makerdao/token-wrapper"

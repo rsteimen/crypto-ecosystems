@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/ethereum-push-notification-service"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ethereum-push-notification-service/.github"
+
+[[repo]]
 url = "https://github.com/ethereum-push-notification-service/app-plugin-boilerplate"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/backend-sdk-starter-code"
+
+[[repo]]
+url = "https://github.com/ethereum-push-notification-service/council-kit"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/demo-push-mobile-app"
@@ -49,10 +55,16 @@ url = "https://github.com/ethereum-push-notification-service/grants-round"
 url = "https://github.com/ethereum-push-notification-service/hats"
 
 [[repo]]
+url = "https://github.com/ethereum-push-notification-service/lenster"
+
+[[repo]]
 url = "https://github.com/ethereum-push-notification-service/PIPs"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-analytics-dashboard"
+
+[[repo]]
+url = "https://github.com/ethereum-push-notification-service/push-analytics-dashboard-1"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-analytics-dashboard-frontend-old"
@@ -100,6 +112,9 @@ url = "https://github.com/ethereum-push-notification-service/push-frontend-sdk"
 url = "https://github.com/ethereum-push-notification-service/push-frontend-sdk-staging"
 
 [[repo]]
+url = "https://github.com/ethereum-push-notification-service/push-google-bigquery"
+
+[[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-governance"
 
 [[repo]]
@@ -139,6 +154,9 @@ url = "https://github.com/ethereum-push-notification-service/push-opt-demo"
 url = "https://github.com/ethereum-push-notification-service/push-protocol"
 
 [[repo]]
+url = "https://github.com/ethereum-push-notification-service/push-protocol-snaps"
+
+[[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-sdk"
 
 [[repo]]
@@ -173,6 +191,9 @@ url = "https://github.com/ethereum-push-notification-service/push-subgraph"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-subgraph-staging"
+
+[[repo]]
+url = "https://github.com/ethereum-push-notification-service/push-swift-sdk"
 
 [[repo]]
 url = "https://github.com/ethereum-push-notification-service/push-vesting-frontend"

@@ -34,7 +34,13 @@ url = "https://github.com/UMAprotocol/community"
 url = "https://github.com/UMAprotocol/DeFi-Pulse-Adapters"
 
 [[repo]]
+url = "https://github.com/UMAprotocol/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/UMAprotocol/dev-quickstart"
+
+[[repo]]
+url = "https://github.com/UMAprotocol/dev-quickstart-oov3"
 
 [[repo]]
 url = "https://github.com/UMAprotocol/dev-tools"
@@ -68,6 +74,9 @@ url = "https://github.com/UMAprotocol/Hackathon-Prizes-"
 
 [[repo]]
 url = "https://github.com/UMAprotocol/hardhat-test"
+
+[[repo]]
+url = "https://github.com/UMAprotocol/internal-ctf"
 
 [[repo]]
 url = "https://github.com/UMAprotocol/launch-emp"
@@ -119,6 +128,9 @@ url = "https://github.com/UMAprotocol/subgraphs"
 
 [[repo]]
 url = "https://github.com/UMAprotocol/token-distribution"
+
+[[repo]]
+url = "https://github.com/UMAprotocol/tools-dapp"
 
 [[repo]]
 url = "https://github.com/UMAprotocol/truffle-ledger-provider"

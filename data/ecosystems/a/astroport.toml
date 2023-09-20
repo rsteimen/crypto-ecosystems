@@ -55,6 +55,9 @@ url = "https://github.com/astroport-fi/astroport-lbport"
 url = "https://github.com/astroport-fi/astroport-legal-docs"
 
 [[repo]]
+url = "https://github.com/astroport-fi/astroport-math"
+
+[[repo]]
 url = "https://github.com/astroport-fi/astroport-sims"
 
 [[repo]]
@@ -65,6 +68,9 @@ url = "https://github.com/astroport-fi/astroport-web-text"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport_ibc"
+
+[[repo]]
+url = "https://github.com/astroport-fi/blog"
 
 [[repo]]
 url = "https://github.com/astroport-fi/cw-bigint"

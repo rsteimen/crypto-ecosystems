@@ -128,6 +128,12 @@ url = "https://github.com/edgeware-network/dotvanity"
 url = "https://github.com/edgeware-network/edg-aura"
 
 [[repo]]
+url = "https://github.com/edgeware-network/EdgeCause"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeChat"
+
+[[repo]]
 url = "https://github.com/edgeware-network/EdgeFlow"
 
 [[repo]]
@@ -189,6 +195,9 @@ url = "https://github.com/edgeware-network/kabocha-parachain"
 
 [[repo]]
 url = "https://github.com/edgeware-network/ledger-edgeware"
+
+[[repo]]
+url = "https://github.com/edgeware-network/ledger-edgeware-new"
 
 [[repo]]
 url = "https://github.com/edgeware-network/lockdrop-data"

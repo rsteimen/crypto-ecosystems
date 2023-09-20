@@ -13,6 +13,9 @@ url = "https://github.com/MatrixLabsTech/alchemy-flow-contracts"
 url = "https://github.com/MatrixLabsTech/amethyst-v2-demo-front"
 
 [[repo]]
+url = "https://github.com/MatrixLabsTech/chainide-showcase-planetnft-bsc"
+
+[[repo]]
 url = "https://github.com/MatrixLabsTech/coc-cadence"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/MatrixLabsTech/flow-market"
 
 [[repo]]
 url = "https://github.com/MatrixLabsTech/flow-spork-info"
+
+[[repo]]
+url = "https://github.com/MatrixLabsTech/grandlinedao-protocol"
 
 [[repo]]
 url = "https://github.com/MatrixLabsTech/infamous-nft-contract"

@@ -10,10 +10,25 @@ github_organizations = ["https://github.com/Airstack-xyz"]
 url = "https://github.com/Airstack-xyz/.github"
 
 [[repo]]
+url = "https://github.com/Airstack-xyz/airstack-apis-example"
+
+[[repo]]
 url = "https://github.com/Airstack-xyz/airstack-subgraph"
 
 [[repo]]
+url = "https://github.com/Airstack-xyz/airstack-web-sdk"
+
+[[repo]]
+url = "https://github.com/Airstack-xyz/Demo"
+
+[[repo]]
 url = "https://github.com/Airstack-xyz/farcaster-subgraph"
+
+[[repo]]
+url = "https://github.com/Airstack-xyz/go-tech-assignment"
+
+[[repo]]
+url = "https://github.com/Airstack-xyz/graphiql"
 
 [[repo]]
 url = "https://github.com/Airstack-xyz/graphiql-explorer"
@@ -32,6 +47,9 @@ url = "https://github.com/Airstack-xyz/opensea-wyvern-exchange-subgraph"
 
 [[repo]]
 url = "https://github.com/Airstack-xyz/poap-subgraph"
+
+[[repo]]
+url = "https://github.com/Airstack-xyz/service-balance-snapshot"
 
 [[repo]]
 url = "https://github.com/Airstack-xyz/Subgraphs"

@@ -13,6 +13,9 @@ url = "https://github.com/hyperlane-xyz/celo-ethers-provider"
 url = "https://github.com/hyperlane-xyz/coingecko-rs"
 
 [[repo]]
+url = "https://github.com/hyperlane-xyz/config-rs"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/docs"
 
 [[repo]]
@@ -52,6 +55,9 @@ url = "https://github.com/hyperlane-xyz/hyperlane-deploy"
 url = "https://github.com/hyperlane-xyz/hyperlane-explorer"
 
 [[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-infra"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-monorepo"
 
 [[repo]]
@@ -62,6 +68,9 @@ url = "https://github.com/hyperlane-xyz/hyperlane-quickstart"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-token"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-token-fuel"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-warp-ui-template"

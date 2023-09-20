@@ -16,7 +16,13 @@ url = "https://github.com/public-awesome/advisories"
 url = "https://github.com/public-awesome/assets"
 
 [[repo]]
+url = "https://github.com/public-awesome/audits"
+
+[[repo]]
 url = "https://github.com/public-awesome/Autolinker.js"
+
+[[repo]]
+url = "https://github.com/public-awesome/badges"
 
 [[repo]]
 url = "https://github.com/public-awesome/badges-webapp"
@@ -37,6 +43,12 @@ url = "https://github.com/public-awesome/chainlist"
 url = "https://github.com/public-awesome/code-explorer"
 
 [[repo]]
+url = "https://github.com/public-awesome/constellations-book"
+
+[[repo]]
+url = "https://github.com/public-awesome/core"
+
+[[repo]]
 url = "https://github.com/public-awesome/cosmjs"
 
 [[repo]]
@@ -55,6 +67,12 @@ url = "https://github.com/public-awesome/cosmos-multisig-ui"
 url = "https://github.com/public-awesome/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/public-awesome/cosmwasm"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw-ibc-demo"
+
+[[repo]]
 url = "https://github.com/public-awesome/cw-nfts"
 
 [[repo]]
@@ -64,7 +82,16 @@ url = "https://github.com/public-awesome/cw-plus"
 url = "https://github.com/public-awesome/cw-wager"
 
 [[repo]]
+url = "https://github.com/public-awesome/cw3-fixed-multisig-dapp"
+
+[[repo]]
 url = "https://github.com/public-awesome/cw721-ibc"
+
+[[repo]]
+url = "https://github.com/public-awesome/dao-contracts"
+
+[[repo]]
+url = "https://github.com/public-awesome/dao-dao-ui"
 
 [[repo]]
 url = "https://github.com/public-awesome/daos"
@@ -100,6 +127,9 @@ url = "https://github.com/public-awesome/Gravity-Bridge"
 url = "https://github.com/public-awesome/Gravity-Docs"
 
 [[repo]]
+url = "https://github.com/public-awesome/graz"
+
+[[repo]]
 url = "https://github.com/public-awesome/ibc"
 
 [[repo]]
@@ -122,6 +152,9 @@ url = "https://github.com/public-awesome/interchain-accounts-demo"
 
 [[repo]]
 url = "https://github.com/public-awesome/ipfs-proxy"
+
+[[repo]]
+url = "https://github.com/public-awesome/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/public-awesome/keplr-extension"
@@ -154,7 +187,16 @@ url = "https://github.com/public-awesome/marketplace-proxy-demo"
 url = "https://github.com/public-awesome/modules"
 
 [[repo]]
+url = "https://github.com/public-awesome/multisig-ui"
+
+[[repo]]
 url = "https://github.com/public-awesome/names"
+
+[[repo]]
+url = "https://github.com/public-awesome/nois-contracts"
+
+[[repo]]
+url = "https://github.com/public-awesome/NoPixels-CW"
 
 [[repo]]
 url = "https://github.com/public-awesome/osmosis"
@@ -170,6 +212,9 @@ url = "https://github.com/public-awesome/pegasus"
 
 [[repo]]
 url = "https://github.com/public-awesome/pulsar-ssd1306"
+
+[[repo]]
+url = "https://github.com/public-awesome/quasar-minter-demo"
 
 [[repo]]
 url = "https://github.com/public-awesome/rs-caip"
@@ -259,7 +304,13 @@ url = "https://github.com/public-awesome/terra-spacecamp"
 url = "https://github.com/public-awesome/testnets"
 
 [[repo]]
+url = "https://github.com/public-awesome/ts-relayer"
+
+[[repo]]
 url = "https://github.com/public-awesome/wasmd"
+
+[[repo]]
+url = "https://github.com/public-awesome/wasmtester"
 
 [[repo]]
 url = "https://github.com/public-awesome/web30"

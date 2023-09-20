@@ -115,6 +115,9 @@ url = "https://github.com/HausDAO/erc-721-subgraph"
 url = "https://github.com/HausDAO/ERC20-Zap-Minion"
 
 [[repo]]
+url = "https://github.com/HausDAO/ethereum-optimism.github.io"
+
+[[repo]]
 url = "https://github.com/HausDAO/farmhaus"
 
 [[repo]]
@@ -176,6 +179,9 @@ url = "https://github.com/HausDAO/onboarder-app"
 
 [[repo]]
 url = "https://github.com/HausDAO/protocol-guild"
+
+[[repo]]
+url = "https://github.com/HausDAO/protocol-guild-contracts"
 
 [[repo]]
 url = "https://github.com/HausDAO/pubhaus"

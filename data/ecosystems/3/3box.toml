@@ -85,7 +85,13 @@ url = "https://github.com/3box/3id-resolver"
 url = "https://github.com/3box/amazon-ecs-render-task-definition"
 
 [[repo]]
+url = "https://github.com/3box/beetle"
+
+[[repo]]
 url = "https://github.com/3box/ceramic-anchor-allowlist"
+
+[[repo]]
+url = "https://github.com/3box/ceramic-http-client-rs"
 
 [[repo]]
 url = "https://github.com/3box/ceramic-infra-scripts"
@@ -95,6 +101,9 @@ url = "https://github.com/3box/ceramic-integration-tests"
 
 [[repo]]
 url = "https://github.com/3box/ceramic-stats"
+
+[[repo]]
+url = "https://github.com/3box/cloud-insights"
 
 [[repo]]
 url = "https://github.com/3box/confidential-workshop"
@@ -127,6 +136,9 @@ url = "https://github.com/3box/go-ds-s3"
 url = "https://github.com/3box/go-ipfs"
 
 [[repo]]
+url = "https://github.com/3box/goose"
+
+[[repo]]
 url = "https://github.com/3box/ipfs-fs-to-s3-datastore"
 
 [[repo]]
@@ -146,6 +158,9 @@ url = "https://github.com/3box/js-libp2p-pubsub"
 
 [[repo]]
 url = "https://github.com/3box/js-multisize-image"
+
+[[repo]]
+url = "https://github.com/3box/keramik"
 
 [[repo]]
 url = "https://github.com/3box/muport-core-js"
@@ -184,6 +199,9 @@ url = "https://github.com/3box/orbit-db-store"
 url = "https://github.com/3box/orbitdb-dagsync"
 
 [[repo]]
+url = "https://github.com/3box/otelcol"
+
+[[repo]]
 url = "https://github.com/3box/pipeline-tools"
 
 [[repo]]
@@ -191,6 +209,9 @@ url = "https://github.com/3box/plugins"
 
 [[repo]]
 url = "https://github.com/3box/profile-hover"
+
+[[repo]]
+url = "https://github.com/3box/rs-did"
 
 [[repo]]
 url = "https://github.com/3box/rust-ceramic"

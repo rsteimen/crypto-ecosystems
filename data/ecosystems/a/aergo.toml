@@ -19,6 +19,9 @@ url = "https://github.com/aergoio/aergo-ci-shared-library"
 url = "https://github.com/aergoio/aergo-connect"
 
 [[repo]]
+url = "https://github.com/aergoio/aergo-connect-3.0"
+
+[[repo]]
 url = "https://github.com/aergoio/aergo-contract-ex"
 
 [[repo]]
@@ -55,6 +58,9 @@ url = "https://github.com/aergoio/aergo-swap-frontend"
 url = "https://github.com/aergoio/aergo-timer-service"
 
 [[repo]]
+url = "https://github.com/aergoio/aergo-vote-dapp"
+
+[[repo]]
 url = "https://github.com/aergoio/aergo-web-example-project"
 
 [[repo]]
@@ -79,6 +85,9 @@ url = "https://github.com/aergoio/AergoLite.swift"
 url = "https://github.com/aergoio/aergoscan"
 
 [[repo]]
+url = "https://github.com/aergoio/aergoscan_v2"
+
+[[repo]]
 url = "https://github.com/aergoio/aergoscan_v2_api"
 
 [[repo]]
@@ -97,7 +106,13 @@ url = "https://github.com/aergoio/aips"
 url = "https://github.com/aergoio/airdrop"
 
 [[repo]]
+url = "https://github.com/aergoio/ARC1"
+
+[[repo]]
 url = "https://github.com/aergoio/ARC1-Extensions"
+
+[[repo]]
+url = "https://github.com/aergoio/ARC1-Legacy"
 
 [[repo]]
 url = "https://github.com/aergoio/ARC1Token"
@@ -131,6 +146,9 @@ url = "https://github.com/aergoio/better-sqlite3-aergolite"
 
 [[repo]]
 url = "https://github.com/aergoio/binaryen"
+
+[[repo]]
+url = "https://github.com/aergoio/bug-bounty-program"
 
 [[repo]]
 url = "https://github.com/aergoio/ecosystem"
@@ -247,6 +265,9 @@ url = "https://github.com/aergoio/merkle-bridge"
 url = "https://github.com/aergoio/merkle-bridge-dapp"
 
 [[repo]]
+url = "https://github.com/aergoio/multichain-bridge"
+
+[[repo]]
 url = "https://github.com/aergoio/openkeychain"
 
 [[repo]]
@@ -263,6 +284,9 @@ url = "https://github.com/aergoio/ship"
 
 [[repo]]
 url = "https://github.com/aergoio/SMT"
+
+[[repo]]
+url = "https://github.com/aergoio/sqlite-stored-procedures"
 
 [[repo]]
 url = "https://github.com/aergoio/state-tools"

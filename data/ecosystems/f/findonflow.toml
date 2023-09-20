@@ -3,7 +3,10 @@ title = "Findonflow"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/findonflow"]
+github_organizations = [
+  "https://github.com/findonflow",
+  "https://github.com/find-onefootball",
+]
 
 # Repositories
 [[repo]]
@@ -34,7 +37,13 @@ url = "https://github.com/findonflow/flow"
 url = "https://github.com/findonflow/flow-cli"
 
 [[repo]]
+url = "https://github.com/findonflow/flow-core-contracts"
+
+[[repo]]
 url = "https://github.com/findonflow/flow-emulator"
+
+[[repo]]
+url = "https://github.com/findonflow/Flow-EventDumper"
 
 [[repo]]
 url = "https://github.com/findonflow/flow-nft"
@@ -64,4 +73,13 @@ url = "https://github.com/findonflow/lost-and-found"
 url = "https://github.com/findonflow/nft-catalog"
 
 [[repo]]
+url = "https://github.com/findonflow/nft-storefront"
+
+[[repo]]
 url = "https://github.com/findonflow/solarpups"
+
+[[repo]]
+url = "https://github.com/findonflow/tx-lookup"
+
+[[repo]]
+url = "https://github.com/find-onefootball/onefootball-aera-tx"

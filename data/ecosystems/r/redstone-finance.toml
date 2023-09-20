@@ -25,6 +25,9 @@ url = "https://github.com/redstone-finance/arweave-uploader"
 url = "https://github.com/redstone-finance/arweave.land"
 
 [[repo]]
+url = "https://github.com/redstone-finance/avalanche-workshop"
+
+[[repo]]
 url = "https://github.com/redstone-finance/awesome-arweave"
 
 [[repo]]
@@ -61,6 +64,9 @@ url = "https://github.com/redstone-finance/community-js"
 url = "https://github.com/redstone-finance/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/redstone-finance/defillama-server"
+
+[[repo]]
 url = "https://github.com/redstone-finance/docs"
 
 [[repo]]
@@ -77,6 +83,9 @@ url = "https://github.com/redstone-finance/fantom-kyd"
 
 [[repo]]
 url = "https://github.com/redstone-finance/fetch-undici"
+
+[[repo]]
+url = "https://github.com/redstone-finance/gmx-contracts"
 
 [[repo]]
 url = "https://github.com/redstone-finance/js-client"
@@ -100,10 +109,16 @@ url = "https://github.com/redstone-finance/lens-score-validator"
 url = "https://github.com/redstone-finance/make-crypto-mobile-hackathon"
 
 [[repo]]
+url = "https://github.com/redstone-finance/minimal-foundry-repo"
+
+[[repo]]
 url = "https://github.com/redstone-finance/p.redstone.finance"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-api"
+
+[[repo]]
+url = "https://github.com/redstone-finance/redstone-api-cache"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-api-docs"
@@ -140,6 +155,18 @@ url = "https://github.com/redstone-finance/redstone-evm-connector-examples"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-evm-examples"
+
+[[repo]]
+url = "https://github.com/redstone-finance/redstone-fuel-dex"
+
+[[repo]]
+url = "https://github.com/redstone-finance/redstone-fuel-dex-tutorial"
+
+[[repo]]
+url = "https://github.com/redstone-finance/redstone-fuel-library"
+
+[[repo]]
+url = "https://github.com/redstone-finance/redstone-fuel-sdk"
 
 [[repo]]
 url = "https://github.com/redstone-finance/redstone-images"
@@ -229,6 +256,9 @@ url = "https://github.com/redstone-finance/redstone-vrf-oracle-node"
 url = "https://github.com/redstone-finance/redstone-wasm-metering"
 
 [[repo]]
+url = "https://github.com/redstone-finance/redstone-x-example"
+
+[[repo]]
 url = "https://github.com/redstone-finance/shared-github-actions"
 
 [[repo]]
@@ -263,6 +293,9 @@ url = "https://github.com/redstone-finance/web-app"
 
 [[repo]]
 url = "https://github.com/redstone-finance/website"
+
+[[repo]]
+url = "https://github.com/redstone-finance/zkSync-tutorial-stable-price-marketplace"
 
 [[repo]]
 url = "https://github.com/warp-contracts/academy"

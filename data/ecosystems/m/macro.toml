@@ -55,7 +55,16 @@ url = "https://github.com/0xMacro/erc20_lecture"
 url = "https://github.com/0xMacro/exam_processor"
 
 [[repo]]
+url = "https://github.com/0xMacro/forge-no-remappings-and-npm"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-remappings-and-npm"
+
+[[repo]]
 url = "https://github.com/0xMacro/gas-numbers-every-solidity-dev-should-know"
+
+[[repo]]
+url = "https://github.com/0xMacro/governance_lecture"
 
 [[repo]]
 url = "https://github.com/0xMacro/hardhat_testing_demo"

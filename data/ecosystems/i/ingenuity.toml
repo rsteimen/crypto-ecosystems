@@ -31,6 +31,9 @@ url = "https://github.com/ingenuity-build/cosmostation-chrome-extension"
 url = "https://github.com/ingenuity-build/evince"
 
 [[repo]]
+url = "https://github.com/ingenuity-build/faucet"
+
+[[repo]]
 url = "https://github.com/ingenuity-build/ibc-go"
 
 [[repo]]
@@ -80,6 +83,9 @@ url = "https://github.com/ingenuity-build/quicksilverjs"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/relayer"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/security-reports"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/slips"

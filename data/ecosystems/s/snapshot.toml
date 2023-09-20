@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/snapshot-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/snapshot-labs/api-checkpoint"
+
+[[repo]]
+url = "https://github.com/snapshot-labs/axiom-relayer"
+
+[[repo]]
 url = "https://github.com/snapshot-labs/blockfinder"
 
 [[repo]]
@@ -73,6 +79,9 @@ url = "https://github.com/snapshot-labs/drop"
 url = "https://github.com/snapshot-labs/envelop"
 
 [[repo]]
+url = "https://github.com/snapshot-labs/envelop-ui"
+
+[[repo]]
 url = "https://github.com/snapshot-labs/evm-slot-key-verification"
 
 [[repo]]
@@ -86,6 +95,9 @@ url = "https://github.com/snapshot-labs/guidebook"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/highlight"
+
+[[repo]]
+url = "https://github.com/snapshot-labs/keycard"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/lobby"
@@ -115,6 +127,9 @@ url = "https://github.com/snapshot-labs/portis"
 url = "https://github.com/snapshot-labs/poster-subgraph"
 
 [[repo]]
+url = "https://github.com/snapshot-labs/s.js"
+
+[[repo]]
 url = "https://github.com/snapshot-labs/score-api"
 
 [[repo]]
@@ -125,6 +140,9 @@ url = "https://github.com/snapshot-labs/snapshot-app"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/snapshot-docs"
+
+[[repo]]
+url = "https://github.com/snapshot-labs/snapshot-docs-vitepress"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/snapshot-hub"
@@ -140,6 +158,9 @@ url = "https://github.com/snapshot-labs/snapshot-relayer"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/snapshot-sequencer"
+
+[[repo]]
+url = "https://github.com/snapshot-labs/snapshot-sidekick"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/snapshot-spaces"
@@ -191,6 +212,9 @@ url = "https://github.com/snapshot-labs/sx-docs"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/sx-starknet"
+
+[[repo]]
+url = "https://github.com/snapshot-labs/sx-subgraph"
 
 [[repo]]
 url = "https://github.com/snapshot-labs/sx-ui"

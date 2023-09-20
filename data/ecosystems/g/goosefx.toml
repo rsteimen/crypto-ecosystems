@@ -16,10 +16,16 @@ url = "https://github.com/GooseFX1/ecosystem"
 url = "https://github.com/GooseFX1/gfx-launchpad-ui"
 
 [[repo]]
+url = "https://github.com/GooseFX1/gfx-perp-ts-sdk"
+
+[[repo]]
 url = "https://github.com/GooseFX1/gfx-solana-utils"
 
 [[repo]]
 url = "https://github.com/GooseFX1/gfx-ssl-sdk"
+
+[[repo]]
+url = "https://github.com/GooseFX1/gfx-stake-rewards-sdk"
 
 [[repo]]
 url = "https://github.com/GooseFX1/gfx-swap"
@@ -38,6 +44,9 @@ url = "https://github.com/GooseFX1/NestQuestWeb"
 
 [[repo]]
 url = "https://github.com/GooseFX1/openbook-ts"
+
+[[repo]]
+url = "https://github.com/GooseFX1/pyth-sdk-rs"
 
 [[repo]]
 url = "https://github.com/GooseFX1/solana-indexer"

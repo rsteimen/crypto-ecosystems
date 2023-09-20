@@ -19,6 +19,9 @@ url = "https://github.com/gitshock-labs/BNB-Chain-Smart-Contract"
 url = "https://github.com/gitshock-labs/burry"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/cartenzchain-deposit"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/chainlist"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/gitshock-labs/chains"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/coin-list"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/consensus-specs"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/consensusl-layer-withdrawal-protection"
@@ -55,6 +61,9 @@ url = "https://github.com/gitshock-labs/DEV-Android"
 url = "https://github.com/gitshock-labs/devnet-debugger"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/devnet-protodank-sharding"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/DND-Smart-Contract"
 
 [[repo]]
@@ -70,10 +79,25 @@ url = "https://github.com/gitshock-labs/ens-app"
 url = "https://github.com/gitshock-labs/ERC20R"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/erigon"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/eth-checkpoint"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/eth-netstats"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/eth-proxy-endpoint"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/eth-tools-list"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/eth2-beaconchain-explorer-app"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/ethereum-genesis"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/ethereum-kit"
@@ -83,6 +107,9 @@ url = "https://github.com/gitshock-labs/ethereum-kit-android"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/faq-kangwallet"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/frontend-configs"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/futures-dex-perp"
@@ -115,10 +142,19 @@ url = "https://github.com/gitshock-labs/gitshockevm-sdk"
 url = "https://github.com/gitshock-labs/gitshoo-scan"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/go-ethereum"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/go-jvft"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/go-tfx-evm"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/gotfx"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/gotfx-package-manager"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/gtfx-deposit-ui"
@@ -160,10 +196,16 @@ url = "https://github.com/gitshock-labs/kangwallet-guide"
 url = "https://github.com/gitshock-labs/lighthouse-client"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/lighthouse-metrics"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/merkle-airdrop-starter"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/move"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/nethermind"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/Neware-Chain"
@@ -178,6 +220,9 @@ url = "https://github.com/gitshock-labs/openedgeware-cli"
 url = "https://github.com/gitshock-labs/planet"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/Proxmox"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/prysm"
 
 [[repo]]
@@ -187,6 +232,9 @@ url = "https://github.com/gitshock-labs/smartcontract-evm"
 url = "https://github.com/gitshock-labs/smartcontract-starter"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/staking-cli"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/staking-deposit-cli"
 
 [[repo]]
@@ -194,6 +242,12 @@ url = "https://github.com/gitshock-labs/tendermint-explorer"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/terra-bridge-dex"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/testnet-automation"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/testnet-deposit-automation"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-evm-list"

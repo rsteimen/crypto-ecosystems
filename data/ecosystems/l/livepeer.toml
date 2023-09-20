@@ -31,6 +31,9 @@ url = "https://github.com/livepeer/Aptos-Playback-Policy"
 url = "https://github.com/livepeer/arbitrum-lpt-bridge"
 
 [[repo]]
+url = "https://github.com/livepeer/awesome-livepeer"
+
+[[repo]]
 url = "https://github.com/livepeer/awesome-web3-infra-service-protocols"
 
 [[repo]]
@@ -38,6 +41,9 @@ url = "https://github.com/livepeer/bot-miner-setup"
 
 [[repo]]
 url = "https://github.com/livepeer/branch-manifest-action"
+
+[[repo]]
+url = "https://github.com/livepeer/brand-kit"
 
 [[repo]]
 url = "https://github.com/livepeer/Broadcaster-Chat-App"
@@ -56,6 +62,9 @@ url = "https://github.com/livepeer/catalyst-uploader"
 
 [[repo]]
 url = "https://github.com/livepeer/cdn-log-puller"
+
+[[repo]]
+url = "https://github.com/livepeer/check-global-usage"
 
 [[repo]]
 url = "https://github.com/livepeer/cloudworker"
@@ -86,6 +95,9 @@ url = "https://github.com/livepeer/design-system"
 
 [[repo]]
 url = "https://github.com/livepeer/devenv"
+
+[[repo]]
+url = "https://github.com/livepeer/discord-message-bot"
 
 [[repo]]
 url = "https://github.com/livepeer/dl-livepeer"
@@ -172,6 +184,9 @@ url = "https://github.com/livepeer/go-PPSPP"
 url = "https://github.com/livepeer/go-tools"
 
 [[repo]]
+url = "https://github.com/livepeer/golangci-lint-bug"
+
+[[repo]]
 url = "https://github.com/livepeer/Grant-Program"
 
 [[repo]]
@@ -209,6 +224,9 @@ url = "https://github.com/livepeer/leaderboard-serverless"
 
 [[repo]]
 url = "https://github.com/livepeer/LIPs"
+
+[[repo]]
+url = "https://github.com/livepeer/livekit-meet"
 
 [[repo]]
 url = "https://github.com/livepeer/livepeer-builddeps"
@@ -328,6 +346,9 @@ url = "https://github.com/livepeer/mobile"
 url = "https://github.com/livepeer/nasm"
 
 [[repo]]
+url = "https://github.com/livepeer/obs-studio"
+
+[[repo]]
 url = "https://github.com/livepeer/orchestrator-price-api"
 
 [[repo]]
@@ -341,6 +362,9 @@ url = "https://github.com/livepeer/parity-monitor"
 
 [[repo]]
 url = "https://github.com/livepeer/Playback-Policy-Sample-App"
+
+[[repo]]
+url = "https://github.com/livepeer/playbacklog_uploader"
 
 [[repo]]
 url = "https://github.com/livepeer/player"
@@ -364,6 +388,9 @@ url = "https://github.com/livepeer/prettier-config"
 url = "https://github.com/livepeer/prob-pay"
 
 [[repo]]
+url = "https://github.com/livepeer/product-discovery-playground"
+
+[[repo]]
 url = "https://github.com/livepeer/production-success"
 
 [[repo]]
@@ -377,6 +404,9 @@ url = "https://github.com/livepeer/ProtocolEventLogger"
 
 [[repo]]
 url = "https://github.com/livepeer/research"
+
+[[repo]]
+url = "https://github.com/livepeer/rooms-demo"
 
 [[repo]]
 url = "https://github.com/livepeer/sdk"

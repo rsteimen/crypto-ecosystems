@@ -22,6 +22,9 @@ url = "https://github.com/Synthetixio/blockchain-security-contacts"
 url = "https://github.com/Synthetixio/buidler"
 
 [[repo]]
+url = "https://github.com/Synthetixio/cannon-plugin-router"
+
+[[repo]]
 url = "https://github.com/Synthetixio/codegen-graph-ts"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/Synthetixio/contract-linker"
 
 [[repo]]
 url = "https://github.com/Synthetixio/council-dilution"
+
+[[repo]]
+url = "https://github.com/Synthetixio/create-SIP-324-Passive-snx-staking-pool"
 
 [[repo]]
 url = "https://github.com/Synthetixio/dapps-common"
@@ -82,10 +88,16 @@ url = "https://github.com/Synthetixio/grants-synthetix-wrappers"
 url = "https://github.com/Synthetixio/hardhat-interact"
 
 [[repo]]
+url = "https://github.com/Synthetixio/ipfs-dash"
+
+[[repo]]
 url = "https://github.com/Synthetixio/ipfs-deploy"
 
 [[repo]]
 url = "https://github.com/Synthetixio/ipfs-follower"
+
+[[repo]]
+url = "https://github.com/Synthetixio/ipns-deploy"
 
 [[repo]]
 url = "https://github.com/Synthetixio/issues"
@@ -109,6 +121,9 @@ url = "https://github.com/Synthetixio/lambda-cloudwatch-slack"
 url = "https://github.com/Synthetixio/litepapers"
 
 [[repo]]
+url = "https://github.com/Synthetixio/lottery-market"
+
+[[repo]]
 url = "https://github.com/Synthetixio/next-optimized-images"
 
 [[repo]]
@@ -119,6 +134,9 @@ url = "https://github.com/Synthetixio/optimistic-trader"
 
 [[repo]]
 url = "https://github.com/Synthetixio/optimized-images-loader"
+
+[[repo]]
+url = "https://github.com/Synthetixio/perps-event-decoder"
 
 [[repo]]
 url = "https://github.com/Synthetixio/perps-keepers"
@@ -151,6 +169,9 @@ url = "https://github.com/Synthetixio/SIPs"
 url = "https://github.com/Synthetixio/SIPs-1"
 
 [[repo]]
+url = "https://github.com/Synthetixio/SIPs-2"
+
+[[repo]]
 url = "https://github.com/Synthetixio/SIPs-Draft"
 
 [[repo]]
@@ -179,6 +200,9 @@ url = "https://github.com/Synthetixio/snx-loan-ui"
 
 [[repo]]
 url = "https://github.com/Synthetixio/snx-migrate"
+
+[[repo]]
+url = "https://github.com/Synthetixio/snx-node"
 
 [[repo]]
 url = "https://github.com/Synthetixio/snx-partners-payout"
@@ -232,6 +256,9 @@ url = "https://github.com/Synthetixio/synthetix-data"
 url = "https://github.com/Synthetixio/synthetix-delegate"
 
 [[repo]]
+url = "https://github.com/Synthetixio/synthetix-deploy"
+
+[[repo]]
 url = "https://github.com/Synthetixio/synthetix-deployments"
 
 [[repo]]
@@ -241,6 +268,9 @@ url = "https://github.com/Synthetixio/synthetix-docs"
 url = "https://github.com/Synthetixio/synthetix-exchange"
 
 [[repo]]
+url = "https://github.com/Synthetixio/Synthetix-Gitbook-Docs"
+
+[[repo]]
 url = "https://github.com/Synthetixio/synthetix-grants"
 
 [[repo]]
@@ -248,6 +278,9 @@ url = "https://github.com/Synthetixio/synthetix-js"
 
 [[repo]]
 url = "https://github.com/Synthetixio/synthetix-mintr"
+
+[[repo]]
+url = "https://github.com/Synthetixio/synthetix-node"
 
 [[repo]]
 url = "https://github.com/Synthetixio/synthetix-pm"
@@ -322,10 +355,22 @@ url = "https://github.com/Synthetixio/utility-contracts"
 url = "https://github.com/Synthetixio/v2x-legacy-migrations"
 
 [[repo]]
+url = "https://github.com/Synthetixio/v3-abi-exporter"
+
+[[repo]]
+url = "https://github.com/Synthetixio/v3-markets-prototype"
+
+[[repo]]
 url = "https://github.com/Synthetixio/v3gm-dapp"
 
 [[repo]]
+url = "https://github.com/Synthetixio/v3ui"
+
+[[repo]]
 url = "https://github.com/Synthetixio/vanity-contract"
+
+[[repo]]
+url = "https://github.com/Synthetixio/wei"
 
 [[repo]]
 url = "https://github.com/usecannon/cannon-legacy"

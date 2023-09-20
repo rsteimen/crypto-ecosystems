@@ -16,10 +16,28 @@ url = "https://github.com/verisoul/ffmpeg-aws-lambda-layer"
 url = "https://github.com/verisoul/guild.xyz"
 
 [[repo]]
+url = "https://github.com/verisoul/native-android-sample-app"
+
+[[repo]]
+url = "https://github.com/verisoul/native-ios-sample-app"
+
+[[repo]]
+url = "https://github.com/verisoul/near-grant"
+
+[[repo]]
 url = "https://github.com/verisoul/near-hack"
+
+[[repo]]
+url = "https://github.com/verisoul/react-native-sample-app"
 
 [[repo]]
 url = "https://github.com/verisoul/verisoul-registration"
 
 [[repo]]
 url = "https://github.com/verisoul/web-sample-app"
+
+[[repo]]
+url = "https://github.com/verisoul/zardaxt"
+
+[[repo]]
+url = "https://github.com/verisoul/zerofake-sample"

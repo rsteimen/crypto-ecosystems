@@ -131,6 +131,27 @@ url = "https://github.com/caloriecoin/gitpulltest"
 url = "https://github.com/caloriecoin/gitpulltest2"
 
 [[repo]]
+url = "https://github.com/caloriecoin/image-preview-react"
+
+[[repo]]
+url = "https://github.com/caloriecoin/image-profile-upload"
+
+[[repo]]
+url = "https://github.com/caloriecoin/mern-chat-app-best"
+
+[[repo]]
+url = "https://github.com/caloriecoin/MERN-Recipe-App"
+
+[[repo]]
+url = "https://github.com/caloriecoin/MERN-Stack-Build-a-social-media-app"
+
+[[repo]]
+url = "https://github.com/caloriecoin/photo-gallery-app-yt--backend"
+
+[[repo]]
+url = "https://github.com/caloriecoin/react-modal"
+
+[[repo]]
 url = "https://github.com/caloriecoin/TeamEdu"
 
 [[repo]]
@@ -704,6 +725,9 @@ url = "https://github.com/oasisprotocol/cipher-paratime"
 url = "https://github.com/oasisprotocol/cli"
 
 [[repo]]
+url = "https://github.com/oasisprotocol/cometbft"
+
+[[repo]]
 url = "https://github.com/oasisprotocol/community"
 
 [[repo]]
@@ -711,6 +735,9 @@ url = "https://github.com/oasisprotocol/curve25519-voi"
 
 [[repo]]
 url = "https://github.com/oasisprotocol/deoxysii"
+
+[[repo]]
+url = "https://github.com/oasisprotocol/deoxysii-js"
 
 [[repo]]
 url = "https://github.com/oasisprotocol/deoxysii-rust"
@@ -804,6 +831,9 @@ url = "https://github.com/oasisprotocol/oasis-web3-gateway"
 
 [[repo]]
 url = "https://github.com/oasisprotocol/old-docs"
+
+[[repo]]
+url = "https://github.com/oasisprotocol/playground"
 
 [[repo]]
 url = "https://github.com/oasisprotocol/safeopen"

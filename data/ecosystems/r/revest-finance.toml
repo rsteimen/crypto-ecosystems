@@ -25,7 +25,13 @@ url = "https://github.com/Revest-Finance/eip1155-subgraph"
 url = "https://github.com/Revest-Finance/ethers-multicall"
 
 [[repo]]
+url = "https://github.com/Revest-Finance/FraxStakingDemo"
+
+[[repo]]
 url = "https://github.com/Revest-Finance/LiquidDriver"
+
+[[repo]]
+url = "https://github.com/Revest-Finance/railway-monorepo"
 
 [[repo]]
 url = "https://github.com/Revest-Finance/Resonate-Subgraphs"

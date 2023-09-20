@@ -103,6 +103,9 @@ url = "https://github.com/coming-chat/k8s-deploy-cli"
 url = "https://github.com/coming-chat/keyring"
 
 [[repo]]
+url = "https://github.com/coming-chat/kiosk-royalty"
+
+[[repo]]
 url = "https://github.com/coming-chat/lcs"
 
 [[repo]]
@@ -110,6 +113,9 @@ url = "https://github.com/coming-chat/light-white-paper"
 
 [[repo]]
 url = "https://github.com/coming-chat/mempool"
+
+[[repo]]
+url = "https://github.com/coming-chat/mempool-v2"
 
 [[repo]]
 url = "https://github.com/coming-chat/merlin"
@@ -136,10 +142,16 @@ url = "https://github.com/coming-chat/starcoin-go"
 url = "https://github.com/coming-chat/substrate"
 
 [[repo]]
+url = "https://github.com/coming-chat/sui-cat"
+
+[[repo]]
 url = "https://github.com/coming-chat/sui-nft"
 
 [[repo]]
 url = "https://github.com/coming-chat/sui-red-packet"
+
+[[repo]]
+url = "https://github.com/coming-chat/super-rotary-phone"
 
 [[repo]]
 url = "https://github.com/coming-chat/trust-web3-provider"

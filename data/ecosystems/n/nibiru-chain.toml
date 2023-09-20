@@ -19,6 +19,9 @@ url = "https://github.com/NibiruChain/big-dipper-2.0"
 url = "https://github.com/NibiruChain/collections"
 
 [[repo]]
+url = "https://github.com/NibiruChain/cw-nibiru"
+
+[[repo]]
 url = "https://github.com/NibiruChain/docs-nibiru"
 
 [[repo]]
@@ -28,7 +31,19 @@ url = "https://github.com/NibiruChain/explorer"
 url = "https://github.com/NibiruChain/faucet"
 
 [[repo]]
+url = "https://github.com/NibiruChain/goreleaser-sysroot"
+
+[[repo]]
+url = "https://github.com/NibiruChain/gorocksdb"
+
+[[repo]]
+url = "https://github.com/NibiruChain/grocksdb"
+
+[[repo]]
 url = "https://github.com/NibiruChain/installer"
+
+[[repo]]
+url = "https://github.com/NibiruChain/interview-questions"
 
 [[repo]]
 url = "https://github.com/NibiruChain/localnet-action"
@@ -38,6 +53,12 @@ url = "https://github.com/NibiruChain/marketing"
 
 [[repo]]
 url = "https://github.com/NibiruChain/nibiru"
+
+[[repo]]
+url = "https://github.com/NibiruChain/nibiru-wasm"
+
+[[repo]]
+url = "https://github.com/NibiruChain/nibiru_ext"
 
 [[repo]]
 url = "https://github.com/NibiruChain/pricefeeder"
@@ -50,6 +71,12 @@ url = "https://github.com/NibiruChain/sdk"
 
 [[repo]]
 url = "https://github.com/NibiruChain/sdk-proto-gen"
+
+[[repo]]
+url = "https://github.com/NibiruChain/tenderseed"
+
+[[repo]]
+url = "https://github.com/NibiruChain/tm-db"
 
 [[repo]]
 url = "https://github.com/NibiruChain/tmkms"

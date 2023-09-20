@@ -28,6 +28,9 @@ url = "https://github.com/zeropoolnetwork/eth-boston"
 url = "https://github.com/zeropoolnetwork/fawkes-crypto"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/fawkes-crypto-examples"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/ff-uint"
 
 [[repo]]
@@ -140,6 +143,12 @@ url = "https://github.com/zeropoolnetwork/zeropool-substrate-groth16-example"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-support-js"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-test-params"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-tx"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-utils"

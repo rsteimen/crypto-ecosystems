@@ -16,10 +16,16 @@ url = "https://github.com/dbpunk-labs/arrow-datafusion"
 url = "https://github.com/dbpunk-labs/assemblyscript"
 
 [[repo]]
+url = "https://github.com/dbpunk-labs/bridge-ui"
+
+[[repo]]
 url = "https://github.com/dbpunk-labs/console"
 
 [[repo]]
 url = "https://github.com/dbpunk-labs/crates"
+
+[[repo]]
+url = "https://github.com/dbpunk-labs/data-manager"
 
 [[repo]]
 url = "https://github.com/dbpunk-labs/datafusion-objectstore-s3"
@@ -68,7 +74,13 @@ url = "https://github.com/dbpunk-labs/DIPs"
 url = "https://github.com/dbpunk-labs/indexedDB_demo"
 
 [[repo]]
+url = "https://github.com/dbpunk-labs/js-bson"
+
+[[repo]]
 url = "https://github.com/dbpunk-labs/merkdb"
+
+[[repo]]
+url = "https://github.com/dbpunk-labs/message-wall"
 
 [[repo]]
 url = "https://github.com/dbpunk-labs/mysql_cdc"

@@ -37,6 +37,9 @@ url = "https://github.com/xtokenmarket/terminal-subgraph"
 url = "https://github.com/xtokenmarket/uniswap-position-manager"
 
 [[repo]]
+url = "https://github.com/xtokenmarket/uniswappr"
+
+[[repo]]
 url = "https://github.com/xtokenmarket/xaave"
 
 [[repo]]
@@ -77,3 +80,6 @@ url = "https://github.com/xtokenmarket/xtoken-stakedao"
 
 [[repo]]
 url = "https://github.com/xtokenmarket/xu3lp"
+
+[[repo]]
+url = "https://github.com/xtokenmarket/yield-server"

@@ -46,13 +46,22 @@ url = "https://github.com/FraxFinance/Foundry-Vyper"
 url = "https://github.com/FraxFinance/frax"
 
 [[repo]]
+url = "https://github.com/FraxFinance/frax-governance"
+
+[[repo]]
 url = "https://github.com/FraxFinance/frax-langs"
 
 [[repo]]
 url = "https://github.com/FraxFinance/frax-oracle"
 
 [[repo]]
+url = "https://github.com/FraxFinance/frax-oracle-old"
+
+[[repo]]
 url = "https://github.com/FraxFinance/frax-solidity"
+
+[[repo]]
+url = "https://github.com/FraxFinance/frax-standard-solidity"
 
 [[repo]]
 url = "https://github.com/FraxFinance/frax-truffle"
@@ -101,6 +110,9 @@ url = "https://github.com/FraxFinance/token-list"
 
 [[repo]]
 url = "https://github.com/FraxFinance/tokens"
+
+[[repo]]
+url = "https://github.com/FraxFinance/uni-v3-manipulation-simulator"
 
 [[repo]]
 url = "https://github.com/FraxFinance/uniswap-interface"

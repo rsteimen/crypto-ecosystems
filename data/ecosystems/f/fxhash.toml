@@ -16,6 +16,12 @@ url = "https://github.com/fxhash/fxhash-api"
 url = "https://github.com/fxhash/fxhash-boilerplate"
 
 [[repo]]
+url = "https://github.com/fxhash/fxhash-evm-contracts"
+
+[[repo]]
+url = "https://github.com/fxhash/fxhash-package"
+
+[[repo]]
 url = "https://github.com/fxhash/fxhash-simple-boilerplate"
 
 [[repo]]

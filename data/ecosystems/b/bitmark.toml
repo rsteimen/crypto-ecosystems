@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/bitmark-inc"]
 url = "https://github.com/bitmark-inc/account-vault-ethereum"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/account-vault-tezos"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/autonomy-android"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/bitmark-inc/autonomy-health"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/autonomy-health-ios"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/autonomy-logger"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/autonomy-messaging-go"
@@ -265,7 +271,13 @@ url = "https://github.com/bitmark-inc/homebrew-bitmark"
 url = "https://github.com/bitmark-inc/homebrew-tools"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/httpsign"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/icinga2-network-plugin"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/indexer-go"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/jobs"
@@ -302,6 +314,9 @@ url = "https://github.com/bitmark-inc/logger"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/logrus-prefixed-formatter"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/micheline-structure"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/miniature-spoon"
@@ -383,6 +398,9 @@ url = "https://github.com/bitmark-inc/tweetnacl-nodewrap"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/tweetnacl-swiftwrap"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/tzkt-go"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/updaterd"

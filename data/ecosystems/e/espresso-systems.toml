@@ -16,6 +16,9 @@ url = "https://github.com/EspressoSystems/async-compatibility-layer"
 url = "https://github.com/EspressoSystems/atomicstore"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/blst"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/cap"
 
 [[repo]]
@@ -38,6 +41,9 @@ url = "https://github.com/EspressoSystems/espresso-systems-common"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/HotShot"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/hotshot-primitives"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/hyperplonk"
@@ -67,10 +73,19 @@ url = "https://github.com/EspressoSystems/nix-solc-bin"
 url = "https://github.com/EspressoSystems/nll"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/nmt-rs"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/reef"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/seahorse"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/solidity-bn254"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/solidity-BN256G2"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/surf-disco"

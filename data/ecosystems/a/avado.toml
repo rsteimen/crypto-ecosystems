@@ -34,7 +34,13 @@ url = "https://github.com/AvadoDServer/AVADO-DNP-erigon"
 url = "https://github.com/AvadoDServer/AVADO-DNP-eth2-keygen"
 
 [[repo]]
+url = "https://github.com/AvadoDServer/AVADO-DNP-Ethdo"
+
+[[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-goerli"
+
+[[repo]]
+url = "https://github.com/AvadoDServer/AVADO-DNP-Grafana"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-helium-validator-testnet"
@@ -70,6 +76,12 @@ url = "https://github.com/AvadoDServer/AVADO-DNP-Nethermind"
 url = "https://github.com/AvadoDServer/AVADO-DNP-Nethermind-gnosis"
 
 [[repo]]
+url = "https://github.com/AvadoDServer/AVADO-DNP-Node-exporter"
+
+[[repo]]
+url = "https://github.com/AvadoDServer/AVADO-DNP-Obol"
+
+[[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-Openethereum"
 
 [[repo]]
@@ -83,6 +95,9 @@ url = "https://github.com/AvadoDServer/AVADO-DNP-Polkadot-node"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-Polkadot-ui"
+
+[[repo]]
+url = "https://github.com/AvadoDServer/AVADO-DNP-Prometheus"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-Prysm-beacon-chain"
@@ -119,6 +134,9 @@ url = "https://github.com/AvadoDServer/AVADO-DNP-Solana"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-SSV"
+
+[[repo]]
+url = "https://github.com/AvadoDServer/AVADO-DNP-Stader"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/AVADO-DNP-Teku"
@@ -188,3 +206,6 @@ url = "https://github.com/AvadoDServer/tornado-relayer"
 
 [[repo]]
 url = "https://github.com/AvadoDServer/webapp-demo"
+
+[[repo]]
+url = "https://github.com/AvadoDServer/workflow-test"

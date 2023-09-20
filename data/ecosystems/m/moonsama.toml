@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/moonsama"]
 url = "https://github.com/moonsama/apps"
 
 [[repo]]
+url = "https://github.com/moonsama/carnage_raffle"
+
+[[repo]]
 url = "https://github.com/moonsama/chains"
+
+[[repo]]
+url = "https://github.com/moonsama/crowdloan-paper"
 
 [[repo]]
 url = "https://github.com/moonsama/cumulus"
@@ -23,6 +29,9 @@ url = "https://github.com/moonsama/exosama-basic-node"
 
 [[repo]]
 url = "https://github.com/moonsama/exosama-chainspec"
+
+[[repo]]
+url = "https://github.com/moonsama/extension"
 
 [[repo]]
 url = "https://github.com/moonsama/frontier"
@@ -56,6 +65,9 @@ url = "https://github.com/moonsama/snapshot.js"
 
 [[repo]]
 url = "https://github.com/moonsama/solarbeam-tokenlist"
+
+[[repo]]
+url = "https://github.com/moonsama/ss58-registry"
 
 [[repo]]
 url = "https://github.com/moonsama/web3-token"

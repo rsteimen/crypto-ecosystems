@@ -25,6 +25,9 @@ url = "https://github.com/chainflip-io/chainflip-jit-amm-python"
 url = "https://github.com/chainflip-io/chainflip-reusable-workflows"
 
 [[repo]]
+url = "https://github.com/chainflip-io/chainflip-sdk-monorepo"
+
+[[repo]]
 url = "https://github.com/chainflip-io/chainflip-uniswapV3-python"
 
 [[repo]]
@@ -86,6 +89,9 @@ url = "https://github.com/chainflip-io/substrate-simnode"
 
 [[repo]]
 url = "https://github.com/chainflip-io/substrate-subxt"
+
+[[repo]]
+url = "https://github.com/chainflip-io/support"
 
 [[repo]]
 url = "https://github.com/chainflip-io/tailscale"

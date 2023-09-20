@@ -76,6 +76,9 @@ url = "https://github.com/getsafle/safle-identity-wallet"
 url = "https://github.com/getsafle/safle-keyless"
 
 [[repo]]
+url = "https://github.com/getsafle/safle-keyless-core"
+
+[[repo]]
 url = "https://github.com/getsafle/safle-keyless-js"
 
 [[repo]]
@@ -112,6 +115,9 @@ url = "https://github.com/getsafle/transaction-controller"
 url = "https://github.com/getsafle/uniswap-controller"
 
 [[repo]]
+url = "https://github.com/getsafle/vault-arbitrum-controller"
+
+[[repo]]
 url = "https://github.com/getsafle/vault-aurora-controller"
 
 [[repo]]
@@ -134,6 +140,9 @@ url = "https://github.com/getsafle/vault-harmony-controller"
 
 [[repo]]
 url = "https://github.com/getsafle/vault-near-controller"
+
+[[repo]]
+url = "https://github.com/getsafle/vault-optimism-controller"
 
 [[repo]]
 url = "https://github.com/getsafle/vault-polkadot-controller"

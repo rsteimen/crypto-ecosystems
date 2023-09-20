@@ -160,6 +160,9 @@ url = "https://github.com/webb-tools/Open-Grants-Program"
 url = "https://github.com/webb-tools/open-runtime-module-library"
 
 [[repo]]
+url = "https://github.com/webb-tools/orbit"
+
+[[repo]]
 url = "https://github.com/webb-tools/pallet-eth2-light-client"
 
 [[repo]]
@@ -185,6 +188,9 @@ url = "https://github.com/webb-tools/protocol-solana"
 
 [[repo]]
 url = "https://github.com/webb-tools/protocol-solidity"
+
+[[repo]]
+url = "https://github.com/webb-tools/protocol-solidity-extensions"
 
 [[repo]]
 url = "https://github.com/webb-tools/protocol-solidity-fixtures"
@@ -281,6 +287,9 @@ url = "https://github.com/webb-tools/webb-experiences"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-faucet"
+
+[[repo]]
+url = "https://github.com/webb-tools/webb-github-actions"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-graphql"

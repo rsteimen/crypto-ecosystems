@@ -16,6 +16,9 @@ url = "https://github.com/ourzora/auction-house"
 url = "https://github.com/ourzora/auction-houses-twitter-bot"
 
 [[repo]]
+url = "https://github.com/ourzora/chains"
+
+[[repo]]
 url = "https://github.com/ourzora/cli"
 
 [[repo]]
@@ -43,7 +46,13 @@ url = "https://github.com/ourzora/excluded-uni-airdrop-users"
 url = "https://github.com/ourzora/faucets"
 
 [[repo]]
+url = "https://github.com/ourzora/faust"
+
+[[repo]]
 url = "https://github.com/ourzora/foundry-script-examples"
+
+[[repo]]
+url = "https://github.com/ourzora/frontend-exercise-one"
 
 [[repo]]
 url = "https://github.com/ourzora/gunicorn"
@@ -97,6 +106,9 @@ url = "https://github.com/ourzora/nft-metadata"
 url = "https://github.com/ourzora/nouns-ar-glasses-ios"
 
 [[repo]]
+url = "https://github.com/ourzora/nouns-builder"
+
+[[repo]]
 url = "https://github.com/ourzora/nouns-builder-bot"
 
 [[repo]]
@@ -113,6 +125,9 @@ url = "https://github.com/ourzora/offchain"
 
 [[repo]]
 url = "https://github.com/ourzora/og-image"
+
+[[repo]]
+url = "https://github.com/ourzora/openzeppelin-contracts-upgradeable"
 
 [[repo]]
 url = "https://github.com/ourzora/pipeline_test"
@@ -148,6 +163,9 @@ url = "https://github.com/ourzora/uvicorn"
 url = "https://github.com/ourzora/v3"
 
 [[repo]]
+url = "https://github.com/ourzora/wagmi-references"
+
+[[repo]]
 url = "https://github.com/ourzora/WalletConnectSwift"
 
 [[repo]]
@@ -161,6 +179,12 @@ url = "https://github.com/ourzora/web3.swift-1"
 
 [[repo]]
 url = "https://github.com/ourzora/zdk"
+
+[[repo]]
+url = "https://github.com/ourzora/zora-1155-contracts"
+
+[[repo]]
+url = "https://github.com/ourzora/zora-crypto-list"
 
 [[repo]]
 url = "https://github.com/ourzora/zora-docs"

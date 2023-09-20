@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/cardstack"]
 url = "https://github.com/cardstack/boxel"
 
 [[repo]]
+url = "https://github.com/cardstack/boxel-archive-2021"
+
+[[repo]]
 url = "https://github.com/cardstack/boxel-motion"
 
 [[repo]]
@@ -79,6 +82,9 @@ url = "https://github.com/cardstack/docker-chrome"
 url = "https://github.com/cardstack/ember-cli-deploy-cardstack-eb"
 
 [[repo]]
+url = "https://github.com/cardstack/ember-cli-deploy-compress"
+
+[[repo]]
 url = "https://github.com/cardstack/ember-data-fastboot"
 
 [[repo]]
@@ -109,6 +115,9 @@ url = "https://github.com/cardstack/gitchain"
 url = "https://github.com/cardstack/githereum"
 
 [[repo]]
+url = "https://github.com/cardstack/glimmer-scoped-css"
+
+[[repo]]
 url = "https://github.com/cardstack/guidemaker-cardstack-template"
 
 [[repo]]
@@ -128,6 +137,12 @@ url = "https://github.com/cardstack/merklelib"
 
 [[repo]]
 url = "https://github.com/cardstack/MyCrypto"
+
+[[repo]]
+url = "https://github.com/cardstack/nft-membership"
+
+[[repo]]
+url = "https://github.com/cardstack/nft-membership-nyu"
 
 [[repo]]
 url = "https://github.com/cardstack/nyu-carbon"

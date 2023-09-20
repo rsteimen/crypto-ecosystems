@@ -97,6 +97,9 @@ url = "https://github.com/torusresearch/eccrypto"
 url = "https://github.com/torusresearch/efficient-tss"
 
 [[repo]]
+url = "https://github.com/torusresearch/elliptic"
+
+[[repo]]
 url = "https://github.com/torusresearch/elliptic-curves"
 
 [[repo]]
@@ -257,6 +260,9 @@ url = "https://github.com/torusresearch/metamask-snaps-beta"
 
 [[repo]]
 url = "https://github.com/torusresearch/metaplex"
+
+[[repo]]
+url = "https://github.com/torusresearch/MP-SPDZ"
 
 [[repo]]
 url = "https://github.com/torusresearch/mpc-example"
@@ -424,6 +430,12 @@ url = "https://github.com/torusresearch/thorchain-tss"
 url = "https://github.com/torusresearch/tkey-react-native-example"
 
 [[repo]]
+url = "https://github.com/torusresearch/tkey-rust-android"
+
+[[repo]]
+url = "https://github.com/torusresearch/tkey-rust-android-example"
+
+[[repo]]
 url = "https://github.com/torusresearch/tkey-rust-ios"
 
 [[repo]]
@@ -455,6 +467,9 @@ url = "https://github.com/torusresearch/torus-documentation"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-e2e-tests"
+
+[[repo]]
+url = "https://github.com/torusresearch/torus-ed25519key-swift"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-embed"

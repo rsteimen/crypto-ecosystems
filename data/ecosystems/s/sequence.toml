@@ -13,6 +13,9 @@ url = "https://github.com/0xsequence/collectible-lists"
 url = "https://github.com/0xsequence/contracts-boilerplate"
 
 [[repo]]
+url = "https://github.com/0xsequence/contracts-library"
+
+[[repo]]
 url = "https://github.com/0xsequence/create3"
 
 [[repo]]
@@ -25,6 +28,9 @@ url = "https://github.com/0xsequence/demo-dapp-rainbowkit"
 url = "https://github.com/0xsequence/demo-dapp-wagmi"
 
 [[repo]]
+url = "https://github.com/0xsequence/demo-dapp-wagmi-next"
+
+[[repo]]
 url = "https://github.com/0xsequence/demo-dapp-web3-onboard"
 
 [[repo]]
@@ -32,6 +38,9 @@ url = "https://github.com/0xsequence/demo-dapp-web3-react"
 
 [[repo]]
 url = "https://github.com/0xsequence/demo-dapp-web3modal"
+
+[[repo]]
+url = "https://github.com/0xsequence/demo-sequence-drop"
 
 [[repo]]
 url = "https://github.com/0xsequence/demo-unreal-game"
@@ -59,6 +68,9 @@ url = "https://github.com/0xsequence/ethkit"
 
 [[repo]]
 url = "https://github.com/0xsequence/go-ethauth"
+
+[[repo]]
+url = "https://github.com/0xsequence/go-opensea"
 
 [[repo]]
 url = "https://github.com/0xsequence/go-sequence"

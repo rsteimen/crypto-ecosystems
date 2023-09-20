@@ -73,10 +73,16 @@ url = "https://github.com/Holo-Host/dummy-dna"
 url = "https://github.com/Holo-Host/dummy-ui"
 
 [[repo]]
+url = "https://github.com/Holo-Host/EIP-712"
+
+[[repo]]
 url = "https://github.com/Holo-Host/el-chat-qa"
 
 [[repo]]
 url = "https://github.com/Holo-Host/happ-template"
+
+[[repo]]
+url = "https://github.com/Holo-Host/hc-multiplexer"
 
 [[repo]]
 url = "https://github.com/Holo-Host/hc-react-redux-framework"
@@ -191,6 +197,9 @@ url = "https://github.com/Holo-Host/holofuel-model"
 
 [[repo]]
 url = "https://github.com/Holo-Host/holofuel-python"
+
+[[repo]]
+url = "https://github.com/Holo-Host/holofuel-service-crates"
 
 [[repo]]
 url = "https://github.com/Holo-Host/holofuel-ui"

@@ -2931,15 +2931,18 @@ url = "https://github.com/earthdao/EarthRare"
 
 [[repo]]
 url = "https://github.com/earthdao/rosetta-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/earthdao/SDR"
 
 [[repo]]
 url = "https://github.com/earthdao/tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/earthdao/Untraceable-Token"
+missing = true
 
 [[repo]]
 url = "https://github.com/earthdao/XDR"
@@ -3293,9 +3296,6 @@ url = "https://github.com/forbole/betanet"
 url = "https://github.com/forbole/big-dipper"
 
 [[repo]]
-url = "https://github.com/forbole/big-dipper"
-
-[[repo]]
 url = "https://github.com/forbole/big-dipper-2.0-cosmos"
 
 [[repo]]
@@ -3588,9 +3588,6 @@ url = "https://github.com/forbole/uglifyjs2"
 
 [[repo]]
 url = "https://github.com/forbole/UI-UX"
-
-[[repo]]
-url = "https://github.com/forbole/UIUX"
 
 [[repo]]
 url = "https://github.com/forbole/UIUX"
@@ -4488,6 +4485,7 @@ url = "https://github.com/HAECHI-LABS/face-unity-sdk"
 
 [[repo]]
 url = "https://github.com/HAECHI-LABS/foundry-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/HAECHI-LABS/FrommCarToken"
@@ -5628,6 +5626,7 @@ url = "https://github.com/OneKeyHQ/docs"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/documents"
+missing = true
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/documents_archived"
@@ -6276,6 +6275,7 @@ url = "https://github.com/PayvoHQ/vite-sdk-test"
 
 [[repo]]
 url = "https://github.com/PayvoHQ/wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/PayvoHQ/wallet-plugins"
@@ -7461,12 +7461,6 @@ url = "https://github.com/Zecrey-Labs/react-native-nfc"
 
 [[repo]]
 url = "https://github.com/Zecrey-Labs/react-native-secure-random"
-
-[[repo]]
-url = "https://github.com/Zecrey-Labs/react-native-secure-random"
-
-[[repo]]
-url = "https://github.com/Zecrey-Labs/react-native-securerandom"
 
 [[repo]]
 url = "https://github.com/Zecrey-Labs/react-native-securerandom"

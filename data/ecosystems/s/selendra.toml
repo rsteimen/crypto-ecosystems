@@ -55,6 +55,9 @@ url = "https://github.com/selendra/bitriel-web"
 url = "https://github.com/selendra/biz"
 
 [[repo]]
+url = "https://github.com/selendra/brand-assets"
+
+[[repo]]
 url = "https://github.com/selendra/bridge"
 
 [[repo]]
@@ -71,6 +74,12 @@ url = "https://github.com/selendra/CATEd"
 
 [[repo]]
 url = "https://github.com/selendra/contract-registry"
+
+[[repo]]
+url = "https://github.com/selendra/contracts-ui"
+
+[[repo]]
+url = "https://github.com/selendra/create-selendra-app"
 
 [[repo]]
 url = "https://github.com/selendra/customer-loyalty"
@@ -104,6 +113,9 @@ url = "https://github.com/selendra/explorer"
 
 [[repo]]
 url = "https://github.com/selendra/faucet"
+
+[[repo]]
+url = "https://github.com/selendra/forest"
 
 [[repo]]
 url = "https://github.com/selendra/frontier"
@@ -175,6 +187,9 @@ url = "https://github.com/selendra/referral-program-backend"
 url = "https://github.com/selendra/referral-program-dashboard"
 
 [[repo]]
+url = "https://github.com/selendra/seagame_crew"
+
+[[repo]]
 url = "https://github.com/selendra/sel-explorer"
 
 [[repo]]
@@ -236,6 +251,12 @@ url = "https://github.com/selendra/selendra-portal"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-scan"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-signer"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-staking-dashboard"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-subquery"

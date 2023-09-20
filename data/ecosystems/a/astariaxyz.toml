@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/AstariaXYZ"]
 url = "https://github.com/AstariaXYZ/astaria-core"
 
 [[repo]]
+url = "https://github.com/AstariaXYZ/astaria-dto"
+
+[[repo]]
 url = "https://github.com/AstariaXYZ/astaria-gpl"
 
 [[repo]]
 url = "https://github.com/AstariaXYZ/astaria-sdk"
+
+[[repo]]
+url = "https://github.com/AstariaXYZ/foundry-toolchain"
 
 [[repo]]
 url = "https://github.com/AstariaXYZ/slither-action"

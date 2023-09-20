@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/ceramicnetwork", "https://github.com
 url = "https://github.com/3box/wreckingball"
 
 [[repo]]
+url = "https://github.com/ceramicnetwork/.github"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/awesome"
 
 [[repo]]
@@ -37,7 +40,13 @@ url = "https://github.com/ceramicnetwork/ceramic-anchor-service"
 url = "https://github.com/ceramicnetwork/CIP"
 
 [[repo]]
+url = "https://github.com/ceramicnetwork/CIPs"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/clayground"
+
+[[repo]]
+url = "https://github.com/ceramicnetwork/codeco"
 
 [[repo]]
 url = "https://github.com/ceramicnetwork/did-jwt"
@@ -124,6 +133,9 @@ url = "https://github.com/ceramicnetwork/key-did-provider-ed25519"
 url = "https://github.com/ceramicnetwork/key-did-provider-secp256k1"
 
 [[repo]]
+url = "https://github.com/ceramicnetwork/kubo"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/namespaces"
 
 [[repo]]
@@ -154,6 +166,9 @@ url = "https://github.com/ceramicnetwork/tipsync-poc"
 url = "https://github.com/ceramicstudio/3id-connect-management"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/aragon-workshop"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/awesome-services"
 
 [[repo]]
@@ -166,7 +181,13 @@ url = "https://github.com/ceramicstudio/ceramic-explorer"
 url = "https://github.com/ceramicstudio/ceramic-infra-poc"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/ceramic-infra-scripts"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/ceramic-starter"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/ceramic-workshop"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/create-ceramic-app"
@@ -182,6 +203,9 @@ url = "https://github.com/ceramicstudio/dynamic-nft-example"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/ethdenver-workshop"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/EthDenver2023Demo"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/glaze-demo-app"
@@ -241,6 +265,9 @@ url = "https://github.com/ceramicstudio/safe-did-resolver"
 url = "https://github.com/ceramicstudio/self.id"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/simpledeploy"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/tutorial-getting-started-with-ceramic"
 
 [[repo]]
@@ -251,6 +278,9 @@ url = "https://github.com/ceramicstudio/web-playground"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/welcome"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/wheel"
 
 [[repo]]
 url = "https://github.com/SKS-PH/haven-protocol"

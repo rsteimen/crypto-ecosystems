@@ -16,6 +16,9 @@ url = "https://github.com/cowprotocol/autodeploy-action"
 url = "https://github.com/cowprotocol/cla"
 
 [[repo]]
+url = "https://github.com/cowprotocol/cms"
+
+[[repo]]
 url = "https://github.com/cowprotocol/conditional-smart-orders"
 
 [[repo]]
@@ -46,10 +49,16 @@ url = "https://github.com/cowprotocol/cow-runner-game"
 url = "https://github.com/cowprotocol/cow-sdk"
 
 [[repo]]
+url = "https://github.com/cowprotocol/cow-web-services"
+
+[[repo]]
 url = "https://github.com/cowprotocol/cowiness"
 
 [[repo]]
 url = "https://github.com/cowprotocol/cowswap"
+
+[[repo]]
+url = "https://github.com/cowprotocol/cowswap-banner"
 
 [[repo]]
 url = "https://github.com/cowprotocol/cowswap-e2e"
@@ -59,6 +68,9 @@ url = "https://github.com/cowprotocol/custom-order-ui"
 
 [[repo]]
 url = "https://github.com/cowprotocol/data-misc"
+
+[[repo]]
+url = "https://github.com/cowprotocol/dev-geth"
 
 [[repo]]
 url = "https://github.com/cowprotocol/dexag-benchmark"
@@ -91,6 +103,9 @@ url = "https://github.com/cowprotocol/dune-sync"
 url = "https://github.com/cowprotocol/ebbo"
 
 [[repo]]
+url = "https://github.com/cowprotocol/ethcontract-rs"
+
+[[repo]]
 url = "https://github.com/cowprotocol/ethflowcontract"
 
 [[repo]]
@@ -113,6 +128,9 @@ url = "https://github.com/cowprotocol/k8s-autodeploy"
 
 [[repo]]
 url = "https://github.com/cowprotocol/manual-ethflow-refunder"
+
+[[repo]]
+url = "https://github.com/cowprotocol/mevblocker-dune"
 
 [[repo]]
 url = "https://github.com/cowprotocol/milkman-bot"
@@ -166,6 +184,9 @@ url = "https://github.com/cowprotocol/swap-widget"
 url = "https://github.com/cowprotocol/team-cow-allocation"
 
 [[repo]]
+url = "https://github.com/cowprotocol/testing-token"
+
+[[repo]]
 url = "https://github.com/cowprotocol/token"
 
 [[repo]]
@@ -185,9 +206,6 @@ url = "https://github.com/cowprotocol/ts-dune-client"
 
 [[repo]]
 url = "https://github.com/cowprotocol/univ3-api"
-
-[[repo]]
-url = "https://github.com/cowprotocol/uptime"
 
 [[repo]]
 url = "https://github.com/cowprotocol/validator-utils"

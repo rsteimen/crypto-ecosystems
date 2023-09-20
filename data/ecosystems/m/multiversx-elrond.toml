@@ -1,7 +1,16 @@
 # Ecosystem Level Information
 title = "MultiversX (Elrond)"
 
-sub_ecosystems = ["AshSwap", "Cantina Royale", "Itheum", "Landboard", "PeerMeHQ"]
+sub_ecosystems = [
+  "Arda",
+  "AshSwap",
+  "AwesomePurpleHackers",
+  "Cantina Royale",
+  "Itheum",
+  "Landboard",
+  "PeerMeHQ",
+  "VortxFinance",
+]
 
 github_organizations = ["https://github.com/ElrondNetwork", "https://github.com/multiversx"]
 
@@ -10,13 +19,22 @@ github_organizations = ["https://github.com/ElrondNetwork", "https://github.com/
 url = "https://github.com/4nc3str4l/Kusari-Analytics"
 
 [[repo]]
+url = "https://github.com/acolyte-xyz/elrond_gateway"
+
+[[repo]]
 url = "https://github.com/acolyte-xyz/elrond_sdk"
+
+[[repo]]
+url = "https://github.com/acolyte-xyz/multiversx_sdk"
+
+[[repo]]
+url = "https://github.com/adrianlari/the-bucharest-hackathon"
 
 [[repo]]
 url = "https://github.com/andrei-diaconescu/MyRepo"
 
 [[repo]]
-url = "https://github.com/Angry-Penguins-Colony/elrond-rust-utilities"
+url = "https://github.com/andreigiura/ngx-sdk-dapp"
 
 [[repo]]
 url = "https://github.com/Angry-Penguins-Colony/elrond-rust-utilities"
@@ -46,9 +64,6 @@ url = "https://github.com/babatonha/elrondTestSC"
 url = "https://github.com/bicarus-labs/elrond-sdk-erdrs"
 
 [[repo]]
-url = "https://github.com/bicarus-labs/elrond-sdk-erdrs"
-
-[[repo]]
 url = "https://github.com/bogdan-marian/le-workspace"
 
 [[repo]]
@@ -67,6 +82,9 @@ url = "https://github.com/borispoehland/elven-tools-dapp-with-auth"
 url = "https://github.com/buidly/sc-xmodules-rs"
 
 [[repo]]
+url = "https://github.com/Catenscia/MxOps"
+
+[[repo]]
 url = "https://github.com/chainofindustry/MultiversXUnityTools"
 
 [[repo]]
@@ -79,10 +97,10 @@ url = "https://github.com/CoinDrip-finance/coindrip-docs"
 url = "https://github.com/CoinDrip-finance/coindrip-protocol-sc"
 
 [[repo]]
-url = "https://github.com/coldiary/fellowship"
+url = "https://github.com/CoinDrip-finance/vesto-sc"
 
 [[repo]]
-url = "https://github.com/Combased/elrond-lkmex-distribution"
+url = "https://github.com/coldiary/fellowship"
 
 [[repo]]
 url = "https://github.com/Combased/elrond-lkmex-distribution"
@@ -94,13 +112,16 @@ url = "https://github.com/covalenthq/bsp-agent"
 url = "https://github.com/crldev-software/elrond-spring-boot-starter-reactive"
 
 [[repo]]
-url = "https://github.com/crldev-software/elrond-spring-boot-starter-reactive"
-
-[[repo]]
 url = "https://github.com/crox-safe/elrond-index"
 
 [[repo]]
 url = "https://github.com/crustio/crust-apps"
+
+[[repo]]
+url = "https://github.com/cyberdeckstudios/WalletConnectV2_Demo"
+
+[[repo]]
+url = "https://github.com/damienen/reputation-system"
 
 [[repo]]
 url = "https://github.com/defralcoding/xBulk"
@@ -113,6 +134,9 @@ url = "https://github.com/disruptivedigital/dd-netdata-install-erdapi"
 
 [[repo]]
 url = "https://github.com/drdelphi/ElrondPrestaker"
+
+[[repo]]
+url = "https://github.com/drdelphi/EsdtBingo"
 
 [[repo]]
 url = "https://github.com/eddyariki/nft-pixels"
@@ -133,22 +157,10 @@ url = "https://github.com/Ejhfast/elrond-rust"
 url = "https://github.com/Elrond-Giants/erd-next-starter"
 
 [[repo]]
-url = "https://github.com/Elrond-Giants/erd-next-starter"
-
-[[repo]]
-url = "https://github.com/Elrond-Giants/erd-react-hooks"
-
-[[repo]]
 url = "https://github.com/Elrond-Giants/erd-react-hooks"
 
 [[repo]]
 url = "https://github.com/Elrond-Giants/erdjs-auth"
-
-[[repo]]
-url = "https://github.com/Elrond-Giants/erdjs-auth"
-
-[[repo]]
-url = "https://github.com/Elrond-Giants/giants-nftim-minting-dapp"
 
 [[repo]]
 url = "https://github.com/Elrond-Giants/giants-nftim-minting-dapp"
@@ -157,7 +169,7 @@ url = "https://github.com/Elrond-Giants/giants-nftim-minting-dapp"
 url = "https://github.com/ElrondDevGuild/elrond-dev-scrolls"
 
 [[repo]]
-url = "https://github.com/elrondex/elrondex"
+url = "https://github.com/ElrondDevGuild/elrond-dev-hub"
 
 [[repo]]
 url = "https://github.com/elrondex/elrondex"
@@ -295,19 +307,10 @@ url = "https://github.com/ElrondNetwork/web3.js"
 url = "https://github.com/ElvenTools/elven-nft-minter-sc"
 
 [[repo]]
-url = "https://github.com/ElvenTools/elven-nft-minter-sc"
-
-[[repo]]
-url = "https://github.com/ElvenTools/elven-tools-cli"
-
-[[repo]]
 url = "https://github.com/ElvenTools/elven-tools-cli"
 
 [[repo]]
 url = "https://github.com/ElvenTools/elven-tools-collection-owners-csv"
-
-[[repo]]
-url = "https://github.com/eNftMemes/memes-sc"
 
 [[repo]]
 url = "https://github.com/eNftMemes/memes-sc"
@@ -322,7 +325,7 @@ url = "https://github.com/erdDEVcode/react-transaction-toasts"
 url = "https://github.com/erwanvivien/discord_eGLD"
 
 [[repo]]
-url = "https://github.com/erwanvivien/discord_eGLD"
+url = "https://github.com/esdt-space/mx-dapp-template"
 
 [[repo]]
 url = "https://github.com/estargames/assets"
@@ -427,9 +430,6 @@ url = "https://github.com/janniksam/elrond-tradeoffer"
 url = "https://github.com/jasonwartell/esdt-operations"
 
 [[repo]]
-url = "https://github.com/jasonwartell/esdt-operations"
-
-[[repo]]
 url = "https://github.com/jimmylies/archillect-dapp"
 
 [[repo]]
@@ -452,12 +452,6 @@ url = "https://github.com/juliancwirko/elrond-simple-sc-frontend-app"
 
 [[repo]]
 url = "https://github.com/juliancwirko/elven-mint"
-
-[[repo]]
-url = "https://github.com/juliancwirko/elven.js"
-
-[[repo]]
-url = "https://github.com/juliancwirko/elven.js"
 
 [[repo]]
 url = "https://github.com/juliancwirko/elven.js"
@@ -493,9 +487,6 @@ url = "https://github.com/landboard-io/landboard-node-stake-sc"
 url = "https://github.com/landboard-io/landboard-presale-v2"
 
 [[repo]]
-url = "https://github.com/landboard-io/landboard-presale-v2"
-
-[[repo]]
 url = "https://github.com/landboard-io/landboard-staking-sc"
 
 [[repo]]
@@ -526,7 +517,19 @@ url = "https://github.com/mascalucian/pricealert-elrond"
 url = "https://github.com/matsuro-hadouken/starter-dapp"
 
 [[repo]]
+url = "https://github.com/mihaicalinluca/bucharest-hackaton"
+
+[[repo]]
+url = "https://github.com/MihaiCherechesu/opensource-bounty"
+
+[[repo]]
 url = "https://github.com/miohtama/rosetta-chain"
+
+[[repo]]
+url = "https://github.com/mnaji42/hackathon2023"
+
+[[repo]]
+url = "https://github.com/Moonlorian/vesting-dapp"
 
 [[repo]]
 url = "https://github.com/mr-staker/elrond-cookbook"
@@ -705,6 +708,7 @@ url = "https://github.com/multiversx/mx-chain-rosetta-checks"
 
 [[repo]]
 url = "https://github.com/multiversx/mx-chain-rosetta-ci"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/mx-chain-rosetta-docker"
@@ -729,6 +733,7 @@ url = "https://github.com/multiversx/mx-chain-storage-go"
 
 [[repo]]
 url = "https://github.com/multiversx/mx-chain-system-tests-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/mx-chain-testnet-config"
@@ -789,6 +794,7 @@ url = "https://github.com/multiversx/mx-deprecated-hw-app"
 
 [[repo]]
 url = "https://github.com/multiversx/mx-deprecated-mx-chain-scripts-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/mx-deprecated-node-prototype"
@@ -875,6 +881,9 @@ url = "https://github.com/multiversx/mx-nft-marketplace-sc"
 url = "https://github.com/multiversx/mx-nft-service"
 
 [[repo]]
+url = "https://github.com/multiversx/mx-nft-verify-dapp"
+
+[[repo]]
 url = "https://github.com/multiversx/mx-oracles-go"
 
 [[repo]]
@@ -915,9 +924,6 @@ url = "https://github.com/multiversx/mx-sdk-csharp"
 
 [[repo]]
 url = "https://github.com/multiversx/mx-sdk-dapp"
-
-[[repo]]
-url = "https://github.com/multiversx/mx-sdk-epoch-watcher"
 
 [[repo]]
 url = "https://github.com/multiversx/mx-sdk-epoch-watcher"
@@ -1056,6 +1062,7 @@ url = "https://github.com/multiversx/mx-template-vscode-devcontainer-for-sc"
 
 [[repo]]
 url = "https://github.com/multiversx/mx-utils-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/mx-vm-executor-rs"
@@ -1065,6 +1072,7 @@ url = "https://github.com/multiversx/mx-vm-iele"
 
 [[repo]]
 url = "https://github.com/multiversx/nestjs-microservice"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/nestjs-redis"
@@ -1086,12 +1094,14 @@ url = "https://github.com/multiversx/pywebassembly"
 
 [[repo]]
 url = "https://github.com/multiversx/react-native-keychain"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/runtimeverification-solidity"
 
 [[repo]]
 url = "https://github.com/multiversx/sc-bridge-ethereum-sol-backup"
+missing = true
 
 [[repo]]
 url = "https://github.com/multiversx/signalapp-libsignal"
@@ -1196,16 +1206,10 @@ url = "https://github.com/ReneDuris/Shuffle_NFT_game-Elrond_Network"
 url = "https://github.com/ReneDuris/Utils-erdjs"
 
 [[repo]]
-url = "https://github.com/ReneDuris/Utils-erdjs"
-
-[[repo]]
 url = "https://github.com/Rock-n-Block/ArtCPA-frontend"
 
 [[repo]]
 url = "https://github.com/rstancioiu/elrond-voting"
-
-[[repo]]
-url = "https://github.com/S4F-IT/maiar-integration"
 
 [[repo]]
 url = "https://github.com/S4F-IT/maiar-integration"
@@ -1238,16 +1242,19 @@ url = "https://github.com/SkyzoxRobin/sc-presale-rs"
 url = "https://github.com/SkyzoxRobin/sc-split-rs"
 
 [[repo]]
-url = "https://github.com/stephaneLeroy/vue-erdjs"
+url = "https://github.com/stakingagency/sa-mx-sdk-go"
+
+[[repo]]
+url = "https://github.com/stephaneLeroy/mx-xportalhub-chrome"
 
 [[repo]]
 url = "https://github.com/stephaneLeroy/vue-erdjs"
+
+[[repo]]
+url = "https://github.com/stephaneLeroy/vue-mvx"
 
 [[repo]]
 url = "https://github.com/Superciety/assets"
-
-[[repo]]
-url = "https://github.com/Superciety/distribution-sc"
 
 [[repo]]
 url = "https://github.com/Superciety/distribution-sc"
@@ -1283,22 +1290,16 @@ url = "https://github.com/thefabric-io/elrond-transaction-processor"
 url = "https://github.com/Theo-Farnole/elrond-explorer-enhanced"
 
 [[repo]]
-url = "https://github.com/Theo-Farnole/elrond-explorer-enhanced"
-
-[[repo]]
 url = "https://github.com/Theo-Farnole/elrond-mandos-builder"
-
-[[repo]]
-url = "https://github.com/Theo-Farnole/elrond-mandos-builder"
-
-[[repo]]
-url = "https://github.com/therealmasterj/egld-nft-whitelist-mint-merkle-tree"
 
 [[repo]]
 url = "https://github.com/therealmasterj/egld-nft-whitelist-mint-merkle-tree"
 
 [[repo]]
 url = "https://github.com/therealmasterj/maiar-compounder-bot"
+
+[[repo]]
+url = "https://github.com/validblocks/xSafe"
 
 [[repo]]
 url = "https://github.com/ValidWorks/validworks-contract"
@@ -1320,6 +1321,9 @@ url = "https://github.com/VehickNetwork/vehick-module"
 
 [[repo]]
 url = "https://github.com/VehickNetwork/vehick-smartcontract"
+
+[[repo]]
+url = "https://github.com/wdcurry/mvxConsole"
 
 [[repo]]
 url = "https://github.com/wdcurry/mxConsole"
@@ -1370,6 +1374,9 @@ url = "https://github.com/xdevguild/nextjs-dapp-template-tw"
 url = "https://github.com/xdevguild/sc-multi-sender-rs"
 
 [[repo]]
+url = "https://github.com/xm1k3/mxga"
+
+[[repo]]
 url = "https://github.com/yum0e/basic-vault"
 
 [[repo]]
@@ -1380,3 +1387,50 @@ url = "https://github.com/yum0e/my-simple-explanations"
 
 [[repo]]
 url = "https://github.com/zdenal/elrond-amm"
+
+[[repo]]
+url = "https://github.com/multiversx/mx-multi-factor-auth-go-service"
+
+[[repo]]
+url = "https://github.com/SkullElf/ABI2API"
+[[repo]]
+url = "https://github.com/ReneDuris/mx-dapp-template"
+
+[[repo]]
+url = "https://github.com/ReneDuris/coindrip-protocol-sc"
+
+[[repo]]
+url = "https://github.com/ReneDuris/mx-assets"
+
+[[repo]]
+url = "https://github.com/horizonnlabs/sc-gnogen-gng-mining-rs"
+
+[[repo]]
+url = "https://github.com/NiftyWell/vue-erdjs"
+
+[[repo]]
+url = "https://github.com/NiftyWell/elrond-sdk-erdjs-network-providers"
+
+[[repo]]
+url = "https://github.com/NiftyWell/assets"
+
+[[repo]]
+url = "https://github.com/NiftyWell/nifty-maze"
+
+[[repo]]
+url = "https://github.com/SkullElf/ABIExtractor"
+
+[[repo]]
+url = "https://github.com/VortX-DAO/mx-template-service"
+
+[[repo]]
+url = "https://github.com/VortX-DAO/mx-template-indexer"
+
+[[repo]]
+url = "https://github.com/VortX-DAO/mxbi"
+
+[[repo]]
+url = "https://github.com/runtimeverification/elrond-multisig"
+
+[[repo]]
+url = "https://github.com/runtimeverification/elrond-semantics"

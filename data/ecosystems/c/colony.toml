@@ -34,7 +34,16 @@ url = "https://github.com/JoinColony/budgetBox"
 url = "https://github.com/JoinColony/bulma-scss"
 
 [[repo]]
+url = "https://github.com/JoinColony/cc"
+
+[[repo]]
+url = "https://github.com/JoinColony/cdapp-data-collector"
+
+[[repo]]
 url = "https://github.com/JoinColony/chewie"
+
+[[repo]]
+url = "https://github.com/JoinColony/clooney"
 
 [[repo]]
 url = "https://github.com/JoinColony/codemod-proptypes-to-flow"
@@ -85,6 +94,9 @@ url = "https://github.com/JoinColony/colonyDiscord"
 url = "https://github.com/JoinColony/ColonyEventMetadataParser"
 
 [[repo]]
+url = "https://github.com/JoinColony/ColonyFrontEndLivingStandard"
+
+[[repo]]
 url = "https://github.com/JoinColony/colonyHackathon"
 
 [[repo]]
@@ -113,6 +125,9 @@ url = "https://github.com/JoinColony/colonySubgraph"
 
 [[repo]]
 url = "https://github.com/JoinColony/colonyToken"
+
+[[repo]]
+url = "https://github.com/JoinColony/consent-banner"
 
 [[repo]]
 url = "https://github.com/JoinColony/consulate"

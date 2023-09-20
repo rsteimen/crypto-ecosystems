@@ -19,6 +19,9 @@ url = "https://github.com/ParasHQ/giveaway-app"
 url = "https://github.com/ParasHQ/giveaway-contract"
 
 [[repo]]
+url = "https://github.com/ParasHQ/ink-nft-freemint"
+
+[[repo]]
 url = "https://github.com/ParasHQ/manual-approval"
 
 [[repo]]
@@ -38,6 +41,18 @@ url = "https://github.com/ParasHQ/paras-comic-frontend"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-indexer-worker"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-marketplace"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-nft-freemint-contract"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-nft-launchpad-contract"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-nft-refundable-contract"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-landing"
@@ -68,6 +83,9 @@ url = "https://github.com/ParasHQ/paras-vesting-contract"
 
 [[repo]]
 url = "https://github.com/ParasHQ/parashq.github.io"
+
+[[repo]]
+url = "https://github.com/ParasHQ/Summer-HackaDOT-2023"
 
 [[repo]]
 url = "https://github.com/ParasHQ/team-website"

@@ -16,7 +16,13 @@ url = "https://github.com/clixpesa/build-with-celo-hackathon"
 url = "https://github.com/clixpesa/celo-monorepo"
 
 [[repo]]
+url = "https://github.com/clixpesa/clixpesa-mvp"
+
+[[repo]]
 url = "https://github.com/clixpesa/clixpesa-website"
+
+[[repo]]
+url = "https://github.com/clixpesa/consensus-2023-web3athon"
 
 [[repo]]
 url = "https://github.com/clixpesa/gotham-city"
@@ -28,10 +34,16 @@ url = "https://github.com/clixpesa/identity"
 url = "https://github.com/clixpesa/kms-secp256k1"
 
 [[repo]]
+url = "https://github.com/clixpesa/NativeBase"
+
+[[repo]]
 url = "https://github.com/clixpesa/react-celo"
 
 [[repo]]
 url = "https://github.com/clixpesa/spaces-composed"
+
+[[repo]]
+url = "https://github.com/clixpesa/tatum-kms"
 
 [[repo]]
 url = "https://github.com/clixpesa/two-party-ecdsa"

@@ -100,6 +100,9 @@ url = "https://github.com/tronprotocol/mpc"
 url = "https://github.com/tronprotocol/multi-party-ecdsa"
 
 [[repo]]
+url = "https://github.com/tronprotocol/my-uniswap-v2-core"
+
+[[repo]]
 url = "https://github.com/tronprotocol/OSSRH-87363"
 
 [[repo]]
@@ -143,9 +146,6 @@ url = "https://github.com/tronprotocol/tron-blog"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-blog-zh"
-
-[[repo]]
-url = "https://github.com/tronprotocol/tron-box"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tron-box"
@@ -212,9 +212,6 @@ url = "https://github.com/tronprotocol/Tronj"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tronwallet-adapter"
-
-[[repo]]
-url = "https://github.com/tronprotocol/tronweb"
 
 [[repo]]
 url = "https://github.com/tronprotocol/tronweb"

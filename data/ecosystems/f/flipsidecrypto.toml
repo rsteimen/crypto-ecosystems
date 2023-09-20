@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/FlipsideCrypto"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/FlipsideCrypto/admin-models"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/airdrop_churn"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/FlipsideCrypto/analytics-workflow-templates"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/arbitrum-models"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/aurora-models"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/avalanche-models"
@@ -88,6 +94,9 @@ url = "https://github.com/FlipsideCrypto/ethscore"
 url = "https://github.com/FlipsideCrypto/ethusdc-retroactive"
 
 [[repo]]
+url = "https://github.com/FlipsideCrypto/evmos-models"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/external-models"
 
 [[repo]]
@@ -110,6 +119,9 @@ url = "https://github.com/FlipsideCrypto/flow-models-temp"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/fly-pr-review-apps"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/fsc-utils"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/gitbook"
@@ -149,6 +161,9 @@ url = "https://github.com/FlipsideCrypto/multicall.py"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/near-models"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/near-models-archive"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/nft-deal-score"
@@ -193,6 +208,9 @@ url = "https://github.com/FlipsideCrypto/RMarkdown-template"
 url = "https://github.com/FlipsideCrypto/sdk"
 
 [[repo]]
+url = "https://github.com/FlipsideCrypto/sei-models"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/shiny_template"
 
 [[repo]]
@@ -205,6 +223,12 @@ url = "https://github.com/FlipsideCrypto/solana-models"
 url = "https://github.com/FlipsideCrypto/sql_models"
 
 [[repo]]
+url = "https://github.com/FlipsideCrypto/terra-models"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/terra-models-temp"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/terra-multisend"
 
 [[repo]]
@@ -212,6 +236,9 @@ url = "https://github.com/FlipsideCrypto/terraform-aws-eks"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-aws-eks-cluster"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/terraform-aws-lambda-function"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-github-actions"
@@ -245,3 +272,6 @@ url = "https://github.com/FlipsideCrypto/user_metrics"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/web3.py"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/xyz-models"

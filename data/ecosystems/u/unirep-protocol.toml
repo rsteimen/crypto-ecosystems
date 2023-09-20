@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/Unirep"]
 url = "https://github.com/Unirep/.github"
 
 [[repo]]
+url = "https://github.com/Unirep/ark-circom"
+
+[[repo]]
+url = "https://github.com/Unirep/auth"
+
+[[repo]]
 url = "https://github.com/Unirep/circuits"
 
 [[repo]]
@@ -22,6 +28,9 @@ url = "https://github.com/Unirep/create-unirep-app"
 url = "https://github.com/Unirep/crypto"
 
 [[repo]]
+url = "https://github.com/Unirep/devops"
+
+[[repo]]
 url = "https://github.com/Unirep/docs"
 
 [[repo]]
@@ -32,6 +41,9 @@ url = "https://github.com/Unirep/explorer"
 
 [[repo]]
 url = "https://github.com/Unirep/presentation"
+
+[[repo]]
+url = "https://github.com/Unirep/trusted-setup"
 
 [[repo]]
 url = "https://github.com/Unirep/Unirep"

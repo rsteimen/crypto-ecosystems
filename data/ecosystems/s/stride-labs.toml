@@ -55,6 +55,9 @@ url = "https://github.com/Stride-Labs/dimension-adapters"
 url = "https://github.com/Stride-Labs/evmos"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/evmosjs"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/explorer"
 
 [[repo]]
@@ -106,6 +109,9 @@ url = "https://github.com/Stride-Labs/lens-fork"
 url = "https://github.com/Stride-Labs/liquidity-staking-module"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/liquidity-staking-module-1"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/mainnet"
 
 [[repo]]
@@ -116,6 +122,9 @@ url = "https://github.com/Stride-Labs/osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/relayer"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/station-assets"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/stride"

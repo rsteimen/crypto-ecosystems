@@ -73,6 +73,9 @@ url = "https://github.com/telosnetwork/amm-evm-example"
 url = "https://github.com/telosnetwork/api-p2p-nodes"
 
 [[repo]]
+url = "https://github.com/telosnetwork/api-telos-net"
+
+[[repo]]
 url = "https://github.com/telosnetwork/app-telos-native"
 
 [[repo]]
@@ -89,6 +92,12 @@ url = "https://github.com/telosnetwork/awesome-telos"
 
 [[repo]]
 url = "https://github.com/telosnetwork/awesome-telos-hub"
+
+[[repo]]
+url = "https://github.com/telosnetwork/bp-auditor"
+
+[[repo]]
+url = "https://github.com/telosnetwork/chains"
 
 [[repo]]
 url = "https://github.com/telosnetwork/compromised-accounts"
@@ -130,6 +139,9 @@ url = "https://github.com/telosnetwork/evm-rpc-list"
 url = "https://github.com/telosnetwork/evm-simple-storage-demo"
 
 [[repo]]
+url = "https://github.com/telosnetwork/evm-tests"
+
+[[repo]]
 url = "https://github.com/telosnetwork/evm-ui-template"
 
 [[repo]]
@@ -137,6 +149,9 @@ url = "https://github.com/telosnetwork/evm-ui-template-examples"
 
 [[repo]]
 url = "https://github.com/telosnetwork/evmcannon"
+
+[[repo]]
+url = "https://github.com/telosnetwork/evmcannon-java"
 
 [[repo]]
 url = "https://github.com/telosnetwork/evmdeposit"
@@ -154,6 +169,9 @@ url = "https://github.com/telosnetwork/HackBoston_Dapp_ideas"
 url = "https://github.com/telosnetwork/hyperion-explorer-plugin"
 
 [[repo]]
+url = "https://github.com/telosnetwork/hyperion-telos-evm-plugin"
+
+[[repo]]
 url = "https://github.com/telosnetwork/images"
 
 [[repo]]
@@ -164,6 +182,9 @@ url = "https://github.com/telosnetwork/jira-test"
 
 [[repo]]
 url = "https://github.com/telosnetwork/landdao-contracts"
+
+[[repo]]
+url = "https://github.com/telosnetwork/leap"
 
 [[repo]]
 url = "https://github.com/telosnetwork/ledger-app-telos"
@@ -194,6 +215,9 @@ url = "https://github.com/telosnetwork/obe-indexer"
 
 [[repo]]
 url = "https://github.com/telosnetwork/open-block-explorer"
+
+[[repo]]
+url = "https://github.com/telosnetwork/optracer-tools"
 
 [[repo]]
 url = "https://github.com/telosnetwork/Qtest"
@@ -277,6 +301,12 @@ url = "https://github.com/telosnetwork/telos-docs"
 url = "https://github.com/telosnetwork/telos-escrow"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telos-evm-docker"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-evm-rpc"
+
+[[repo]]
 url = "https://github.com/telosnetwork/telos-graphql"
 
 [[repo]]
@@ -349,6 +379,9 @@ url = "https://github.com/telosnetwork/telosevm-es-indexer"
 url = "https://github.com/telosnetwork/telosevm-js"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telosevm-translator"
+
+[[repo]]
 url = "https://github.com/telosnetwork/tips"
 
 [[repo]]
@@ -359,6 +392,9 @@ url = "https://github.com/telosnetwork/tokenfactory"
 
 [[repo]]
 url = "https://github.com/telosnetwork/tokenmanager"
+
+[[repo]]
+url = "https://github.com/telosnetwork/topic0"
 
 [[repo]]
 url = "https://github.com/telosnetwork/tradefortlos"

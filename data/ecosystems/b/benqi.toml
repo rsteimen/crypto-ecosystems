@@ -31,7 +31,13 @@ url = "https://github.com/Benqi-fi/joe-tokenlists"
 url = "https://github.com/Benqi-fi/keystone-smart-contract-netadata-registry"
 
 [[repo]]
+url = "https://github.com/Benqi-fi/metastable-rate-providers"
+
+[[repo]]
 url = "https://github.com/Benqi-fi/terra-money-assets"
 
 [[repo]]
 url = "https://github.com/Benqi-fi/token-terminal-smart-contract-registry"
+
+[[repo]]
+url = "https://github.com/Benqi-fi/trustwallet-assets"

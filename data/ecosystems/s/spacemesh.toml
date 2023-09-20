@@ -22,6 +22,9 @@ url = "https://github.com/spacemeshos/api"
 url = "https://github.com/spacemeshos/app"
 
 [[repo]]
+url = "https://github.com/spacemeshos/app-spacemesh"
+
+[[repo]]
 url = "https://github.com/spacemeshos/automesh"
 
 [[repo]]
@@ -73,6 +76,12 @@ url = "https://github.com/spacemeshos/ed25519-recovery"
 url = "https://github.com/spacemeshos/ed25519-WASM"
 
 [[repo]]
+url = "https://github.com/spacemeshos/ed25519_bip32"
+
+[[repo]]
+url = "https://github.com/spacemeshos/ed25519_bip32_wasm"
+
+[[repo]]
 url = "https://github.com/spacemeshos/electron-devtools-installer"
 
 [[repo]]
@@ -103,6 +112,9 @@ url = "https://github.com/spacemeshos/go-ext-wasm"
 url = "https://github.com/spacemeshos/go-ledger-sdk"
 
 [[repo]]
+url = "https://github.com/spacemeshos/go-libp2p-asn-util"
+
+[[repo]]
 url = "https://github.com/spacemeshos/go-scale"
 
 [[repo]]
@@ -128,6 +140,9 @@ url = "https://github.com/spacemeshos/gpost"
 
 [[repo]]
 url = "https://github.com/spacemeshos/gpu-post"
+
+[[repo]]
+url = "https://github.com/spacemeshos/hare2-simulator"
 
 [[repo]]
 url = "https://github.com/spacemeshos/incubator-milagro-crypto"
@@ -226,6 +241,15 @@ url = "https://github.com/spacemeshos/python-spacemesh"
 url = "https://github.com/spacemeshos/quipu-specs"
 
 [[repo]]
+url = "https://github.com/spacemeshos/RandomX"
+
+[[repo]]
+url = "https://github.com/spacemeshos/randomx-rs"
+
+[[repo]]
+url = "https://github.com/spacemeshos/remote-wallet"
+
+[[repo]]
 url = "https://github.com/spacemeshos/research"
 
 [[repo]]
@@ -262,6 +286,9 @@ url = "https://github.com/spacemeshos/smcli"
 url = "https://github.com/spacemeshos/SMIPS"
 
 [[repo]]
+url = "https://github.com/spacemeshos/smkeys"
+
+[[repo]]
 url = "https://github.com/spacemeshos/smops"
 
 [[repo]]
@@ -275,6 +302,9 @@ url = "https://github.com/spacemeshos/smWallet"
 
 [[repo]]
 url = "https://github.com/spacemeshos/spacemesh-rs"
+
+[[repo]]
+url = "https://github.com/spacemeshos/spacemesh-sdk"
 
 [[repo]]
 url = "https://github.com/spacemeshos/spacemesh-watch"
